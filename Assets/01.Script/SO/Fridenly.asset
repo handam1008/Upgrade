@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f39acf541678437288a89867ebd25530, type: 3}
+  m_Name: Fridenly
+  m_EditorClassIdentifier: Assembly-CSharp::Fridenly
+  squarePrefab: {fileID: 331965679690402687, guid: 85ee902b48e825b4c86f2361dd6fc8b8, type: 3}
+  squareName: "\uCE5C\uC808 \uB124\uBAA8"
+  upgradePrice: 50
+  sellCoin: 160
+  upgradePercent: 80

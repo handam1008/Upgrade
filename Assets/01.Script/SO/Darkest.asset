@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9374aff54e1d47ba84940f002f307f4b, type: 3}
+  m_Name: Darkest
+  m_EditorClassIdentifier: Assembly-CSharp::Darkest
+  squarePrefab: {fileID: 7995688056552645754, guid: cc9dab4d19fae274ca346831abdb6c69, type: 3}
+  squareName: "\uB2E4\uD0A4\uC2A4\uD2B8 \uB124\uBAA8"
+  upgradePrice: 80
+  sellCoin: 1280
+  upgradePercent: 65

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daff16b1d67b4dc0800aa2b4b3b60069, type: 3}
+  m_Name: UnderWorld
+  m_EditorClassIdentifier: Assembly-CSharp::UnderWorld
+  squarePrefab: {fileID: 5403272857686248, guid: cf3d9d2e0c01b3744a7707d4ca868556, type: 3}
+  squareName: "\uC5B8\uB354\uC6D4\uB4DC \uB124\uBAA8"
+  upgradePrice: 90
+  sellCoin: 2560
+  upgradePercent: 60
