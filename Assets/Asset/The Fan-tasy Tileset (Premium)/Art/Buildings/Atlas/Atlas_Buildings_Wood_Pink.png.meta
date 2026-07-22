@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 160c6fc05c0fc624ba09d09522a512e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -143856615914305539
+    second: Atlas_Buildings_Wood_Pink_0
+  - first:
+      213: -8450249397437533876
+    second: Atlas_Buildings_Wood_Pink_1
+  - first:
+      213: 7807640353382685282
+    second: Atlas_Buildings_Wood_Pink_2
+  - first:
+      213: 6787154552093425321
+    second: Atlas_Buildings_Wood_Pink_3
+  - first:
+      213: 972240526127875103
+    second: Atlas_Buildings_Wood_Pink_4
+  - first:
+      213: -5355870385500197648
+    second: Atlas_Buildings_Wood_Pink_5
+  - first:
+      213: -8813268102943002965
+    second: Atlas_Buildings_Wood_Pink_6
+  - first:
+      213: 4431182561027589894
+    second: Atlas_Buildings_Wood_Pink_7
+  - first:
+      213: -3351635104013495142
+    second: Atlas_Buildings_Wood_Pink_8
+  - first:
+      213: 5943344998465077626
+    second: Atlas_Buildings_Wood_Pink_9
+  - first:
+      213: 2641238392617925202
+    second: Atlas_Buildings_Wood_Pink_10
+  - first:
+      213: -4145749912866607708
+    second: Atlas_Buildings_Wood_Pink_11
+  - first:
+      213: 7354779492287776885
+    second: Atlas_Buildings_Wood_Pink_12
+  - first:
+      213: -7756709753932734020
+    second: Atlas_Buildings_Wood_Pink_13
+  - first:
+      213: -6221980122296206999
+    second: Atlas_Buildings_Wood_Pink_14
+  - first:
+      213: -2266819563640319281
+    second: Atlas_Buildings_Wood_Pink_15
+  - first:
+      213: -1738272361665455326
+    second: Atlas_Buildings_Wood_Pink_16
+  - first:
+      213: -346781291659415922
+    second: Atlas_Buildings_Wood_Pink_17
+  - first:
+      213: 3626861499607747340
+    second: Atlas_Buildings_Wood_Pink_18
+  - first:
+      213: 1618016819887582933
+    second: Atlas_Buildings_Wood_Pink_19
+  - first:
+      213: -3955810047222646750
+    second: Atlas_Buildings_Wood_Pink_20
+  - first:
+      213: -6007256735297902182
+    second: Atlas_Buildings_Wood_Pink_21
+  - first:
+      213: -7893398074986614173
+    second: Atlas_Buildings_Wood_Pink_22
+  - first:
+      213: 6857721089157139430
+    second: Atlas_Buildings_Wood_Pink_23
+  - first:
+      213: -550611947754665670
+    second: Atlas_Buildings_Wood_Pink_24
+  - first:
+      213: 6755621150655857828
+    second: Atlas_Buildings_Wood_Pink_25
+  - first:
+      213: -4156562133941781411
+    second: Atlas_Buildings_Wood_Pink_26
+  - first:
+      213: -5380076504580564254
+    second: Atlas_Buildings_Wood_Pink_27
+  - first:
+      213: 6976549579998908381
+    second: Atlas_Buildings_Wood_Pink_28
+  - first:
+      213: 5675904397460124182
+    second: Atlas_Buildings_Wood_Pink_29
+  - first:
+      213: 3959888311154096810
+    second: Atlas_Buildings_Wood_Pink_30
+  - first:
+      213: -1897348198773600477
+    second: Atlas_Buildings_Wood_Pink_31
+  - first:
+      213: 8172848913518367293
+    second: Atlas_Buildings_Wood_Pink_32
+  - first:
+      213: 5175512169545503560
+    second: Atlas_Buildings_Wood_Pink_33
+  - first:
+      213: 8189394458488635497
+    second: Atlas_Buildings_Wood_Pink_34
+  - first:
+      213: -923436320219398488
+    second: Atlas_Buildings_Wood_Pink_35
+  - first:
+      213: -4952695783862685041
+    second: Atlas_Buildings_Wood_Pink_36
+  - first:
+      213: -6029168303346104681
+    second: Atlas_Buildings_Wood_Pink_37
+  - first:
+      213: 7787359533456368759
+    second: Atlas_Buildings_Wood_Pink_38
+  - first:
+      213: 6807739746468828751
+    second: Atlas_Buildings_Wood_Pink_39
+  - first:
+      213: 638820448007823154
+    second: Atlas_Buildings_Wood_Pink_40
+  - first:
+      213: -6642350769255098753
+    second: Atlas_Buildings_Wood_Pink_41
+  - first:
+      213: 4468133907947739483
+    second: Atlas_Buildings_Wood_Pink_42
+  - first:
+      213: -7449251411824260528
+    second: Atlas_Buildings_Wood_Pink_43
+  - first:
+      213: 4726904170363609848
+    second: Atlas_Buildings_Wood_Pink_44
+  - first:
+      213: 2763604661273806956
+    second: Atlas_Buildings_Wood_Pink_45
+  - first:
+      213: 2017737880528138943
+    second: Atlas_Buildings_Wood_Pink_46
+  - first:
+      213: 258701974496745601
+    second: Atlas_Buildings_Wood_Pink_47
+  - first:
+      213: 2376254016406744694
+    second: Atlas_Buildings_Wood_Pink_48
+  - first:
+      213: 7973271912133837779
+    second: Atlas_Buildings_Wood_Pink_49
+  - first:
+      213: -3001243450814716467
+    second: Atlas_Buildings_Wood_Pink_50
+  - first:
+      213: 8962807261736034756
+    second: Atlas_Buildings_Wood_Pink_51
+  - first:
+      213: -6257914350823625383
+    second: Atlas_Buildings_Wood_Pink_52
+  - first:
+      213: 755775717979616670
+    second: Atlas_Buildings_Wood_Pink_53
+  - first:
+      213: -197723898851536566
+    second: Atlas_Buildings_Wood_Pink_54
+  - first:
+      213: -4410003700930718656
+    second: Atlas_Buildings_Wood_Pink_55
+  - first:
+      213: -1320069427536186739
+    second: Atlas_Buildings_Wood_Pink_56
+  - first:
+      213: 5931022443276257865
+    second: Atlas_Buildings_Wood_Pink_57
+  - first:
+      213: -999273961247595863
+    second: Atlas_Buildings_Wood_Pink_58
+  - first:
+      213: 6895282390877929158
+    second: Atlas_Buildings_Wood_Pink_59
+  - first:
+      213: -7503530553183874978
+    second: Atlas_Buildings_Wood_Pink_60
+  - first:
+      213: -6606492227980379618
+    second: Atlas_Buildings_Wood_Pink_61
+  - first:
+      213: -719161322687120249
+    second: Atlas_Buildings_Wood_Pink_62
+  - first:
+      213: -2009631189296301600
+    second: Atlas_Buildings_Wood_Pink_63
+  - first:
+      213: 3059931726742859539
+    second: Atlas_Buildings_Wood_Pink_64
+  - first:
+      213: 5883458219090426993
+    second: Atlas_Buildings_Wood_Pink_65
+  - first:
+      213: -7991948094417382082
+    second: Atlas_Buildings_Wood_Pink_66
+  - first:
+      213: -4051692761479993335
+    second: Atlas_Buildings_Wood_Pink_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1967
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df786d58b2be00ef0800000000000000
+      internalID: -143856615914305539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1967
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41f642c1feaaba80800000000000000
+      internalID: -8450249397437533876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1967
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a5165e88f4a5c60800000000000000
+      internalID: 7807640353382685282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1960
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae3431fa11d03e50800000000000000
+      internalID: 6787154552093425321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1967
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14471c7b971e7d00800000000000000
+      internalID: 972240526127875103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1791
+        width: 159
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fce931d2402ca5b0800000000000000
+      internalID: -5355870385500197648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1791
+        width: 159
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae2dc5ea5bf0b580800000000000000
+      internalID: -8813268102943002965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1791
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60784f4df09be7d30800000000000000
+      internalID: 4431182561027589894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1647
+        width: 157
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94db8071a99c71d0800000000000000
+      internalID: -3351635104013495142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1647
+        width: 146
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710b1379c00b7250800000000000000
+      internalID: 5943344998465077626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1647
+        width: 157
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a7d1ff25097a420800000000000000
+      internalID: 2641238392617925202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1503
+        width: 182
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adaafb5b665776c0800000000000000
+      internalID: -4145749912866607708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1503
+        width: 186
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578042f1bfc611660800000000000000
+      internalID: 7354779492287776885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1503
+        width: 200
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1280b5391aa5490800000000000000
+      internalID: -7756709753932734020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1487
+        width: 177
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9693ef25b0617a9a0800000000000000
+      internalID: -6221980122296206999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc21053fd93aa80e0800000000000000
+      internalID: -2266819563640319281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b1d003f7a60e7e0800000000000000
+      internalID: -1738272361665455326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ea3e7a04cff2bf0800000000000000
+      internalID: -346781291659415922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b09a56153355230800000000000000
+      internalID: 3626861499607747340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dea10e99b9547610800000000000000
+      internalID: 1618016819887582933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2287f5888b32a19c0800000000000000
+      internalID: -3955810047222646750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_21
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99eef9b3dfe1aca0800000000000000
+      internalID: -6007256735297902182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_22
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362bba59544057290800000000000000
+      internalID: -7893398074986614173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_23
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb8aef2ff48b2f50800000000000000
+      internalID: 6857721089157139430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_24
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a394ffcc955db58f0800000000000000
+      internalID: -550611947754665670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a445f9c4a9c0cd50800000000000000
+      internalID: 6755621150655857828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1071
+        width: 82
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c7f87f2cce056c0800000000000000
+      internalID: -4156562133941781411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1071
+        width: 82
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eadc088ce02655b0800000000000000
+      internalID: -5380076504580564254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1071
+        width: 162
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf4cb131eea1d060800000000000000
+      internalID: 6976549579998908381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 911
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61230bd2afcd4ce40800000000000000
+      internalID: 5675904397460124182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 911
+        width: 133
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaabf88407954f630800000000000000
+      internalID: 3959888311154096810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 911
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f4fd4add34ba5e0800000000000000
+      internalID: -1897348198773600477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32133509cacb6170800000000000000
+      internalID: 8172848913518367293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843987ca5ec13d740800000000000000
+      internalID: 5175512169545503560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96084c7eed296a170800000000000000
+      internalID: 8189394458488635497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aef0a03f8b4f23f0800000000000000
+      internalID: -923436320219398488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f823a42dc6d744bb0800000000000000
+      internalID: -4952695783862685041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_37
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796c20c3f57145ca0800000000000000
+      internalID: -6029168303346104681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_38
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7742be98c32421c60800000000000000
+      internalID: 7787359533456368759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_39
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46159ffa33f97e50800000000000000
+      internalID: 6807739746468828751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_40
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f13c610db8dd800800000000000000
+      internalID: 638820448007823154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_41
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76d1050b21a1d3a0800000000000000
+      internalID: -6642350769255098753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_42
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b595a18bd10020e30800000000000000
+      internalID: 4468133907947739483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 546
+        width: 159
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a43ab0f41fe9890800000000000000
+      internalID: -7449251411824260528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 546
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2e5d97c46599140800000000000000
+      internalID: 4726904170363609848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_45
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 546
+        width: 148
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68c6d61ccb4a5620800000000000000
+      internalID: 2763604661273806956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2bab279e1700c10800000000000000
+      internalID: 2017737880528138943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188129c3318179300800000000000000
+      internalID: 258701974496745601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ee40020762af020800000000000000
+      internalID: 2376254016406744694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d346545f80c6ae60800000000000000
+      internalID: 7973271912133837779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5a8b59bf07956d0800000000000000
+      internalID: -3001243450814716467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_51
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c16112b7b9426c70800000000000000
+      internalID: 8962807261736034756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95da654cd0c6729a0800000000000000
+      internalID: -6257914350823625383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 320
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e957a00e20e0d7a00800000000000000
+      internalID: 755775717979616670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 320
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41595d592b814df0800000000000000
+      internalID: -197723898851536566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 224
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044dddbcff48cc2c0800000000000000
+      internalID: -4410003700930718656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d823ad489db2eade0800000000000000
+      internalID: -1320069427536186739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ac95efc793f4250800000000000000
+      internalID: 5931022443276257865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a22a8a60add122f0800000000000000
+      internalID: -999273961247595863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_59
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cef84e3dc6f0bf50800000000000000
+      internalID: 6895282390877929158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505f20a7ba1ed790800000000000000
+      internalID: -7503530553183874978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_61
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ab9d342560154a0800000000000000
+      internalID: -6606492227980379618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_62
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb80956960506f0800000000000000
+      internalID: -719161322687120249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_63
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9b270b41b5c14e0800000000000000
+      internalID: -2009631189296301600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_64
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fa47971bf077a20800000000000000
+      internalID: 3059931726742859539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_65
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cbcbf041e36a150800000000000000
+      internalID: 5883458219090426993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_66
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3554e02d85e61190800000000000000
+      internalID: -7991948094417382082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Wood_Pink_67
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908a6f476ee75c7c0800000000000000
+      internalID: -4051692761479993335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Buildings_Wood_Pink_0: -143856615914305539
+      Atlas_Buildings_Wood_Pink_1: -8450249397437533876
+      Atlas_Buildings_Wood_Pink_10: 2641238392617925202
+      Atlas_Buildings_Wood_Pink_11: -4145749912866607708
+      Atlas_Buildings_Wood_Pink_12: 7354779492287776885
+      Atlas_Buildings_Wood_Pink_13: -7756709753932734020
+      Atlas_Buildings_Wood_Pink_14: -6221980122296206999
+      Atlas_Buildings_Wood_Pink_15: -2266819563640319281
+      Atlas_Buildings_Wood_Pink_16: -1738272361665455326
+      Atlas_Buildings_Wood_Pink_17: -346781291659415922
+      Atlas_Buildings_Wood_Pink_18: 3626861499607747340
+      Atlas_Buildings_Wood_Pink_19: 1618016819887582933
+      Atlas_Buildings_Wood_Pink_2: 7807640353382685282
+      Atlas_Buildings_Wood_Pink_20: -3955810047222646750
+      Atlas_Buildings_Wood_Pink_21: -6007256735297902182
+      Atlas_Buildings_Wood_Pink_22: -7893398074986614173
+      Atlas_Buildings_Wood_Pink_23: 6857721089157139430
+      Atlas_Buildings_Wood_Pink_24: -550611947754665670
+      Atlas_Buildings_Wood_Pink_25: 6755621150655857828
+      Atlas_Buildings_Wood_Pink_26: -4156562133941781411
+      Atlas_Buildings_Wood_Pink_27: -5380076504580564254
+      Atlas_Buildings_Wood_Pink_28: 6976549579998908381
+      Atlas_Buildings_Wood_Pink_29: 5675904397460124182
+      Atlas_Buildings_Wood_Pink_3: 6787154552093425321
+      Atlas_Buildings_Wood_Pink_30: 3959888311154096810
+      Atlas_Buildings_Wood_Pink_31: -1897348198773600477
+      Atlas_Buildings_Wood_Pink_32: 8172848913518367293
+      Atlas_Buildings_Wood_Pink_33: 5175512169545503560
+      Atlas_Buildings_Wood_Pink_34: 8189394458488635497
+      Atlas_Buildings_Wood_Pink_35: -923436320219398488
+      Atlas_Buildings_Wood_Pink_36: -4952695783862685041
+      Atlas_Buildings_Wood_Pink_37: -6029168303346104681
+      Atlas_Buildings_Wood_Pink_38: 7787359533456368759
+      Atlas_Buildings_Wood_Pink_39: 6807739746468828751
+      Atlas_Buildings_Wood_Pink_4: 972240526127875103
+      Atlas_Buildings_Wood_Pink_40: 638820448007823154
+      Atlas_Buildings_Wood_Pink_41: -6642350769255098753
+      Atlas_Buildings_Wood_Pink_42: 4468133907947739483
+      Atlas_Buildings_Wood_Pink_43: -7449251411824260528
+      Atlas_Buildings_Wood_Pink_44: 4726904170363609848
+      Atlas_Buildings_Wood_Pink_45: 2763604661273806956
+      Atlas_Buildings_Wood_Pink_46: 2017737880528138943
+      Atlas_Buildings_Wood_Pink_47: 258701974496745601
+      Atlas_Buildings_Wood_Pink_48: 2376254016406744694
+      Atlas_Buildings_Wood_Pink_49: 7973271912133837779
+      Atlas_Buildings_Wood_Pink_5: -5355870385500197648
+      Atlas_Buildings_Wood_Pink_50: -3001243450814716467
+      Atlas_Buildings_Wood_Pink_51: 8962807261736034756
+      Atlas_Buildings_Wood_Pink_52: -6257914350823625383
+      Atlas_Buildings_Wood_Pink_53: 755775717979616670
+      Atlas_Buildings_Wood_Pink_54: -197723898851536566
+      Atlas_Buildings_Wood_Pink_55: -4410003700930718656
+      Atlas_Buildings_Wood_Pink_56: -1320069427536186739
+      Atlas_Buildings_Wood_Pink_57: 5931022443276257865
+      Atlas_Buildings_Wood_Pink_58: -999273961247595863
+      Atlas_Buildings_Wood_Pink_59: 6895282390877929158
+      Atlas_Buildings_Wood_Pink_6: -8813268102943002965
+      Atlas_Buildings_Wood_Pink_60: -7503530553183874978
+      Atlas_Buildings_Wood_Pink_61: -6606492227980379618
+      Atlas_Buildings_Wood_Pink_62: -719161322687120249
+      Atlas_Buildings_Wood_Pink_63: -2009631189296301600
+      Atlas_Buildings_Wood_Pink_64: 3059931726742859539
+      Atlas_Buildings_Wood_Pink_65: 5883458219090426993
+      Atlas_Buildings_Wood_Pink_66: -7991948094417382082
+      Atlas_Buildings_Wood_Pink_67: -4051692761479993335
+      Atlas_Buildings_Wood_Pink_7: 4431182561027589894
+      Atlas_Buildings_Wood_Pink_8: -3351635104013495142
+      Atlas_Buildings_Wood_Pink_9: 5943344998465077626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

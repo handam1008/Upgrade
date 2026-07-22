@@ -18,13 +18,15 @@ public class GoldManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI upgradePriceText;
     [SerializeField] private TextMeshProUGUI sellPriceText;
     
-    [SerializeField] private AbsractSquare[] _data;
-    [SerializeField] private GameObject[] squarePrefabs;
     [SerializeField] private Transform sqaureSpawnPoint;
     
     [SerializeField] private FeedSquare successFeedback;
     [SerializeField] private FeedSquare FailFeedBack;
-    private int currentData = 0;
+    
+    public int CurrentData { get; private set; }= 0;
+    [field: SerializeField] public List<AbsractSquare> _data { get; private set; }
+    [field: SerializeField] public GameObject[] squarePrefabs;
+    
     
     private List<GameObject> squares = new List<GameObject>();
     
@@ -35,7 +37,6 @@ public class GoldManager : MonoBehaviour
     {
         myDelegate += ChangeUI;
         
-
         for (int i = 0; i < 9; i++)
         {
            GameObject Clone = Instantiate(squarePrefabs[i], sqaureSpawnPoint);
@@ -48,22 +49,22 @@ public class GoldManager : MonoBehaviour
 
     private void Update()
     {
-        if (currentData == 1)
+        if (CurrentData == 1)
         {
             if (tutorial.one) return;
             
             tutorial.MoveNext();
             tutorial.one = true;
         }
-        else if (currentData == 3)
+        else if (CurrentData == 3)
         {
             if (tutorial.two) return;
             
             tutorial.MoveNext();
             tutorial.two = true;
         }
-        
     }
+    
 
     public void AddCoin()
     {
@@ -73,23 +74,25 @@ public class GoldManager : MonoBehaviour
 
     public void Buy()
     {
-        if (Coin < _data[currentData].upgradePrice) return;
+        if (_data.Count-1 <= CurrentData) return;
+        
+        if (Coin < _data[CurrentData].upgradePrice) return;
         
         int i = Random.Range(0, 100); // 95퍼센트면 100개중에 95개
 
-        if (i <= _data[currentData].upgradePercent)
+        if (i <= _data[CurrentData].upgradePercent)
         {
-            GameObject square = squares[currentData];
+            GameObject square = squares[CurrentData];
             square.SetActive(false);
             successFeedback.PlayAllFeedBacks();
             
             
             
-             if (currentData == 6)
+             if (CurrentData == 6)
             {
                 AddCoin();
             }
-            currentData++;
+            CurrentData++;
         }
         else
         {
@@ -97,28 +100,28 @@ public class GoldManager : MonoBehaviour
             
         }
         
-        Coin -= _data[currentData].upgradePrice;
+        Coin -= _data[CurrentData].upgradePrice;
         myDelegate?.Invoke();
     }
 
     public void Sell()
     {
-        Coin += _data[currentData].sellCoin;
-        for (int i = 0; i < currentData; i++)
+        Coin += _data[CurrentData].sellCoin;
+        for (int i = 0; i < CurrentData; i++)
         {
             squares[i].SetActive(true);
         }
 
-        currentData = 0;
+        CurrentData = 0;
         myDelegate?.Invoke();
     }
 
     private void ChangeUI()
     {
-        squaresText.SetText(_data[currentData].squareName);
+        squaresText.SetText(_data[CurrentData].squareName);
         coinText.SetText("Coin: " + Coin);
-        upgradePriceText.SetText("Upgrade Price : " + _data[currentData].upgradePrice);
-        upgradePercentText.SetText(_data[currentData].upgradePercent + "%");
-        sellPriceText.SetText("Sell Price " + _data[currentData].sellCoin);
+        upgradePriceText.SetText("Upgrade Price : " + _data[CurrentData].upgradePrice);
+        upgradePercentText.SetText(_data[CurrentData].upgradePercent + "%");
+        sellPriceText.SetText("Sell Price " + _data[CurrentData].sellCoin);
     }
 }

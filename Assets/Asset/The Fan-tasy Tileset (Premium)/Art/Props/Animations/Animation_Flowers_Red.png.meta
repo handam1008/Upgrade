@@ -1,0 +1,3315 @@
+fileFormatVersion: 2
+guid: 95fbdc7b6d2557349b8090d497fc0262
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5103255588675287318
+    second: Animation_Flowers_Red_0
+  - first:
+      213: -4714401389892696700
+    second: Animation_Flowers_Red_1
+  - first:
+      213: 3289151085641155477
+    second: Animation_Flowers_Red_2
+  - first:
+      213: -5042580178947624064
+    second: Animation_Flowers_Red_3
+  - first:
+      213: 8119157562316600245
+    second: Animation_Flowers_Red_4
+  - first:
+      213: 1950801801657037
+    second: Animation_Flowers_Red_5
+  - first:
+      213: -3358443395805830982
+    second: Animation_Flowers_Red_6
+  - first:
+      213: -9154235689973500467
+    second: Animation_Flowers_Red_7
+  - first:
+      213: 2106535307337338865
+    second: Animation_Flowers_Red_8
+  - first:
+      213: 1657958721919540558
+    second: Animation_Flowers_Red_9
+  - first:
+      213: -3786520749758930913
+    second: Animation_Flowers_Red_10
+  - first:
+      213: 7341684469031392164
+    second: Animation_Flowers_Red_11
+  - first:
+      213: 8577588207618602271
+    second: Animation_Flowers_Red_12
+  - first:
+      213: -8558242920646170232
+    second: Animation_Flowers_Red_13
+  - first:
+      213: -8851301900312066148
+    second: Animation_Flowers_Red_14
+  - first:
+      213: -5698658754599942344
+    second: Animation_Flowers_Red_15
+  - first:
+      213: 4669902912112028312
+    second: Animation_Flowers_Red_16
+  - first:
+      213: -8458848529005612679
+    second: Animation_Flowers_Red_17
+  - first:
+      213: 2065246398022878851
+    second: Animation_Flowers_Red_18
+  - first:
+      213: 3688497115345984407
+    second: Animation_Flowers_Red_19
+  - first:
+      213: -4885560475609345160
+    second: Animation_Flowers_Red_20
+  - first:
+      213: -6830929930215277452
+    second: Animation_Flowers_Red_21
+  - first:
+      213: -5079043418824486533
+    second: Animation_Flowers_Red_22
+  - first:
+      213: 9108882749455546143
+    second: Animation_Flowers_Red_23
+  - first:
+      213: 8586248073482690564
+    second: Animation_Flowers_Red_24
+  - first:
+      213: -8599644983359042868
+    second: Animation_Flowers_Red_25
+  - first:
+      213: -8854134116109824117
+    second: Animation_Flowers_Red_26
+  - first:
+      213: -8497304387401248910
+    second: Animation_Flowers_Red_27
+  - first:
+      213: 2500433816758726186
+    second: Animation_Flowers_Red_28
+  - first:
+      213: 7771875692779380155
+    second: Animation_Flowers_Red_29
+  - first:
+      213: 737451029573429798
+    second: Animation_Flowers_Red_30
+  - first:
+      213: -5276263005321760219
+    second: Animation_Flowers_Red_31
+  - first:
+      213: 8725025464322177765
+    second: Animation_Flowers_Red_32
+  - first:
+      213: -2335548440467449101
+    second: Animation_Flowers_Red_33
+  - first:
+      213: 4030861697798795822
+    second: Animation_Flowers_Red_34
+  - first:
+      213: 1411908519391301053
+    second: Animation_Flowers_Red_35
+  - first:
+      213: -5617905402049982385
+    second: Animation_Flowers_Red_36
+  - first:
+      213: 9062237859862848843
+    second: Animation_Flowers_Red_37
+  - first:
+      213: 617181416056213160
+    second: Animation_Flowers_Red_38
+  - first:
+      213: 3485358608211311258
+    second: Animation_Flowers_Red_39
+  - first:
+      213: -881498754298188358
+    second: Animation_Flowers_Red_40
+  - first:
+      213: 3472816149632494806
+    second: Animation_Flowers_Red_41
+  - first:
+      213: 4821461184844726672
+    second: Animation_Flowers_Red_42
+  - first:
+      213: 1040096216607295466
+    second: Animation_Flowers_Red_43
+  - first:
+      213: 7310452411542105705
+    second: Animation_Flowers_Red_44
+  - first:
+      213: 8853406515037482779
+    second: Animation_Flowers_Red_45
+  - first:
+      213: 6755097521687442471
+    second: Animation_Flowers_Red_46
+  - first:
+      213: 261534895731988845
+    second: Animation_Flowers_Red_47
+  - first:
+      213: -6955518978681083777
+    second: Animation_Flowers_Red_48
+  - first:
+      213: 1532723119239227605
+    second: Animation_Flowers_Red_49
+  - first:
+      213: 1178036634540979804
+    second: Animation_Flowers_Red_50
+  - first:
+      213: 1054084626626917318
+    second: Animation_Flowers_Red_51
+  - first:
+      213: -6021435911641048971
+    second: Animation_Flowers_Red_52
+  - first:
+      213: -8463903392406617997
+    second: Animation_Flowers_Red_53
+  - first:
+      213: 3769023704527894158
+    second: Animation_Flowers_Red_54
+  - first:
+      213: 2923755695831127652
+    second: Animation_Flowers_Red_55
+  - first:
+      213: 4537369754460883911
+    second: Animation_Flowers_Red_56
+  - first:
+      213: 2057785554454210869
+    second: Animation_Flowers_Red_57
+  - first:
+      213: -2831350709316794680
+    second: Animation_Flowers_Red_58
+  - first:
+      213: -2609883785201627670
+    second: Animation_Flowers_Red_59
+  - first:
+      213: 6280409496103461156
+    second: Animation_Flowers_Red_60
+  - first:
+      213: -231172711038839857
+    second: Animation_Flowers_Red_61
+  - first:
+      213: 9077053340912106258
+    second: Animation_Flowers_Red_62
+  - first:
+      213: 1228046944720903929
+    second: Animation_Flowers_Red_63
+  - first:
+      213: 574724662073002705
+    second: Animation_Flowers_Red_64
+  - first:
+      213: -1796324145360068393
+    second: Animation_Flowers_Red_65
+  - first:
+      213: 6980290322754818996
+    second: Animation_Flowers_Red_66
+  - first:
+      213: -3301618108228310903
+    second: Animation_Flowers_Red_67
+  - first:
+      213: 6919777468060369702
+    second: Animation_Flowers_Red_68
+  - first:
+      213: -4414626065603807648
+    second: Animation_Flowers_Red_69
+  - first:
+      213: -1555305101655998167
+    second: Animation_Flowers_Red_70
+  - first:
+      213: 4804258858439746017
+    second: Animation_Flowers_Red_71
+  - first:
+      213: -5412900821618292700
+    second: Animation_Flowers_Red_72
+  - first:
+      213: -4889776413789583061
+    second: Animation_Flowers_Red_73
+  - first:
+      213: -2168080771749542211
+    second: Animation_Flowers_Red_74
+  - first:
+      213: -9110581734409613562
+    second: Animation_Flowers_Red_75
+  - first:
+      213: -9220742160234499440
+    second: Animation_Flowers_Red_76
+  - first:
+      213: -7836430581492393076
+    second: Animation_Flowers_Red_77
+  - first:
+      213: 8622420867971828532
+    second: Animation_Flowers_Red_78
+  - first:
+      213: -1268749792967858756
+    second: Animation_Flowers_Red_79
+  - first:
+      213: -1768143862526242340
+    second: Animation_Flowers_Red_80
+  - first:
+      213: 6411822614555099635
+    second: Animation_Flowers_Red_81
+  - first:
+      213: 6558867078552228619
+    second: Animation_Flowers_Red_82
+  - first:
+      213: -5509404429086155728
+    second: Animation_Flowers_Red_83
+  - first:
+      213: -6416132963816207271
+    second: Animation_Flowers_Red_84
+  - first:
+      213: -4103012818018292368
+    second: Animation_Flowers_Red_85
+  - first:
+      213: 3182331857445392287
+    second: Animation_Flowers_Red_86
+  - first:
+      213: 5794407205024476813
+    second: Animation_Flowers_Red_87
+  - first:
+      213: -2611222284099937716
+    second: Animation_Flowers_Red_88
+  - first:
+      213: -8935858758905917205
+    second: Animation_Flowers_Red_89
+  - first:
+      213: 3783482695649896787
+    second: Animation_Flowers_Red_90
+  - first:
+      213: -1322604175523151707
+    second: Animation_Flowers_Red_91
+  - first:
+      213: -2471075072852740475
+    second: Animation_Flowers_Red_92
+  - first:
+      213: 1929475219033305950
+    second: Animation_Flowers_Red_93
+  - first:
+      213: 6994112520685842262
+    second: Animation_Flowers_Red_94
+  - first:
+      213: -3925872606637833555
+    second: Animation_Flowers_Red_95
+  - first:
+      213: 942233179423056326
+    second: Animation_Flowers_Red_96
+  - first:
+      213: 7288047805218807519
+    second: Animation_Flowers_Red_97
+  - first:
+      213: 1387685141462464098
+    second: Animation_Flowers_Red_98
+  - first:
+      213: -6351398916734610522
+    second: Animation_Flowers_Red_99
+  - first:
+      213: -5329474366624679282
+    second: Animation_Flowers_Red_100
+  - first:
+      213: 414798270566821990
+    second: Animation_Flowers_Red_101
+  - first:
+      213: -2765684486656039755
+    second: Animation_Flowers_Red_102
+  - first:
+      213: 4841107905375608161
+    second: Animation_Flowers_Red_103
+  - first:
+      213: 129860662985997241
+    second: Animation_Flowers_Red_104
+  - first:
+      213: -3952307907646437902
+    second: Animation_Flowers_Red_105
+  - first:
+      213: -7369634746017571744
+    second: Animation_Flowers_Red_106
+  - first:
+      213: 7986707191156476351
+    second: Animation_Flowers_Red_107
+  - first:
+      213: -6782304468138173848
+    second: Animation_Flowers_Red_108
+  - first:
+      213: 7733746159101270488
+    second: Animation_Flowers_Red_109
+  - first:
+      213: -3313312589748184922
+    second: Animation_Flowers_Red_110
+  - first:
+      213: 6677665320909404338
+    second: Animation_Flowers_Red_111
+  - first:
+      213: 8016647682418245606
+    second: Animation_Flowers_Red_112
+  - first:
+      213: 347662084432955326
+    second: Animation_Flowers_Red_113
+  - first:
+      213: 1491330984131489709
+    second: Animation_Flowers_Red_114
+  - first:
+      213: -2125425805524010396
+    second: Animation_Flowers_Red_115
+  - first:
+      213: -146278794900784100
+    second: Animation_Flowers_Red_116
+  - first:
+      213: 7043227991807783565
+    second: Animation_Flowers_Red_117
+  - first:
+      213: 214380316353018587
+    second: Animation_Flowers_Red_118
+  - first:
+      213: 4649632416528638518
+    second: Animation_Flowers_Red_119
+  - first:
+      213: 3444087142119762910
+    second: Animation_Flowers_Red_120
+  - first:
+      213: -5675363041931645304
+    second: Animation_Flowers_Red_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61974017be762d640800000000000000
+      internalID: 5103255588675287318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48586d2f9e4139eb0800000000000000
+      internalID: -4714401389892696700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5934b385c7965ad20800000000000000
+      internalID: 3289151085641155477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083b6624b08250ab0800000000000000
+      internalID: -5042580178947624064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3be4929ca0da070800000000000000
+      internalID: 8119157562316600245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca3a607e3ee60000800000000000000
+      internalID: 1950801801657037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0acba76896461d0800000000000000
+      internalID: -3358443395805830982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc53de4242f95f080800000000000000
+      internalID: -9154235689973500467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff09ac73baeb3d10800000000000000
+      internalID: 2106535307337338865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d56406ca0420710800000000000000
+      internalID: 1657958721919540558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1029ff9073937bc0800000000000000
+      internalID: -3786520749758930913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 12
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a35e9d6027e2e560800000000000000
+      internalID: 7341684469031392164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15bfa06707b90770800000000000000
+      internalID: 8577588207618602271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889226d38630b3980800000000000000
+      internalID: -8558242920646170232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 14
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97c82061dbd92580800000000000000
+      internalID: -8851301900312066148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83786e33e0c4ae0b0800000000000000
+      internalID: -5698658754599942344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aeff3d4f3dec040800000000000000
+      internalID: 4669902912112028312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971f8cb64122c9a80800000000000000
+      internalID: -8458848529005612679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3860fc728aa39ac10800000000000000
+      internalID: 2065246398022878851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 14
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b104b759c203330800000000000000
+      internalID: 3688497115345984407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873dd9ad1a0033cb0800000000000000
+      internalID: -4885560475609345160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c3fe79b69a331a0800000000000000
+      internalID: -6830929930215277452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 12
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b715e26abec9389b0800000000000000
+      internalID: -5079043418824486533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f173bf58990496e70800000000000000
+      internalID: 9108882749455546143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4006155812b782770800000000000000
+      internalID: 8586248073482690564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 21
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca0a64537ce7a880800000000000000
+      internalID: -8599644983359042868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 14
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4b9fbeebcf1580800000000000000
+      internalID: -8854134116109824117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_27
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f84982ea2831a80800000000000000
+      internalID: -8497304387401248910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 12
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e2748fe4353b220800000000000000
+      internalID: 2500433816758726186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd9b92f3cf3bdb60800000000000000
+      internalID: 7771875692779380155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_30
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a68f0edc3fb3a00800000000000000
+      internalID: 737451029573429798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522f24260c2f6c6b0800000000000000
+      internalID: -5276263005321760219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea3921ce64851970800000000000000
+      internalID: 8725025464322177765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_33
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa58325117769fd0800000000000000
+      internalID: -2335548440467449101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_34
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 12
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2276049b5f70f730800000000000000
+      internalID: 4030861697798795822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_35
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd8aa9515b189310800000000000000
+      internalID: 1411908519391301053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4010114dc03902b0800000000000000
+      internalID: -5617905402049982385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45a83bd15983cd70800000000000000
+      internalID: 9062237859862848843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_38
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aec00a5a3ba09800800000000000000
+      internalID: 617181416056213160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_39
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9af84d103b7e5030800000000000000
+      internalID: 3485358608211311258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_40
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd6b18ad8944c3f0800000000000000
+      internalID: -881498754298188358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_41
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dca51963ebe13030800000000000000
+      internalID: 3472816149632494806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0910105076549e240800000000000000
+      internalID: 4821461184844726672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_43
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae70b139ff92f6e00800000000000000
+      internalID: 1040096216607295466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_44
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e6d516cb1f37560800000000000000
+      internalID: 7310452411542105705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f20fc615e9dda70800000000000000
+      internalID: 8853406515037482779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7243d4be76deebd50800000000000000
+      internalID: 6755097521687442471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69597c1a9821a300800000000000000
+      internalID: 261534895731988845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78e93f3758097f90800000000000000
+      internalID: -6955518978681083777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d868456e83554510800000000000000
+      internalID: 1532723119239227605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56363ed31a395010800000000000000
+      internalID: 1178036634540979804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c33c45126cd0ae00800000000000000
+      internalID: 1054084626626917318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578dad8f0ff8f6ca0800000000000000
+      internalID: -6021435911641048971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370416255bc2a8a80800000000000000
+      internalID: -8463903392406617997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86796217134e4430800000000000000
+      internalID: 3769023704527894158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4661a0c8054439820800000000000000
+      internalID: 2923755695831127652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0e3d60c9f7fe30800000000000000
+      internalID: 4537369754460883911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 12
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5396c252f09be8c10800000000000000
+      internalID: 2057785554454210869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c64f90f78505b8d0800000000000000
+      internalID: -2831350709316794680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed410e6684d7cbd0800000000000000
+      internalID: -2609883785201627670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421ac33692f782750800000000000000
+      internalID: 6280409496103461156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc314c4e4a5baccf0800000000000000
+      internalID: -231172711038839857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bb658dbeb28fd70800000000000000
+      internalID: 9077053340912106258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fed7939036ea0110800000000000000
+      internalID: 1228046944720903929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da848ef805d9f700800000000000000
+      internalID: 574724662073002705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02b5605bc2217e0800000000000000
+      internalID: -1796324145360068393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_66
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d5ecb019fed060800000000000000
+      internalID: 6980290322754818996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988ed03c2db4e22d0800000000000000
+      internalID: -3301618108228310903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_68
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6238d74d1fcf70060800000000000000
+      internalID: 6919777468060369702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0663187abf81cb2c0800000000000000
+      internalID: -4414626065603807648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921017a10427a6ae0800000000000000
+      internalID: -1555305101655998167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_71
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1235a4af72ca240800000000000000
+      internalID: 4804258858439746017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_72
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428850ba16381e4b0800000000000000
+      internalID: -5412900821618292700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_73
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b290df04246042cb0800000000000000
+      internalID: -4889776413789583061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_74
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6838b660e69e1e0800000000000000
+      internalID: -2168080771749542211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_75
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f4a57be26b09180800000000000000
+      internalID: -9110581734409613562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_76
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09231cddbd7590080800000000000000
+      internalID: -9220742160234499440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b5323c7e76f3390800000000000000
+      internalID: -7836430581492393076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_78
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b406b881ef8a770800000000000000
+      internalID: 8622420867971828532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_79
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5ec4119ce746ee0800000000000000
+      internalID: -1268749792967858756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_80
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1165a668a4677e0800000000000000
+      internalID: -1768143862526242340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_81
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f18f5752be5bf850800000000000000
+      internalID: 6411822614555099635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_82
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b031c1a8bd6c50b50800000000000000
+      internalID: 6558867078552228619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_83
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c1b50acd9aa83b0800000000000000
+      internalID: -5509404429086155728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_84
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c8f04401155f6a0800000000000000
+      internalID: -6416132963816207271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_85
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d2529a49b2f07c0800000000000000
+      internalID: -4103012818018292368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_86
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f0170b6f9e92c20800000000000000
+      internalID: 3182331857445392287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_87
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ea27327aed96050800000000000000
+      internalID: 5794407205024476813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_88
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a93aeda2313cbd0800000000000000
+      internalID: -2611222284099937716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_89
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be099509dc37df380800000000000000
+      internalID: -8935858758905917205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ac084771a18430800000000000000
+      internalID: 3783482695649896787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a08e73828a25ade0800000000000000
+      internalID: -1322604175523151707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5863a45405af4bdd0800000000000000
+      internalID: -2471075072852740475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_93
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5336692d7fd6ca10800000000000000
+      internalID: 1929475219033305950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f679af744101160800000000000000
+      internalID: 6994112520685842262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_95
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da24ae71aaf7489c0800000000000000
+      internalID: -3925872606637833555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_96
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c12913a51c731d00800000000000000
+      internalID: 942233179423056326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fded1287dd8542560800000000000000
+      internalID: 7288047805218807519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_98
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26635fca84c024310800000000000000
+      internalID: 1387685141462464098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a39b3d165c4bd7a0800000000000000
+      internalID: -6351398916734610522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_100
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a39c1ec47e906b0800000000000000
+      internalID: -5329474366624679282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660f49254d8a1c500800000000000000
+      internalID: 414798270566821990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_102
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4ee04dc905e99d0800000000000000
+      internalID: -2765684486656039755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_103
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d9f3b9df11f2340800000000000000
+      internalID: 4841107905375608161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_104
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbb39fb59b5dc100800000000000000
+      internalID: 129860662985997241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_105
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f544c1f5e49629c0800000000000000
+      internalID: -3952307907646437902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_106
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c1f379e3cc9b990800000000000000
+      internalID: -7369634746017571744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_107
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb980fdffdb76de60800000000000000
+      internalID: 7986707191156476351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_108
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a541a350a60e1a0800000000000000
+      internalID: -6782304468138173848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9d5441829c35b60800000000000000
+      internalID: 7733746159101270488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_110
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8da3a11cfb402d0800000000000000
+      internalID: -3313312589748184922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_111
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ffb5ca35dbac50800000000000000
+      internalID: 6677665320909404338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_112
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef7ff7d79ad04f60800000000000000
+      internalID: 8016647682418245606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_113
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb78f74e2d423d400800000000000000
+      internalID: 347662084432955326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_114
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafe0bfe0a542b410800000000000000
+      internalID: 1491330984131489709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_115
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46afa49ad78f082e0800000000000000
+      internalID: -2125425805524010396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_116
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c34c7063058fdf0800000000000000
+      internalID: -146278794900784100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_117
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d827acbba829eb160800000000000000
+      internalID: 7043227991807783565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_118
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdabe0b03c1a9f200800000000000000
+      internalID: 214380316353018587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_119
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632a45b4c00d68040800000000000000
+      internalID: 4649632416528638518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_120
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe989120bdbcf20800000000000000
+      internalID: 3444087142119762910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Red_121
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ea84af16f0d31b0800000000000000
+      internalID: -5675363041931645304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Flowers_Red_0: 5103255588675287318
+      Animation_Flowers_Red_1: -4714401389892696700
+      Animation_Flowers_Red_10: -3786520749758930913
+      Animation_Flowers_Red_100: -5329474366624679282
+      Animation_Flowers_Red_101: 414798270566821990
+      Animation_Flowers_Red_102: -2765684486656039755
+      Animation_Flowers_Red_103: 4841107905375608161
+      Animation_Flowers_Red_104: 129860662985997241
+      Animation_Flowers_Red_105: -3952307907646437902
+      Animation_Flowers_Red_106: -7369634746017571744
+      Animation_Flowers_Red_107: 7986707191156476351
+      Animation_Flowers_Red_108: -6782304468138173848
+      Animation_Flowers_Red_109: 7733746159101270488
+      Animation_Flowers_Red_11: 7341684469031392164
+      Animation_Flowers_Red_110: -3313312589748184922
+      Animation_Flowers_Red_111: 6677665320909404338
+      Animation_Flowers_Red_112: 8016647682418245606
+      Animation_Flowers_Red_113: 347662084432955326
+      Animation_Flowers_Red_114: 1491330984131489709
+      Animation_Flowers_Red_115: -2125425805524010396
+      Animation_Flowers_Red_116: -146278794900784100
+      Animation_Flowers_Red_117: 7043227991807783565
+      Animation_Flowers_Red_118: 214380316353018587
+      Animation_Flowers_Red_119: 4649632416528638518
+      Animation_Flowers_Red_12: 8577588207618602271
+      Animation_Flowers_Red_120: 3444087142119762910
+      Animation_Flowers_Red_121: -5675363041931645304
+      Animation_Flowers_Red_13: -8558242920646170232
+      Animation_Flowers_Red_14: -8851301900312066148
+      Animation_Flowers_Red_15: -5698658754599942344
+      Animation_Flowers_Red_16: 4669902912112028312
+      Animation_Flowers_Red_17: -8458848529005612679
+      Animation_Flowers_Red_18: 2065246398022878851
+      Animation_Flowers_Red_19: 3688497115345984407
+      Animation_Flowers_Red_2: 3289151085641155477
+      Animation_Flowers_Red_20: -4885560475609345160
+      Animation_Flowers_Red_21: -6830929930215277452
+      Animation_Flowers_Red_22: -5079043418824486533
+      Animation_Flowers_Red_23: 9108882749455546143
+      Animation_Flowers_Red_24: 8586248073482690564
+      Animation_Flowers_Red_25: -8599644983359042868
+      Animation_Flowers_Red_26: -8854134116109824117
+      Animation_Flowers_Red_27: -8497304387401248910
+      Animation_Flowers_Red_28: 2500433816758726186
+      Animation_Flowers_Red_29: 7771875692779380155
+      Animation_Flowers_Red_3: -5042580178947624064
+      Animation_Flowers_Red_30: 737451029573429798
+      Animation_Flowers_Red_31: -5276263005321760219
+      Animation_Flowers_Red_32: 8725025464322177765
+      Animation_Flowers_Red_33: -2335548440467449101
+      Animation_Flowers_Red_34: 4030861697798795822
+      Animation_Flowers_Red_35: 1411908519391301053
+      Animation_Flowers_Red_36: -5617905402049982385
+      Animation_Flowers_Red_37: 9062237859862848843
+      Animation_Flowers_Red_38: 617181416056213160
+      Animation_Flowers_Red_39: 3485358608211311258
+      Animation_Flowers_Red_4: 8119157562316600245
+      Animation_Flowers_Red_40: -881498754298188358
+      Animation_Flowers_Red_41: 3472816149632494806
+      Animation_Flowers_Red_42: 4821461184844726672
+      Animation_Flowers_Red_43: 1040096216607295466
+      Animation_Flowers_Red_44: 7310452411542105705
+      Animation_Flowers_Red_45: 8853406515037482779
+      Animation_Flowers_Red_46: 6755097521687442471
+      Animation_Flowers_Red_47: 261534895731988845
+      Animation_Flowers_Red_48: -6955518978681083777
+      Animation_Flowers_Red_49: 1532723119239227605
+      Animation_Flowers_Red_5: 1950801801657037
+      Animation_Flowers_Red_50: 1178036634540979804
+      Animation_Flowers_Red_51: 1054084626626917318
+      Animation_Flowers_Red_52: -6021435911641048971
+      Animation_Flowers_Red_53: -8463903392406617997
+      Animation_Flowers_Red_54: 3769023704527894158
+      Animation_Flowers_Red_55: 2923755695831127652
+      Animation_Flowers_Red_56: 4537369754460883911
+      Animation_Flowers_Red_57: 2057785554454210869
+      Animation_Flowers_Red_58: -2831350709316794680
+      Animation_Flowers_Red_59: -2609883785201627670
+      Animation_Flowers_Red_6: -3358443395805830982
+      Animation_Flowers_Red_60: 6280409496103461156
+      Animation_Flowers_Red_61: -231172711038839857
+      Animation_Flowers_Red_62: 9077053340912106258
+      Animation_Flowers_Red_63: 1228046944720903929
+      Animation_Flowers_Red_64: 574724662073002705
+      Animation_Flowers_Red_65: -1796324145360068393
+      Animation_Flowers_Red_66: 6980290322754818996
+      Animation_Flowers_Red_67: -3301618108228310903
+      Animation_Flowers_Red_68: 6919777468060369702
+      Animation_Flowers_Red_69: -4414626065603807648
+      Animation_Flowers_Red_7: -9154235689973500467
+      Animation_Flowers_Red_70: -1555305101655998167
+      Animation_Flowers_Red_71: 4804258858439746017
+      Animation_Flowers_Red_72: -5412900821618292700
+      Animation_Flowers_Red_73: -4889776413789583061
+      Animation_Flowers_Red_74: -2168080771749542211
+      Animation_Flowers_Red_75: -9110581734409613562
+      Animation_Flowers_Red_76: -9220742160234499440
+      Animation_Flowers_Red_77: -7836430581492393076
+      Animation_Flowers_Red_78: 8622420867971828532
+      Animation_Flowers_Red_79: -1268749792967858756
+      Animation_Flowers_Red_8: 2106535307337338865
+      Animation_Flowers_Red_80: -1768143862526242340
+      Animation_Flowers_Red_81: 6411822614555099635
+      Animation_Flowers_Red_82: 6558867078552228619
+      Animation_Flowers_Red_83: -5509404429086155728
+      Animation_Flowers_Red_84: -6416132963816207271
+      Animation_Flowers_Red_85: -4103012818018292368
+      Animation_Flowers_Red_86: 3182331857445392287
+      Animation_Flowers_Red_87: 5794407205024476813
+      Animation_Flowers_Red_88: -2611222284099937716
+      Animation_Flowers_Red_89: -8935858758905917205
+      Animation_Flowers_Red_9: 1657958721919540558
+      Animation_Flowers_Red_90: 3783482695649896787
+      Animation_Flowers_Red_91: -1322604175523151707
+      Animation_Flowers_Red_92: -2471075072852740475
+      Animation_Flowers_Red_93: 1929475219033305950
+      Animation_Flowers_Red_94: 6994112520685842262
+      Animation_Flowers_Red_95: -3925872606637833555
+      Animation_Flowers_Red_96: 942233179423056326
+      Animation_Flowers_Red_97: 7288047805218807519
+      Animation_Flowers_Red_98: 1387685141462464098
+      Animation_Flowers_Red_99: -6351398916734610522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

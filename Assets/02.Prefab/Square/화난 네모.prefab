@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6520938418699624694}
   - component: {fileID: 6786019571255012496}
   - component: {fileID: 4461441189159874564}
+  - component: {fileID: -2626655819997588928}
   m_Layer: 0
   m_Name: "\uD654\uB09C \uB124\uBAA8"
   m_TagString: Untagged
@@ -138,3 +139,18 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &-2626655819997588928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2278886749591513695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aacd3de5ebbe89949be6b6ac141e97be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SquareStat
+  hp: 0
+  damage: 0
+  squareData: {fileID: 11400000, guid: b4cd874f7219fa846802dd20218fdeff, type: 2}

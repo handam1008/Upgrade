@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 9d105a7ad3f3fde4391aff00f59dfac2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 322658405646824781
+    second: Atlas_Buildings_Hay_0
+  - first:
+      213: -4160701049797428252
+    second: Atlas_Buildings_Hay_1
+  - first:
+      213: 3084693775801896403
+    second: Atlas_Buildings_Hay_2
+  - first:
+      213: 2926277426171742831
+    second: Atlas_Buildings_Hay_3
+  - first:
+      213: -4368088323938931744
+    second: Atlas_Buildings_Hay_4
+  - first:
+      213: 8542157624359339593
+    second: Atlas_Buildings_Hay_5
+  - first:
+      213: -4418169012715320973
+    second: Atlas_Buildings_Hay_6
+  - first:
+      213: 4102188096815552161
+    second: Atlas_Buildings_Hay_7
+  - first:
+      213: 4300884206857985319
+    second: Atlas_Buildings_Hay_8
+  - first:
+      213: -7799634959992898559
+    second: Atlas_Buildings_Hay_9
+  - first:
+      213: -2178158637991228068
+    second: Atlas_Buildings_Hay_10
+  - first:
+      213: -5508729433174721064
+    second: Atlas_Buildings_Hay_11
+  - first:
+      213: -6328520201489937635
+    second: Atlas_Buildings_Hay_12
+  - first:
+      213: -8007668696099874333
+    second: Atlas_Buildings_Hay_13
+  - first:
+      213: 271284826131651976
+    second: Atlas_Buildings_Hay_14
+  - first:
+      213: 3176296106564313228
+    second: Atlas_Buildings_Hay_15
+  - first:
+      213: 7448437678919397243
+    second: Atlas_Buildings_Hay_16
+  - first:
+      213: 6180607563034388075
+    second: Atlas_Buildings_Hay_17
+  - first:
+      213: 6542679624241191190
+    second: Atlas_Buildings_Hay_18
+  - first:
+      213: -4034553871422903449
+    second: Atlas_Buildings_Hay_19
+  - first:
+      213: -2832038438289979984
+    second: Atlas_Buildings_Hay_20
+  - first:
+      213: 6217056447090844811
+    second: Atlas_Buildings_Hay_21
+  - first:
+      213: -129917411257921008
+    second: Atlas_Buildings_Hay_22
+  - first:
+      213: -7465390264852643430
+    second: Atlas_Buildings_Hay_23
+  - first:
+      213: -6180213655804451155
+    second: Atlas_Buildings_Hay_24
+  - first:
+      213: -6133211435802618516
+    second: Atlas_Buildings_Hay_25
+  - first:
+      213: -7796477490552657104
+    second: Atlas_Buildings_Hay_26
+  - first:
+      213: 2448888189452632492
+    second: Atlas_Buildings_Hay_27
+  - first:
+      213: -7693993937797864734
+    second: Atlas_Buildings_Hay_28
+  - first:
+      213: 1101983692724794854
+    second: Atlas_Buildings_Hay_29
+  - first:
+      213: 3536624499095054927
+    second: Atlas_Buildings_Hay_30
+  - first:
+      213: 3797072836485393212
+    second: Atlas_Buildings_Hay_31
+  - first:
+      213: 5114037692071636872
+    second: Atlas_Buildings_Hay_32
+  - first:
+      213: -3791106942335146065
+    second: Atlas_Buildings_Hay_33
+  - first:
+      213: 8033059408381559735
+    second: Atlas_Buildings_Hay_34
+  - first:
+      213: 3279883285389067301
+    second: Atlas_Buildings_Hay_35
+  - first:
+      213: -6587581314162032775
+    second: Atlas_Buildings_Hay_36
+  - first:
+      213: 5454312378249448079
+    second: Atlas_Buildings_Hay_37
+  - first:
+      213: 314149633120729470
+    second: Atlas_Buildings_Hay_38
+  - first:
+      213: 3800675020568696600
+    second: Atlas_Buildings_Hay_39
+  - first:
+      213: -4263794942909279502
+    second: Atlas_Buildings_Hay_40
+  - first:
+      213: 3436775867533150118
+    second: Atlas_Buildings_Hay_41
+  - first:
+      213: 372092919421764966
+    second: Atlas_Buildings_Hay_42
+  - first:
+      213: -8305528299604078046
+    second: Atlas_Buildings_Hay_43
+  - first:
+      213: 7734090312706937520
+    second: Atlas_Buildings_Hay_44
+  - first:
+      213: -1007210187909491501
+    second: Atlas_Buildings_Hay_45
+  - first:
+      213: 7895093159650278140
+    second: Atlas_Buildings_Hay_46
+  - first:
+      213: -4537151497528876689
+    second: Atlas_Buildings_Hay_47
+  - first:
+      213: -1481361219706116380
+    second: Atlas_Buildings_Hay_48
+  - first:
+      213: -543339792457559482
+    second: Atlas_Buildings_Hay_49
+  - first:
+      213: 4571862649501033647
+    second: Atlas_Buildings_Hay_50
+  - first:
+      213: -101591775910993364
+    second: Atlas_Buildings_Hay_51
+  - first:
+      213: -8820178280322326846
+    second: Atlas_Buildings_Hay_52
+  - first:
+      213: 5605050049183475759
+    second: Atlas_Buildings_Hay_53
+  - first:
+      213: 5976057278415908804
+    second: Atlas_Buildings_Hay_54
+  - first:
+      213: -3525049267093993953
+    second: Atlas_Buildings_Hay_55
+  - first:
+      213: -6505050020817546156
+    second: Atlas_Buildings_Hay_56
+  - first:
+      213: 3806526197686146869
+    second: Atlas_Buildings_Hay_57
+  - first:
+      213: 6413630548160462044
+    second: Atlas_Buildings_Hay_58
+  - first:
+      213: 57445100550385764
+    second: Atlas_Buildings_Hay_59
+  - first:
+      213: 8260981768655318813
+    second: Atlas_Buildings_Hay_60
+  - first:
+      213: 2629333251056841409
+    second: Atlas_Buildings_Hay_61
+  - first:
+      213: -1344279804162977260
+    second: Atlas_Buildings_Hay_62
+  - first:
+      213: 2377051763541579776
+    second: Atlas_Buildings_Hay_63
+  - first:
+      213: 8490718352687737663
+    second: Atlas_Buildings_Hay_64
+  - first:
+      213: -4999762780071333405
+    second: Atlas_Buildings_Hay_65
+  - first:
+      213: -3673451718387289501
+    second: Atlas_Buildings_Hay_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1967
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d457f544c105a7400800000000000000
+      internalID: 322658405646824781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1967
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebba3680783246c0800000000000000
+      internalID: -4160701049797428252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1967
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddc78b45a80fca20800000000000000
+      internalID: 3084693775801896403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1960
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a0635a0d93c9820800000000000000
+      internalID: 2926277426171742831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1967
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eba61000de6163c0800000000000000
+      internalID: -4368088323938931744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1791
+        width: 159
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946455fd917db8670800000000000000
+      internalID: 8542157624359339593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1791
+        width: 159
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379077ff0b28fa2c0800000000000000
+      internalID: -4418169012715320973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1791
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6d688f656ede830800000000000000
+      internalID: 4102188096815552161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1647
+        width: 157
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d9bd9266fcfab30800000000000000
+      internalID: 4300884206857985319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1647
+        width: 146
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cb7eff35122c390800000000000000
+      internalID: -7799634959992898559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1647
+        width: 157
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d85165240a5c1e0800000000000000
+      internalID: -2178158637991228068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1503
+        width: 182
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddb1eb54cf0d83b0800000000000000
+      internalID: -5508729433174721064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1503
+        width: 186
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b0f4c18649c28a0800000000000000
+      internalID: -6328520201489937635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1503
+        width: 200
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e993f15fbb0fd090800000000000000
+      internalID: -8007668696099874333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1487
+        width: 177
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dd78eac1cc3c300800000000000000
+      internalID: 271284826131651976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80e83dea78741c20800000000000000
+      internalID: 3176296106564313228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f20affa9a2e5760800000000000000
+      internalID: 7448437678919397243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66e1c215dde5c550800000000000000
+      internalID: 6180607563034388075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619151224744cca50800000000000000
+      internalID: 6542679624241191190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b29a241a26208c0800000000000000
+      internalID: -4034553871422903449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5497f8b0492b8d0800000000000000
+      internalID: -2832038438289979984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_21
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84e66536eb674650800000000000000
+      internalID: 6217056447090844811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_22
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01255d38dc0723ef0800000000000000
+      internalID: -129917411257921008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_23
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a918cc18b1b956890800000000000000
+      internalID: -7465390264852643430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_24
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6e1c99c687b3aa0800000000000000
+      internalID: -6180213655804451155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1343
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c651f9cb1b472eaa0800000000000000
+      internalID: -6133211435802618516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1071
+        width: 82
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ba744a7095dc390800000000000000
+      internalID: -7796477490552657104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1071
+        width: 82
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca149f265d23cf120800000000000000
+      internalID: 2448888189452632492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1071
+        width: 162
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2ac813741793590800000000000000
+      internalID: -7693993937797864734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 911
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5722974580b4f00800000000000000
+      internalID: 1101983692724794854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 911
+        width: 133
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a218c7e3d941130800000000000000
+      internalID: 3536624499095054927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b2ff480a9e1b430800000000000000
+      internalID: 3797072836485393212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f63e38f26b8f640800000000000000
+      internalID: 5114037692071636872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7a8947258436bc0800000000000000
+      internalID: -3791106942335146065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3413098f82b7f60800000000000000
+      internalID: 8033059408381559735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_35
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5244b52787c748d20800000000000000
+      internalID: 3279883285389067301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_36
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ffe5082b53494a0800000000000000
+      internalID: -6587581314162032775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_37
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a0397b53c91bb40800000000000000
+      internalID: 5454312378249448079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_38
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79fa784d651c5400800000000000000
+      internalID: 314149633120729470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_39
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81792bb5bc5beb430800000000000000
+      internalID: 3800675020568696600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_40
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f219c80715f3d4c0800000000000000
+      internalID: -4263794942909279502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_41
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 751
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7c2f45171e1bf20800000000000000
+      internalID: 3436775867533150118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 546
+        width: 159
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665829de980f92500800000000000000
+      internalID: 372092919421764966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 546
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222152e1406dcbc80800000000000000
+      internalID: -8305528299604078046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_44
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 546
+        width: 148
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2dfa59922055b60800000000000000
+      internalID: 7734090312706937520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d41087ababa502f0800000000000000
+      internalID: -1007210187909491501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa32911661019d60800000000000000
+      internalID: 7895093159650278140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 432
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61e8a970ccc801c0800000000000000
+      internalID: -4537151497528876689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6a06bb1d5217be0800000000000000
+      internalID: -1481361219706116380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6429b36665ba578f0800000000000000
+      internalID: -543339792457559482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 432
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4a2616bd4827f30800000000000000
+      internalID: 4571862649501033647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2269bc61d2179ef0800000000000000
+      internalID: -101591775910993364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_52
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 320
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce95c9d59e689580800000000000000
+      internalID: -8820178280322326846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_53
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 320
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28edd9a25329cd40800000000000000
+      internalID: 5605050049183475759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 224
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf2e55ae683fe250800000000000000
+      internalID: 5976057278415908804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f168c1b3e52841fc0800000000000000
+      internalID: -3525049267093993953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454d507a87b69b5a0800000000000000
+      internalID: -6505050020817546156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_57
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5371d41b86f73d430800000000000000
+      internalID: 3806526197686146869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_58
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcb2bfa00bc10950800000000000000
+      internalID: 6413630548160462044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_59
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460746cb3061cc000800000000000000
+      internalID: 57445100550385764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_60
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fada86627e4a270800000000000000
+      internalID: 8260981768655318813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_61
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2bd5939a44d7420800000000000000
+      internalID: 2629333251056841409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_62
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4125222f3a8285de0800000000000000
+      internalID: -1344279804162977260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_63
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0089c9a1cfbfcf020800000000000000
+      internalID: 2377051763541579776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_64
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ba7d32b5715d570800000000000000
+      internalID: 8490718352687737663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_65
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1f0accd364d9ab0800000000000000
+      internalID: -4999762780071333405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Hay_66
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 49
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3623af9ff17450dc0800000000000000
+      internalID: -3673451718387289501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Buildings_Hay_0: 322658405646824781
+      Atlas_Buildings_Hay_1: -4160701049797428252
+      Atlas_Buildings_Hay_10: -2178158637991228068
+      Atlas_Buildings_Hay_11: -5508729433174721064
+      Atlas_Buildings_Hay_12: -6328520201489937635
+      Atlas_Buildings_Hay_13: -8007668696099874333
+      Atlas_Buildings_Hay_14: 271284826131651976
+      Atlas_Buildings_Hay_15: 3176296106564313228
+      Atlas_Buildings_Hay_16: 7448437678919397243
+      Atlas_Buildings_Hay_17: 6180607563034388075
+      Atlas_Buildings_Hay_18: 6542679624241191190
+      Atlas_Buildings_Hay_19: -4034553871422903449
+      Atlas_Buildings_Hay_2: 3084693775801896403
+      Atlas_Buildings_Hay_20: -2832038438289979984
+      Atlas_Buildings_Hay_21: 6217056447090844811
+      Atlas_Buildings_Hay_22: -129917411257921008
+      Atlas_Buildings_Hay_23: -7465390264852643430
+      Atlas_Buildings_Hay_24: -6180213655804451155
+      Atlas_Buildings_Hay_25: -6133211435802618516
+      Atlas_Buildings_Hay_26: -7796477490552657104
+      Atlas_Buildings_Hay_27: 2448888189452632492
+      Atlas_Buildings_Hay_28: -7693993937797864734
+      Atlas_Buildings_Hay_29: 1101983692724794854
+      Atlas_Buildings_Hay_3: 2926277426171742831
+      Atlas_Buildings_Hay_30: 3536624499095054927
+      Atlas_Buildings_Hay_31: 3797072836485393212
+      Atlas_Buildings_Hay_32: 5114037692071636872
+      Atlas_Buildings_Hay_33: -3791106942335146065
+      Atlas_Buildings_Hay_34: 8033059408381559735
+      Atlas_Buildings_Hay_35: 3279883285389067301
+      Atlas_Buildings_Hay_36: -6587581314162032775
+      Atlas_Buildings_Hay_37: 5454312378249448079
+      Atlas_Buildings_Hay_38: 314149633120729470
+      Atlas_Buildings_Hay_39: 3800675020568696600
+      Atlas_Buildings_Hay_4: -4368088323938931744
+      Atlas_Buildings_Hay_40: -4263794942909279502
+      Atlas_Buildings_Hay_41: 3436775867533150118
+      Atlas_Buildings_Hay_42: 372092919421764966
+      Atlas_Buildings_Hay_43: -8305528299604078046
+      Atlas_Buildings_Hay_44: 7734090312706937520
+      Atlas_Buildings_Hay_45: -1007210187909491501
+      Atlas_Buildings_Hay_46: 7895093159650278140
+      Atlas_Buildings_Hay_47: -4537151497528876689
+      Atlas_Buildings_Hay_48: -1481361219706116380
+      Atlas_Buildings_Hay_49: -543339792457559482
+      Atlas_Buildings_Hay_5: 8542157624359339593
+      Atlas_Buildings_Hay_50: 4571862649501033647
+      Atlas_Buildings_Hay_51: -101591775910993364
+      Atlas_Buildings_Hay_52: -8820178280322326846
+      Atlas_Buildings_Hay_53: 5605050049183475759
+      Atlas_Buildings_Hay_54: 5976057278415908804
+      Atlas_Buildings_Hay_55: -3525049267093993953
+      Atlas_Buildings_Hay_56: -6505050020817546156
+      Atlas_Buildings_Hay_57: 3806526197686146869
+      Atlas_Buildings_Hay_58: 6413630548160462044
+      Atlas_Buildings_Hay_59: 57445100550385764
+      Atlas_Buildings_Hay_6: -4418169012715320973
+      Atlas_Buildings_Hay_60: 8260981768655318813
+      Atlas_Buildings_Hay_61: 2629333251056841409
+      Atlas_Buildings_Hay_62: -1344279804162977260
+      Atlas_Buildings_Hay_63: 2377051763541579776
+      Atlas_Buildings_Hay_64: 8490718352687737663
+      Atlas_Buildings_Hay_65: -4999762780071333405
+      Atlas_Buildings_Hay_66: -3673451718387289501
+      Atlas_Buildings_Hay_7: 4102188096815552161
+      Atlas_Buildings_Hay_8: 4300884206857985319
+      Atlas_Buildings_Hay_9: -7799634959992898559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

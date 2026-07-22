@@ -1,0 +1,3315 @@
+fileFormatVersion: 2
+guid: c0cc3e21017484c4983092b2e68de70d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8053710936014923876
+    second: Animation_Flowers_Black_0
+  - first:
+      213: -4376196578242498324
+    second: Animation_Flowers_Black_1
+  - first:
+      213: -1354050024453185279
+    second: Animation_Flowers_Black_2
+  - first:
+      213: -1540374231386656762
+    second: Animation_Flowers_Black_3
+  - first:
+      213: 282673130066124594
+    second: Animation_Flowers_Black_4
+  - first:
+      213: 6018063224888060849
+    second: Animation_Flowers_Black_5
+  - first:
+      213: 6241302934689159111
+    second: Animation_Flowers_Black_6
+  - first:
+      213: 8181416084107730563
+    second: Animation_Flowers_Black_7
+  - first:
+      213: 5872777736612774337
+    second: Animation_Flowers_Black_8
+  - first:
+      213: 3946283447417077121
+    second: Animation_Flowers_Black_9
+  - first:
+      213: 6368082292557289539
+    second: Animation_Flowers_Black_10
+  - first:
+      213: 7900546598015130736
+    second: Animation_Flowers_Black_11
+  - first:
+      213: -3628203519532066651
+    second: Animation_Flowers_Black_12
+  - first:
+      213: 4716057850898931325
+    second: Animation_Flowers_Black_13
+  - first:
+      213: 6712362269577591097
+    second: Animation_Flowers_Black_14
+  - first:
+      213: 4684258249032783385
+    second: Animation_Flowers_Black_15
+  - first:
+      213: -3782440527231704082
+    second: Animation_Flowers_Black_16
+  - first:
+      213: -8985405757696630785
+    second: Animation_Flowers_Black_17
+  - first:
+      213: 8064493351734208465
+    second: Animation_Flowers_Black_18
+  - first:
+      213: -5073797947769817645
+    second: Animation_Flowers_Black_19
+  - first:
+      213: 9057160996558238206
+    second: Animation_Flowers_Black_20
+  - first:
+      213: -7819974109564819579
+    second: Animation_Flowers_Black_21
+  - first:
+      213: 8477938985830235451
+    second: Animation_Flowers_Black_22
+  - first:
+      213: 1927675974288544109
+    second: Animation_Flowers_Black_23
+  - first:
+      213: -6582740354527335372
+    second: Animation_Flowers_Black_24
+  - first:
+      213: 7078942411140903168
+    second: Animation_Flowers_Black_25
+  - first:
+      213: -5939436707339908890
+    second: Animation_Flowers_Black_26
+  - first:
+      213: -886437326224952696
+    second: Animation_Flowers_Black_27
+  - first:
+      213: 6107869204026900472
+    second: Animation_Flowers_Black_28
+  - first:
+      213: -5269102566581433080
+    second: Animation_Flowers_Black_29
+  - first:
+      213: -8116706431480957993
+    second: Animation_Flowers_Black_30
+  - first:
+      213: 4787282012510621938
+    second: Animation_Flowers_Black_31
+  - first:
+      213: 115674941597271275
+    second: Animation_Flowers_Black_32
+  - first:
+      213: 1111490822556069078
+    second: Animation_Flowers_Black_33
+  - first:
+      213: -7462909220276045230
+    second: Animation_Flowers_Black_34
+  - first:
+      213: -3955130182674952540
+    second: Animation_Flowers_Black_35
+  - first:
+      213: -4655138756772614890
+    second: Animation_Flowers_Black_36
+  - first:
+      213: 2405954549100516743
+    second: Animation_Flowers_Black_37
+  - first:
+      213: -7398349905548981193
+    second: Animation_Flowers_Black_38
+  - first:
+      213: 3471892365492793088
+    second: Animation_Flowers_Black_39
+  - first:
+      213: -1951134357867422428
+    second: Animation_Flowers_Black_40
+  - first:
+      213: -7152827810810103892
+    second: Animation_Flowers_Black_41
+  - first:
+      213: -839131740542201812
+    second: Animation_Flowers_Black_42
+  - first:
+      213: -1632646269579561012
+    second: Animation_Flowers_Black_43
+  - first:
+      213: -4240941094128265782
+    second: Animation_Flowers_Black_44
+  - first:
+      213: -7918175243643521084
+    second: Animation_Flowers_Black_45
+  - first:
+      213: 1795482304888994664
+    second: Animation_Flowers_Black_46
+  - first:
+      213: 1233060712558533903
+    second: Animation_Flowers_Black_47
+  - first:
+      213: -255858499292449303
+    second: Animation_Flowers_Black_48
+  - first:
+      213: 5401535305902093248
+    second: Animation_Flowers_Black_49
+  - first:
+      213: -8341169182515686951
+    second: Animation_Flowers_Black_50
+  - first:
+      213: -1286676542230879806
+    second: Animation_Flowers_Black_51
+  - first:
+      213: -3538602556293338051
+    second: Animation_Flowers_Black_52
+  - first:
+      213: 8144066946093789275
+    second: Animation_Flowers_Black_53
+  - first:
+      213: 2136111414057949460
+    second: Animation_Flowers_Black_54
+  - first:
+      213: -87851129822693650
+    second: Animation_Flowers_Black_55
+  - first:
+      213: 8895145160045377635
+    second: Animation_Flowers_Black_56
+  - first:
+      213: -3760651039790706278
+    second: Animation_Flowers_Black_57
+  - first:
+      213: -8981888830283756559
+    second: Animation_Flowers_Black_58
+  - first:
+      213: -6046301147947593293
+    second: Animation_Flowers_Black_59
+  - first:
+      213: 1338569352412545991
+    second: Animation_Flowers_Black_60
+  - first:
+      213: 3004394399851327050
+    second: Animation_Flowers_Black_61
+  - first:
+      213: 1990927263425847824
+    second: Animation_Flowers_Black_62
+  - first:
+      213: -6544632067180479617
+    second: Animation_Flowers_Black_63
+  - first:
+      213: -6053346980412591138
+    second: Animation_Flowers_Black_64
+  - first:
+      213: 665122532789232377
+    second: Animation_Flowers_Black_65
+  - first:
+      213: 661168852814734174
+    second: Animation_Flowers_Black_66
+  - first:
+      213: -3575040167078126732
+    second: Animation_Flowers_Black_67
+  - first:
+      213: 1310438963485426364
+    second: Animation_Flowers_Black_68
+  - first:
+      213: -53427902401533905
+    second: Animation_Flowers_Black_69
+  - first:
+      213: -2314211644613909911
+    second: Animation_Flowers_Black_70
+  - first:
+      213: 1851106716775394106
+    second: Animation_Flowers_Black_71
+  - first:
+      213: -5888105534617578992
+    second: Animation_Flowers_Black_72
+  - first:
+      213: 6814366999421632046
+    second: Animation_Flowers_Black_73
+  - first:
+      213: -5796062318782621015
+    second: Animation_Flowers_Black_74
+  - first:
+      213: 2117524070989797712
+    second: Animation_Flowers_Black_75
+  - first:
+      213: -7838675403542785338
+    second: Animation_Flowers_Black_76
+  - first:
+      213: 6071048497940881096
+    second: Animation_Flowers_Black_77
+  - first:
+      213: -3206233116514659804
+    second: Animation_Flowers_Black_78
+  - first:
+      213: -1887311262994560837
+    second: Animation_Flowers_Black_79
+  - first:
+      213: 4006843672200036234
+    second: Animation_Flowers_Black_80
+  - first:
+      213: -338582245918672318
+    second: Animation_Flowers_Black_81
+  - first:
+      213: 6996964232832649365
+    second: Animation_Flowers_Black_82
+  - first:
+      213: -7978177948910216486
+    second: Animation_Flowers_Black_83
+  - first:
+      213: -6436697958469437567
+    second: Animation_Flowers_Black_84
+  - first:
+      213: -7440806710010906918
+    second: Animation_Flowers_Black_85
+  - first:
+      213: -1368717238202257173
+    second: Animation_Flowers_Black_86
+  - first:
+      213: -5149858411780122701
+    second: Animation_Flowers_Black_87
+  - first:
+      213: 95912613144793442
+    second: Animation_Flowers_Black_88
+  - first:
+      213: 6784109613030895844
+    second: Animation_Flowers_Black_89
+  - first:
+      213: 8120344523465601027
+    second: Animation_Flowers_Black_90
+  - first:
+      213: -340427320711449184
+    second: Animation_Flowers_Black_91
+  - first:
+      213: 6613803060796985281
+    second: Animation_Flowers_Black_92
+  - first:
+      213: -2165636470422516128
+    second: Animation_Flowers_Black_93
+  - first:
+      213: -3351182634650927059
+    second: Animation_Flowers_Black_94
+  - first:
+      213: -3368986528479699217
+    second: Animation_Flowers_Black_95
+  - first:
+      213: 5643333988219689039
+    second: Animation_Flowers_Black_96
+  - first:
+      213: -7916909967072134669
+    second: Animation_Flowers_Black_97
+  - first:
+      213: 2543550737707558084
+    second: Animation_Flowers_Black_98
+  - first:
+      213: 5663930881032146435
+    second: Animation_Flowers_Black_99
+  - first:
+      213: -6580439099003944100
+    second: Animation_Flowers_Black_100
+  - first:
+      213: 7884104274846946531
+    second: Animation_Flowers_Black_101
+  - first:
+      213: 2191332027642017665
+    second: Animation_Flowers_Black_102
+  - first:
+      213: -2244521615086151459
+    second: Animation_Flowers_Black_103
+  - first:
+      213: 4912290750319885224
+    second: Animation_Flowers_Black_104
+  - first:
+      213: 8477848812116736451
+    second: Animation_Flowers_Black_105
+  - first:
+      213: -1715867102060474167
+    second: Animation_Flowers_Black_106
+  - first:
+      213: -3993139483935480384
+    second: Animation_Flowers_Black_107
+  - first:
+      213: 1333600473230735981
+    second: Animation_Flowers_Black_108
+  - first:
+      213: 8473370531038582426
+    second: Animation_Flowers_Black_109
+  - first:
+      213: 4076539472310166905
+    second: Animation_Flowers_Black_110
+  - first:
+      213: 4756551170589125923
+    second: Animation_Flowers_Black_111
+  - first:
+      213: -5385277838624945917
+    second: Animation_Flowers_Black_112
+  - first:
+      213: -937590811048306499
+    second: Animation_Flowers_Black_113
+  - first:
+      213: -5506606639994920931
+    second: Animation_Flowers_Black_114
+  - first:
+      213: 480954337910873054
+    second: Animation_Flowers_Black_115
+  - first:
+      213: 6845903380378810466
+    second: Animation_Flowers_Black_116
+  - first:
+      213: -1349294206946827674
+    second: Animation_Flowers_Black_117
+  - first:
+      213: 7169514808728092225
+    second: Animation_Flowers_Black_118
+  - first:
+      213: -7824492865961165805
+    second: Animation_Flowers_Black_119
+  - first:
+      213: 1582817000375015766
+    second: Animation_Flowers_Black_120
+  - first:
+      213: 8040647675927409485
+    second: Animation_Flowers_Black_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46829d80d6784cf60800000000000000
+      internalID: 8053710936014923876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0739ee560a443c0800000000000000
+      internalID: -4376196578242498324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101eb544da2753de0800000000000000
+      internalID: -1354050024453185279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600780d3ccd7f9ae0800000000000000
+      internalID: -1540374231386656762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f9321d6b14ce300800000000000000
+      internalID: 282673130066124594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb6b433e94748350800000000000000
+      internalID: 6018063224888060849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c710c583ff8d9650800000000000000
+      internalID: 6241302934689159111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e98ecd49a3a8170800000000000000
+      internalID: 8181416084107730563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c180a37c3c408150800000000000000
+      internalID: 5872777736612774337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d7c4a13e304c630800000000000000
+      internalID: 3946283447417077121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34815540b19ff5850800000000000000
+      internalID: 6368082292557289539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 12
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cdc12a54164ad60800000000000000
+      internalID: 7900546598015130736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8187d3f1806adc0800000000000000
+      internalID: -3628203519532066651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed50fe0adc27140800000000000000
+      internalID: 4716057850898931325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 14
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93938e9abe9172d50800000000000000
+      internalID: 6712362269577591097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916dac92f04d10140800000000000000
+      internalID: 4684258249032783385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee320567162128bc0800000000000000
+      internalID: -3782440527231704082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff1eb1f11d6d4380800000000000000
+      internalID: -8985405757696630785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7ed93d9f5daef60800000000000000
+      internalID: 8064493351734208465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 14
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5f21d06af3699b0800000000000000
+      internalID: -5073797947769817645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1706180ff71bd70800000000000000
+      internalID: 9057160996558238206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58723a6bafed97390800000000000000
+      internalID: -7819974109564819579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 12
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3db8dde690b7a570800000000000000
+      internalID: 8477938985830235451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d611689d51b70ca10800000000000000
+      internalID: 1927675974288544109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ce4cf368865a4a0800000000000000
+      internalID: -6582740354527335372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 21
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0013089fd947d3260800000000000000
+      internalID: 7078942411140903168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 14
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8c61d78c1e29da0800000000000000
+      internalID: -5939436707339908890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_27
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882f6b6c2fdb2b3f0800000000000000
+      internalID: -886437326224952696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 12
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff32902ea283c450800000000000000
+      internalID: 6107869204026900472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d80d1f12360e6b0800000000000000
+      internalID: -5269102566581433080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_30
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3f275318aab5f80800000000000000
+      internalID: -8116706431480957993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0105350a7df6240800000000000000
+      internalID: 4787282012510621938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c15b1fb5fa9100800000000000000
+      internalID: 115674941597271275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_33
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcaf81a30fcc6f00800000000000000
+      internalID: 1111490822556069078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_34
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 12
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a7576ba9b6e6890800000000000000
+      internalID: -7462909220276045230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_35
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aecb35dd0e8c19c0800000000000000
+      internalID: -3955130182674952540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d2a66f6ff956fb0800000000000000
+      internalID: -4655138756772614890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7851fd44aeaa36120800000000000000
+      internalID: 2405954549100516743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_38
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c45b385f7c35990800000000000000
+      internalID: -7398349905548981193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_39
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fa69726b3ae2030800000000000000
+      internalID: 3471892365492793088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_40
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d904a93ad2ce4e0800000000000000
+      internalID: -1951134357867422428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_41
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f02dd00d0cbc90800000000000000
+      internalID: -7152827810810103892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c201a3db02eca54f0800000000000000
+      internalID: -839131740542201812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_43
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7f7d13edca759e0800000000000000
+      internalID: -1632646269579561012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_44
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5d02b5b862525c0800000000000000
+      internalID: -4240941094128265782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7f555719dfc1290800000000000000
+      internalID: -7918175243643521084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b7867b4a5dae810800000000000000
+      internalID: 1795482304888994664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d9a8e5f26bc1110800000000000000
+      internalID: 1233060712558533903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5b8ecec02037cf0800000000000000
+      internalID: -255858499292449303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3760efdbb16fa40800000000000000
+      internalID: 5401535305902093248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d197b862d63e3c80800000000000000
+      internalID: -8341169182515686951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1208f708ec42ee0800000000000000
+      internalID: -1286676542230879806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ca8de29bb54eec0800000000000000
+      internalID: -3538602556293338051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50bbe40db9850170800000000000000
+      internalID: 8144066946093789275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419d493730ef4ad10800000000000000
+      internalID: 2136111414057949460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee63dc5ecd3e7cef0800000000000000
+      internalID: -87851129822693650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3683a020567e17b70800000000000000
+      internalID: 8895145160045377635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 12
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a915219ddcb7fcbc0800000000000000
+      internalID: -3760651039790706278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb43ea62bbe95380800000000000000
+      internalID: -8981888830283756559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b11c8ff329371ca0800000000000000
+      internalID: -6046301147947593293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c346c5ebbd839210800000000000000
+      internalID: 1338569352412545991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eaf48e9c0c1b920800000000000000
+      internalID: 3004394399851327050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01263263cc131ab10800000000000000
+      internalID: 1990927263425847824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bb3125fcbcc25a0800000000000000
+      internalID: -6544632067180479617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3f25a4ef03efba0800000000000000
+      internalID: -6053346980412591138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2a20b6b6dfa3900800000000000000
+      internalID: 665122532789232377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_66
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5323909191fc2900800000000000000
+      internalID: 661168852814734174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b1e8fc8e7e26ec0800000000000000
+      internalID: -3575040167078126732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_68
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb241665b4d9f2210800000000000000
+      internalID: 1310438963485426364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2823481b9f224ff0800000000000000
+      internalID: -53427902401533905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96227bb35c442efd0800000000000000
+      internalID: -2314211644613909911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_71
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bacb650c370b910800000000000000
+      internalID: 1851106716775394106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_72
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0129b19763f394ea0800000000000000
+      internalID: -5888105534617578992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_73
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ebba19eae719e50800000000000000
+      internalID: 6814366999421632046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_74
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa5fe8a700409fa0800000000000000
+      internalID: -5796062318782621015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_75
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0599fa66ce4f26d10800000000000000
+      internalID: 2117524070989797712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_76
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c29d36604e673390800000000000000
+      internalID: -7838675403542785338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce5fed6172b04450800000000000000
+      internalID: 6071048497940881096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_78
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422dc07c7fb2183d0800000000000000
+      internalID: -3206233116514659804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_79
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb88d9cd76ceec5e0800000000000000
+      internalID: -1887311262994560837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_80
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f3108371b2b9730800000000000000
+      internalID: 4006843672200036234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_81
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a73c0cd3d1d4bf0800000000000000
+      internalID: -338582245918672318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_82
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5988a14f5e53a1160800000000000000
+      internalID: 6996964232832649365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_83
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada1a58fc61d74190800000000000000
+      internalID: -7978177948910216486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_84
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18772f25f414ca6a0800000000000000
+      internalID: -6436697958469437567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_85
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6f47768b1fcb890800000000000000
+      internalID: -7440806710010906918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_86
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be030037ce6510de0800000000000000
+      internalID: -1368717238202257173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_87
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7d9424f070888b0800000000000000
+      internalID: -5149858411780122701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_88
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26199f37300c45100800000000000000
+      internalID: 95912613144793442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_89
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0f402dfbff52e50800000000000000
+      internalID: 6784109613030895844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300b4f6125241b070800000000000000
+      internalID: 8120344523465601027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f72dc72f864bf0800000000000000
+      internalID: -340427320711449184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf0235a7d2f8cb50800000000000000
+      internalID: 6613803060796985281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_93
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec5dbaa1d12f1e0800000000000000
+      internalID: -2165636470422516128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d208c2c26253e71d0800000000000000
+      internalID: -3351182634650927059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_95
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee14ec1a94fe31d0800000000000000
+      internalID: -3368986528479699217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_96
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4819b4dc56215e40800000000000000
+      internalID: 5643333988219689039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f97aed945c712290800000000000000
+      internalID: -7916909967072134669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_98
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4ed3d6be18c4320800000000000000
+      internalID: 2543550737707558084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e4944a0235a9e40800000000000000
+      internalID: 5663930881032146435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_100
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5347cd01859da4a0800000000000000
+      internalID: -6580439099003944100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e41462f017f96d60800000000000000
+      internalID: 7884104274846946531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_102
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187f9847edc296e10800000000000000
+      internalID: 2191332027642017665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_103
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd89a1aab7bd9d0e0800000000000000
+      internalID: -2244521615086151459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_104
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf0463966fb2440800000000000000
+      internalID: 4912290750319885224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_105
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c97fa9b39e57a570800000000000000
+      internalID: 8477848812116736451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_106
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c018e336f30038e0800000000000000
+      internalID: -1715867102060474167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_107
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c56071cbc48598c0800000000000000
+      internalID: -3993139483935480384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_108
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6af53f8096e18210800000000000000
+      internalID: 1333600473230735981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9651d8aa95779570800000000000000
+      internalID: 8473370531038582426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_110
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975e7e73d07c29830800000000000000
+      internalID: 4076539472310166905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_111
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32deeee961aa20240800000000000000
+      internalID: 4756551170589125923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_112
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3090af39656a345b0800000000000000
+      internalID: -5385277838624945917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_113
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db89bcaff120df2f0800000000000000
+      internalID: -937590811048306499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_114
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10ab49af6a9493b0800000000000000
+      internalID: -5506606639994920931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_115
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb5c501c61bca600800000000000000
+      internalID: 480954337910873054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_116
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268ff127ad8810f50800000000000000
+      internalID: 6845903380378810466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_117
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66221715118564de0800000000000000
+      internalID: -1349294206946827674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_118
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ef32a9bbb3f7360800000000000000
+      internalID: 7169514808728092225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_119
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c7ec0c131d96390800000000000000
+      internalID: -7824492865961165805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_120
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6595dcbfcab47f510800000000000000
+      internalID: 1582817000375015766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Black_121
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4339b7c57e169f60800000000000000
+      internalID: 8040647675927409485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Flowers_Black_0: 8053710936014923876
+      Animation_Flowers_Black_1: -4376196578242498324
+      Animation_Flowers_Black_10: 6368082292557289539
+      Animation_Flowers_Black_100: -6580439099003944100
+      Animation_Flowers_Black_101: 7884104274846946531
+      Animation_Flowers_Black_102: 2191332027642017665
+      Animation_Flowers_Black_103: -2244521615086151459
+      Animation_Flowers_Black_104: 4912290750319885224
+      Animation_Flowers_Black_105: 8477848812116736451
+      Animation_Flowers_Black_106: -1715867102060474167
+      Animation_Flowers_Black_107: -3993139483935480384
+      Animation_Flowers_Black_108: 1333600473230735981
+      Animation_Flowers_Black_109: 8473370531038582426
+      Animation_Flowers_Black_11: 7900546598015130736
+      Animation_Flowers_Black_110: 4076539472310166905
+      Animation_Flowers_Black_111: 4756551170589125923
+      Animation_Flowers_Black_112: -5385277838624945917
+      Animation_Flowers_Black_113: -937590811048306499
+      Animation_Flowers_Black_114: -5506606639994920931
+      Animation_Flowers_Black_115: 480954337910873054
+      Animation_Flowers_Black_116: 6845903380378810466
+      Animation_Flowers_Black_117: -1349294206946827674
+      Animation_Flowers_Black_118: 7169514808728092225
+      Animation_Flowers_Black_119: -7824492865961165805
+      Animation_Flowers_Black_12: -3628203519532066651
+      Animation_Flowers_Black_120: 1582817000375015766
+      Animation_Flowers_Black_121: 8040647675927409485
+      Animation_Flowers_Black_13: 4716057850898931325
+      Animation_Flowers_Black_14: 6712362269577591097
+      Animation_Flowers_Black_15: 4684258249032783385
+      Animation_Flowers_Black_16: -3782440527231704082
+      Animation_Flowers_Black_17: -8985405757696630785
+      Animation_Flowers_Black_18: 8064493351734208465
+      Animation_Flowers_Black_19: -5073797947769817645
+      Animation_Flowers_Black_2: -1354050024453185279
+      Animation_Flowers_Black_20: 9057160996558238206
+      Animation_Flowers_Black_21: -7819974109564819579
+      Animation_Flowers_Black_22: 8477938985830235451
+      Animation_Flowers_Black_23: 1927675974288544109
+      Animation_Flowers_Black_24: -6582740354527335372
+      Animation_Flowers_Black_25: 7078942411140903168
+      Animation_Flowers_Black_26: -5939436707339908890
+      Animation_Flowers_Black_27: -886437326224952696
+      Animation_Flowers_Black_28: 6107869204026900472
+      Animation_Flowers_Black_29: -5269102566581433080
+      Animation_Flowers_Black_3: -1540374231386656762
+      Animation_Flowers_Black_30: -8116706431480957993
+      Animation_Flowers_Black_31: 4787282012510621938
+      Animation_Flowers_Black_32: 115674941597271275
+      Animation_Flowers_Black_33: 1111490822556069078
+      Animation_Flowers_Black_34: -7462909220276045230
+      Animation_Flowers_Black_35: -3955130182674952540
+      Animation_Flowers_Black_36: -4655138756772614890
+      Animation_Flowers_Black_37: 2405954549100516743
+      Animation_Flowers_Black_38: -7398349905548981193
+      Animation_Flowers_Black_39: 3471892365492793088
+      Animation_Flowers_Black_4: 282673130066124594
+      Animation_Flowers_Black_40: -1951134357867422428
+      Animation_Flowers_Black_41: -7152827810810103892
+      Animation_Flowers_Black_42: -839131740542201812
+      Animation_Flowers_Black_43: -1632646269579561012
+      Animation_Flowers_Black_44: -4240941094128265782
+      Animation_Flowers_Black_45: -7918175243643521084
+      Animation_Flowers_Black_46: 1795482304888994664
+      Animation_Flowers_Black_47: 1233060712558533903
+      Animation_Flowers_Black_48: -255858499292449303
+      Animation_Flowers_Black_49: 5401535305902093248
+      Animation_Flowers_Black_5: 6018063224888060849
+      Animation_Flowers_Black_50: -8341169182515686951
+      Animation_Flowers_Black_51: -1286676542230879806
+      Animation_Flowers_Black_52: -3538602556293338051
+      Animation_Flowers_Black_53: 8144066946093789275
+      Animation_Flowers_Black_54: 2136111414057949460
+      Animation_Flowers_Black_55: -87851129822693650
+      Animation_Flowers_Black_56: 8895145160045377635
+      Animation_Flowers_Black_57: -3760651039790706278
+      Animation_Flowers_Black_58: -8981888830283756559
+      Animation_Flowers_Black_59: -6046301147947593293
+      Animation_Flowers_Black_6: 6241302934689159111
+      Animation_Flowers_Black_60: 1338569352412545991
+      Animation_Flowers_Black_61: 3004394399851327050
+      Animation_Flowers_Black_62: 1990927263425847824
+      Animation_Flowers_Black_63: -6544632067180479617
+      Animation_Flowers_Black_64: -6053346980412591138
+      Animation_Flowers_Black_65: 665122532789232377
+      Animation_Flowers_Black_66: 661168852814734174
+      Animation_Flowers_Black_67: -3575040167078126732
+      Animation_Flowers_Black_68: 1310438963485426364
+      Animation_Flowers_Black_69: -53427902401533905
+      Animation_Flowers_Black_7: 8181416084107730563
+      Animation_Flowers_Black_70: -2314211644613909911
+      Animation_Flowers_Black_71: 1851106716775394106
+      Animation_Flowers_Black_72: -5888105534617578992
+      Animation_Flowers_Black_73: 6814366999421632046
+      Animation_Flowers_Black_74: -5796062318782621015
+      Animation_Flowers_Black_75: 2117524070989797712
+      Animation_Flowers_Black_76: -7838675403542785338
+      Animation_Flowers_Black_77: 6071048497940881096
+      Animation_Flowers_Black_78: -3206233116514659804
+      Animation_Flowers_Black_79: -1887311262994560837
+      Animation_Flowers_Black_8: 5872777736612774337
+      Animation_Flowers_Black_80: 4006843672200036234
+      Animation_Flowers_Black_81: -338582245918672318
+      Animation_Flowers_Black_82: 6996964232832649365
+      Animation_Flowers_Black_83: -7978177948910216486
+      Animation_Flowers_Black_84: -6436697958469437567
+      Animation_Flowers_Black_85: -7440806710010906918
+      Animation_Flowers_Black_86: -1368717238202257173
+      Animation_Flowers_Black_87: -5149858411780122701
+      Animation_Flowers_Black_88: 95912613144793442
+      Animation_Flowers_Black_89: 6784109613030895844
+      Animation_Flowers_Black_9: 3946283447417077121
+      Animation_Flowers_Black_90: 8120344523465601027
+      Animation_Flowers_Black_91: -340427320711449184
+      Animation_Flowers_Black_92: 6613803060796985281
+      Animation_Flowers_Black_93: -2165636470422516128
+      Animation_Flowers_Black_94: -3351182634650927059
+      Animation_Flowers_Black_95: -3368986528479699217
+      Animation_Flowers_Black_96: 5643333988219689039
+      Animation_Flowers_Black_97: -7916909967072134669
+      Animation_Flowers_Black_98: 2543550737707558084
+      Animation_Flowers_Black_99: 5663930881032146435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

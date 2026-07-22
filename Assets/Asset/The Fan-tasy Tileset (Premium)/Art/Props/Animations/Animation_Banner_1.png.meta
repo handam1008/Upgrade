@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: 27ac1ef1733448c438b4807cc72c183d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8888872258099026115
+    second: Animation_Banner_1_0
+  - first:
+      213: 3362351749529457889
+    second: Animation_Banner_1_1
+  - first:
+      213: -4935149331161270847
+    second: Animation_Banner_1_2
+  - first:
+      213: 1207940171098224134
+    second: Animation_Banner_1_3
+  - first:
+      213: -4537232257426943910
+    second: Animation_Banner_1_4
+  - first:
+      213: 2994298676803451254
+    second: Animation_Banner_1_5
+  - first:
+      213: -3178532654816107433
+    second: Animation_Banner_1_6
+  - first:
+      213: 827574407581001736
+    second: Animation_Banner_1_7
+  - first:
+      213: 3051845489189047979
+    second: Animation_Banner_1_8
+  - first:
+      213: -8662407214876698776
+    second: Animation_Banner_1_9
+  - first:
+      213: 7787813732652417045
+    second: Animation_Banner_1_10
+  - first:
+      213: 3960788881421613909
+    second: Animation_Banner_1_11
+  - first:
+      213: -4600530683700885896
+    second: Animation_Banner_1_12
+  - first:
+      213: 6720842923907616225
+    second: Animation_Banner_1_13
+  - first:
+      213: -991686623851548310
+    second: Animation_Banner_1_14
+  - first:
+      213: -9097539022174799167
+    second: Animation_Banner_1_15
+  - first:
+      213: 302287156862210775
+    second: Animation_Banner_1_16
+  - first:
+      213: -5092947322266143025
+    second: Animation_Banner_1_17
+  - first:
+      213: 4641292032537938464
+    second: Animation_Banner_1_18
+  - first:
+      213: -5349178345226779287
+    second: Animation_Banner_1_19
+  - first:
+      213: 507831446305127470
+    second: Animation_Banner_1_20
+  - first:
+      213: 502766691134560211
+    second: Animation_Banner_1_21
+  - first:
+      213: 8790721897110568320
+    second: Animation_Banner_1_22
+  - first:
+      213: 2841640480987231724
+    second: Animation_Banner_1_23
+  - first:
+      213: 19738668012775420
+    second: Animation_Banner_1_24
+  - first:
+      213: -809202435019420503
+    second: Animation_Banner_1_25
+  - first:
+      213: -2564463544488658046
+    second: Animation_Banner_1_26
+  - first:
+      213: 7127332338807148836
+    second: Animation_Banner_1_27
+  - first:
+      213: 4717876025935845782
+    second: Animation_Banner_1_28
+  - first:
+      213: 1748186832334710831
+    second: Animation_Banner_1_29
+  - first:
+      213: 5767577253092668419
+    second: Animation_Banner_1_30
+  - first:
+      213: -2592188774183403615
+    second: Animation_Banner_1_31
+  - first:
+      213: 3441410800913734243
+    second: Animation_Banner_1_32
+  - first:
+      213: -1431148431660730138
+    second: Animation_Banner_1_33
+  - first:
+      213: -2330943015417922217
+    second: Animation_Banner_1_34
+  - first:
+      213: 2800626261794913042
+    second: Animation_Banner_1_35
+  - first:
+      213: 7110781759131007150
+    second: Animation_Banner_1_36
+  - first:
+      213: 8508795675224930255
+    second: Animation_Banner_1_37
+  - first:
+      213: 43193909273181861
+    second: Animation_Banner_1_38
+  - first:
+      213: -1871127005056726014
+    second: Animation_Banner_1_39
+  - first:
+      213: 9024635060315491526
+    second: Animation_Banner_1_40
+  - first:
+      213: 9011747075937766782
+    second: Animation_Banner_1_41
+  - first:
+      213: 4099134217922770395
+    second: Animation_Banner_1_42
+  - first:
+      213: -3626292877287628910
+    second: Animation_Banner_1_43
+  - first:
+      213: -1210055777595334091
+    second: Animation_Banner_1_44
+  - first:
+      213: -5454720312312011086
+    second: Animation_Banner_1_45
+  - first:
+      213: 9011824458684043298
+    second: Animation_Banner_1_46
+  - first:
+      213: -7432706380519030584
+    second: Animation_Banner_1_47
+  - first:
+      213: 1723938878526162801
+    second: Animation_Banner_1_48
+  - first:
+      213: -5763213348184529426
+    second: Animation_Banner_1_49
+  - first:
+      213: -1014244092724408630
+    second: Animation_Banner_1_50
+  - first:
+      213: -4778010411317380598
+    second: Animation_Banner_1_51
+  - first:
+      213: 8772675839511968424
+    second: Animation_Banner_1_52
+  - first:
+      213: -3295312407899369115
+    second: Animation_Banner_1_53
+  - first:
+      213: 5931493970078651921
+    second: Animation_Banner_1_54
+  - first:
+      213: -1035795535693631201
+    second: Animation_Banner_1_55
+  - first:
+      213: -4300053997813072513
+    second: Animation_Banner_1_56
+  - first:
+      213: -2425498110316485151
+    second: Animation_Banner_1_57
+  - first:
+      213: -7786981823081816381
+    second: Animation_Banner_1_58
+  - first:
+      213: 8936717623616061543
+    second: Animation_Banner_1_59
+  - first:
+      213: 2067415340866893026
+    second: Animation_Banner_1_60
+  - first:
+      213: -1926844135818622602
+    second: Animation_Banner_1_61
+  - first:
+      213: -7252615228064712270
+    second: Animation_Banner_1_62
+  - first:
+      213: 6069469084435844622
+    second: Animation_Banner_1_63
+  - first:
+      213: 9195295672648280747
+    second: Animation_Banner_1_64
+  - first:
+      213: 8883778695176796372
+    second: Animation_Banner_1_65
+  - first:
+      213: -1676181294925875011
+    second: Animation_Banner_1_66
+  - first:
+      213: 7022960561191254973
+    second: Animation_Banner_1_67
+  - first:
+      213: -5710276059569278988
+    second: Animation_Banner_1_68
+  - first:
+      213: 7918025318280418804
+    second: Animation_Banner_1_69
+  - first:
+      213: -2323563611504790213
+    second: Animation_Banner_1_70
+  - first:
+      213: -2753688141063166215
+    second: Animation_Banner_1_71
+  - first:
+      213: 6197604510365585762
+    second: Animation_Banner_1_72
+  - first:
+      213: 259195936166571753
+    second: Animation_Banner_1_73
+  - first:
+      213: 2022379242964675931
+    second: Animation_Banner_1_74
+  - first:
+      213: 3535935057800094038
+    second: Animation_Banner_1_75
+  - first:
+      213: -595795193030769001
+    second: Animation_Banner_1_76
+  - first:
+      213: -5740497863631817427
+    second: Animation_Banner_1_77
+  - first:
+      213: 6908729243721080449
+    second: Animation_Banner_1_78
+  - first:
+      213: -3156682469923769283
+    second: Animation_Banner_1_79
+  - first:
+      213: -9026003349996921690
+    second: Animation_Banner_1_80
+  - first:
+      213: -9076787584063497275
+    second: Animation_Banner_1_81
+  - first:
+      213: -2065759156851030378
+    second: Animation_Banner_1_82
+  - first:
+      213: 5281583816218545432
+    second: Animation_Banner_1_83
+  - first:
+      213: -3033170361523875348
+    second: Animation_Banner_1_84
+  - first:
+      213: -919776036377749649
+    second: Animation_Banner_1_85
+  - first:
+      213: 7253614801735497589
+    second: Animation_Banner_1_86
+  - first:
+      213: 7482271346214526748
+    second: Animation_Banner_1_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Banner_1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 642
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c811d5393e9b5b70800000000000000
+      internalID: 8888872258099026115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 642
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4dd980a1979ae20800000000000000
+      internalID: 3362351749529457889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 642
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c530a2b4d3d28bb0800000000000000
+      internalID: -4935149331161270847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 642
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606fb388f2773c010800000000000000
+      internalID: 1207940171098224134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 642
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a509f981d438801c0800000000000000
+      internalID: -4537232257426943910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 642
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679ba4638c2ed8920800000000000000
+      internalID: 2994298676803451254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 642
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e4ba146593e3d0800000000000000
+      internalID: -3178532654816107433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 642
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808e11df9822c7b00800000000000000
+      internalID: 827574407581001736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 578
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baecd749d455a5a20800000000000000
+      internalID: 3051845489189047979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 578
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8675e719882f8c780800000000000000
+      internalID: -8662407214876698776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 578
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51008a7045fd31c60800000000000000
+      internalID: 7787813732652417045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 578
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bb373a08c87f630800000000000000
+      internalID: 3960788881421613909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 578
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87649b3c7b1a720c0800000000000000
+      internalID: -4600530683700885896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 578
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed06bed70b354d50800000000000000
+      internalID: 6720842923907616225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 578
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6172d01542dc32f0800000000000000
+      internalID: -991686623851548310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 578
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca340dc57c0fb180800000000000000
+      internalID: -9097539022174799167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 514
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d25fec4190f13400800000000000000
+      internalID: 302287156862210775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 514
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6bc8cd4673259b0800000000000000
+      internalID: -5092947322266143025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 514
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a4642538e296040800000000000000
+      internalID: 4641292032537938464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 514
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965cb8cd2a6e3c5b0800000000000000
+      internalID: -5349178345226779287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 514
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c3ac2820e2c0700800000000000000
+      internalID: 507831446305127470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 514
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d759fd44af2af600800000000000000
+      internalID: 502766691134560211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 514
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08df58c7dfaeef970800000000000000
+      internalID: 8790721897110568320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 514
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce53d9836f88f6720800000000000000
+      internalID: 2841640480987231724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 450
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ad37c630264000800000000000000
+      internalID: 19738668012775420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 450
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac49453ca225c4f0800000000000000
+      internalID: -809202435019420503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 450
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b705f4ef1396cd0800000000000000
+      internalID: -2564463544488658046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 450
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42111cafffe59e260800000000000000
+      internalID: 7127332338807148836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 450
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699dc3ccf33497140800000000000000
+      internalID: 4717876025935845782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 450
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28635669aec24810800000000000000
+      internalID: 1748186832334710831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 450
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304363924fc8a0050800000000000000
+      internalID: 5767577253092668419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 450
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1affa0c3b02b60cd0800000000000000
+      internalID: -2592188774183403615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 386
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ad7aad3e852cf20800000000000000
+      internalID: 3441410800913734243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 386
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8310e751a832ce0800000000000000
+      internalID: -1431148431660730138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 386
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d36566da3d6afd0800000000000000
+      internalID: -2330943015417922217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 386
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b7aea2fb2ddd620800000000000000
+      internalID: 2800626261794913042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 386
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b45cd5529ea260800000000000000
+      internalID: 7110781759131007150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 386
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc77928c590551670800000000000000
+      internalID: 8508795675224930255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 386
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae30b2b1a4799000800000000000000
+      internalID: 43193909273181861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 386
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c04fd07eb6806e0800000000000000
+      internalID: -1871127005056726014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc04a5d5c1fd3d70800000000000000
+      internalID: 9024635060315491526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 322
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d8fe22838201d70800000000000000
+      internalID: 9011747075937766782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 322
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd57fe16adc03e830800000000000000
+      internalID: 4099134217922770395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 322
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fddbd47d1dcadc0800000000000000
+      internalID: -3626292877287628910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 322
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53265027ea4053fe0800000000000000
+      internalID: -1210055777595334091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 322
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6e88bb6c0fc44b0800000000000000
+      internalID: -5454720312312011086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2201a06399e601d70800000000000000
+      internalID: 9011824458684043298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_47
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 322
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c042655de8b9d890800000000000000
+      internalID: -7432706380519030584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1778905b649ace710800000000000000
+      internalID: 1723938878526162801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 258
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5eba0aef3f400b0800000000000000
+      internalID: -5763213348184529426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 258
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace8f911f5eace1f0800000000000000
+      internalID: -1014244092724408630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a3f4c88d811bdb0800000000000000
+      internalID: -4778010411317380598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 258
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa33c7423eceb970800000000000000
+      internalID: 8772675839511968424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 258
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561983703d2b442d0800000000000000
+      internalID: -3295312407899369115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 258
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d8e1e656e05250800000000000000
+      internalID: 5931493970078651921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_55
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 258
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11bb0bb27d10a1f0800000000000000
+      internalID: -1035795535693631201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 194
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d7a51fba32354c0800000000000000
+      internalID: -4300053997813072513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 194
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5643bc156e65ed0800000000000000
+      internalID: -2425498110316485151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 194
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ced8c20a451fe390800000000000000
+      internalID: -7786981823081816381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 194
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760cb957459950c70800000000000000
+      internalID: 8936717623616061543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 194
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e470938c4fe0bc10800000000000000
+      internalID: 2067415340866893026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_61
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 194
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6798cf2a7797245e0800000000000000
+      internalID: -1926844135818622602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b93d9640e8895b90800000000000000
+      internalID: -7252615228064712270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_63
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 194
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e830199f51b3450800000000000000
+      internalID: 6069469084435844622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 130
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa23ec02b04c9f70800000000000000
+      internalID: 9195295672648280747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 130
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8323da7a5894b70800000000000000
+      internalID: 8883778695176796372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_66
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 130
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8f9c83ef10db8e0800000000000000
+      internalID: -1676181294925875011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_67
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 130
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbf161db61967160800000000000000
+      internalID: 7022960561191254973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 130
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffa4fb9d2601c0b0800000000000000
+      internalID: -5710276059569278988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_69
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 130
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f557a2531a72ed60800000000000000
+      internalID: 7918025318280418804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_70
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35bb33c43b01cfd0800000000000000
+      internalID: -2323563611504790213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 130
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f669b1b93fe8c9d0800000000000000
+      internalID: -2753688141063166215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26113b24770520650800000000000000
+      internalID: 6197604510365585762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 66
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeee66a459d89300800000000000000
+      internalID: 259195936166571753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_74
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d680ad43fe01c10800000000000000
+      internalID: 2022379242964675931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651660d633a221130800000000000000
+      internalID: 3535935057800094038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7960488bd6f4bb7f0800000000000000
+      internalID: -595795193030769001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_77
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2536548b97a550b0800000000000000
+      internalID: -5740497863631817427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_78
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 66
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e1955a4acb0ef50800000000000000
+      internalID: 6908729243721080449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 66
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34bd77b4063134d0800000000000000
+      internalID: -3156682469923769283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac92f566c13db280800000000000000
+      internalID: -9026003349996921690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb183e78c5c80280800000000000000
+      internalID: -9076787584063497275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_82
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6964260edf2f453e0800000000000000
+      internalID: -2065759156851030378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_83
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d88217f74fb4940800000000000000
+      internalID: 5281583816218545432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1502a60a308e5d0800000000000000
+      internalID: -3033170361523875348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_85
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6799ce619c4c33f0800000000000000
+      internalID: -919776036377749649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577b5fa1b340aa460800000000000000
+      internalID: 7253614801735497589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Banner_1_87
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5338852e56d760800000000000000
+      internalID: 7482271346214526748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Banner_1_0: 8888872258099026115
+      Animation_Banner_1_1: 3362351749529457889
+      Animation_Banner_1_10: 7787813732652417045
+      Animation_Banner_1_11: 3960788881421613909
+      Animation_Banner_1_12: -4600530683700885896
+      Animation_Banner_1_13: 6720842923907616225
+      Animation_Banner_1_14: -991686623851548310
+      Animation_Banner_1_15: -9097539022174799167
+      Animation_Banner_1_16: 302287156862210775
+      Animation_Banner_1_17: -5092947322266143025
+      Animation_Banner_1_18: 4641292032537938464
+      Animation_Banner_1_19: -5349178345226779287
+      Animation_Banner_1_2: -4935149331161270847
+      Animation_Banner_1_20: 507831446305127470
+      Animation_Banner_1_21: 502766691134560211
+      Animation_Banner_1_22: 8790721897110568320
+      Animation_Banner_1_23: 2841640480987231724
+      Animation_Banner_1_24: 19738668012775420
+      Animation_Banner_1_25: -809202435019420503
+      Animation_Banner_1_26: -2564463544488658046
+      Animation_Banner_1_27: 7127332338807148836
+      Animation_Banner_1_28: 4717876025935845782
+      Animation_Banner_1_29: 1748186832334710831
+      Animation_Banner_1_3: 1207940171098224134
+      Animation_Banner_1_30: 5767577253092668419
+      Animation_Banner_1_31: -2592188774183403615
+      Animation_Banner_1_32: 3441410800913734243
+      Animation_Banner_1_33: -1431148431660730138
+      Animation_Banner_1_34: -2330943015417922217
+      Animation_Banner_1_35: 2800626261794913042
+      Animation_Banner_1_36: 7110781759131007150
+      Animation_Banner_1_37: 8508795675224930255
+      Animation_Banner_1_38: 43193909273181861
+      Animation_Banner_1_39: -1871127005056726014
+      Animation_Banner_1_4: -4537232257426943910
+      Animation_Banner_1_40: 9024635060315491526
+      Animation_Banner_1_41: 9011747075937766782
+      Animation_Banner_1_42: 4099134217922770395
+      Animation_Banner_1_43: -3626292877287628910
+      Animation_Banner_1_44: -1210055777595334091
+      Animation_Banner_1_45: -5454720312312011086
+      Animation_Banner_1_46: 9011824458684043298
+      Animation_Banner_1_47: -7432706380519030584
+      Animation_Banner_1_48: 1723938878526162801
+      Animation_Banner_1_49: -5763213348184529426
+      Animation_Banner_1_5: 2994298676803451254
+      Animation_Banner_1_50: -1014244092724408630
+      Animation_Banner_1_51: -4778010411317380598
+      Animation_Banner_1_52: 8772675839511968424
+      Animation_Banner_1_53: -3295312407899369115
+      Animation_Banner_1_54: 5931493970078651921
+      Animation_Banner_1_55: -1035795535693631201
+      Animation_Banner_1_56: -4300053997813072513
+      Animation_Banner_1_57: -2425498110316485151
+      Animation_Banner_1_58: -7786981823081816381
+      Animation_Banner_1_59: 8936717623616061543
+      Animation_Banner_1_6: -3178532654816107433
+      Animation_Banner_1_60: 2067415340866893026
+      Animation_Banner_1_61: -1926844135818622602
+      Animation_Banner_1_62: -7252615228064712270
+      Animation_Banner_1_63: 6069469084435844622
+      Animation_Banner_1_64: 9195295672648280747
+      Animation_Banner_1_65: 8883778695176796372
+      Animation_Banner_1_66: -1676181294925875011
+      Animation_Banner_1_67: 7022960561191254973
+      Animation_Banner_1_68: -5710276059569278988
+      Animation_Banner_1_69: 7918025318280418804
+      Animation_Banner_1_7: 827574407581001736
+      Animation_Banner_1_70: -2323563611504790213
+      Animation_Banner_1_71: -2753688141063166215
+      Animation_Banner_1_72: 6197604510365585762
+      Animation_Banner_1_73: 259195936166571753
+      Animation_Banner_1_74: 2022379242964675931
+      Animation_Banner_1_75: 3535935057800094038
+      Animation_Banner_1_76: -595795193030769001
+      Animation_Banner_1_77: -5740497863631817427
+      Animation_Banner_1_78: 6908729243721080449
+      Animation_Banner_1_79: -3156682469923769283
+      Animation_Banner_1_8: 3051845489189047979
+      Animation_Banner_1_80: -9026003349996921690
+      Animation_Banner_1_81: -9076787584063497275
+      Animation_Banner_1_82: -2065759156851030378
+      Animation_Banner_1_83: 5281583816218545432
+      Animation_Banner_1_84: -3033170361523875348
+      Animation_Banner_1_85: -919776036377749649
+      Animation_Banner_1_86: 7253614801735497589
+      Animation_Banner_1_87: 7482271346214526748
+      Animation_Banner_1_9: -8662407214876698776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3315 @@
+fileFormatVersion: 2
+guid: ebaad2ad637431e41a8ece77b26fcd1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7518155322276891907
+    second: Animation_Flowers_Purple_0
+  - first:
+      213: -2812559000888543121
+    second: Animation_Flowers_Purple_1
+  - first:
+      213: -1072373102960906844
+    second: Animation_Flowers_Purple_2
+  - first:
+      213: -5310312895573072482
+    second: Animation_Flowers_Purple_3
+  - first:
+      213: -6454422162615372531
+    second: Animation_Flowers_Purple_4
+  - first:
+      213: -5482204014166741151
+    second: Animation_Flowers_Purple_5
+  - first:
+      213: 6907957171017522352
+    second: Animation_Flowers_Purple_6
+  - first:
+      213: 4894567740632155742
+    second: Animation_Flowers_Purple_7
+  - first:
+      213: 8694640490553333854
+    second: Animation_Flowers_Purple_8
+  - first:
+      213: -6257416610730507711
+    second: Animation_Flowers_Purple_9
+  - first:
+      213: -5068420686623284329
+    second: Animation_Flowers_Purple_10
+  - first:
+      213: -5244171873089852347
+    second: Animation_Flowers_Purple_11
+  - first:
+      213: 3438865763793284731
+    second: Animation_Flowers_Purple_12
+  - first:
+      213: -4054719324239256270
+    second: Animation_Flowers_Purple_13
+  - first:
+      213: 6550161850649809
+    second: Animation_Flowers_Purple_14
+  - first:
+      213: -3211279727441667375
+    second: Animation_Flowers_Purple_15
+  - first:
+      213: -2197551319848049152
+    second: Animation_Flowers_Purple_16
+  - first:
+      213: 6619530848932314027
+    second: Animation_Flowers_Purple_17
+  - first:
+      213: 4962710817634756792
+    second: Animation_Flowers_Purple_18
+  - first:
+      213: 3450147143991844324
+    second: Animation_Flowers_Purple_19
+  - first:
+      213: -6322702570827146250
+    second: Animation_Flowers_Purple_20
+  - first:
+      213: 7858481101601818170
+    second: Animation_Flowers_Purple_21
+  - first:
+      213: -258077790503797478
+    second: Animation_Flowers_Purple_22
+  - first:
+      213: 5740275887700508625
+    second: Animation_Flowers_Purple_23
+  - first:
+      213: -3285441243089085062
+    second: Animation_Flowers_Purple_24
+  - first:
+      213: -1351086541277081505
+    second: Animation_Flowers_Purple_25
+  - first:
+      213: 4351777960401362792
+    second: Animation_Flowers_Purple_26
+  - first:
+      213: -7983352303550996148
+    second: Animation_Flowers_Purple_27
+  - first:
+      213: -6172158286525507104
+    second: Animation_Flowers_Purple_28
+  - first:
+      213: 2166311774230388521
+    second: Animation_Flowers_Purple_29
+  - first:
+      213: 221270019014543911
+    second: Animation_Flowers_Purple_30
+  - first:
+      213: -2177671651251285582
+    second: Animation_Flowers_Purple_31
+  - first:
+      213: 659616539549441546
+    second: Animation_Flowers_Purple_32
+  - first:
+      213: -1591723602596625678
+    second: Animation_Flowers_Purple_33
+  - first:
+      213: 7367098218190382384
+    second: Animation_Flowers_Purple_34
+  - first:
+      213: 447589853188271845
+    second: Animation_Flowers_Purple_35
+  - first:
+      213: 4903120025588897951
+    second: Animation_Flowers_Purple_36
+  - first:
+      213: -7589969387708337891
+    second: Animation_Flowers_Purple_37
+  - first:
+      213: -2253149563020727600
+    second: Animation_Flowers_Purple_38
+  - first:
+      213: -1184656576221417191
+    second: Animation_Flowers_Purple_39
+  - first:
+      213: 6668102186491855864
+    second: Animation_Flowers_Purple_40
+  - first:
+      213: -2796264304681083110
+    second: Animation_Flowers_Purple_41
+  - first:
+      213: 8757041124513940904
+    second: Animation_Flowers_Purple_42
+  - first:
+      213: -6500193993368544427
+    second: Animation_Flowers_Purple_43
+  - first:
+      213: -7729658844658001786
+    second: Animation_Flowers_Purple_44
+  - first:
+      213: -1528649314842124563
+    second: Animation_Flowers_Purple_45
+  - first:
+      213: -5329739467682230533
+    second: Animation_Flowers_Purple_46
+  - first:
+      213: -8267219525945440331
+    second: Animation_Flowers_Purple_47
+  - first:
+      213: 3157530681871662705
+    second: Animation_Flowers_Purple_48
+  - first:
+      213: 6232451494995289330
+    second: Animation_Flowers_Purple_49
+  - first:
+      213: 8593349793490207368
+    second: Animation_Flowers_Purple_50
+  - first:
+      213: 9001042005198210706
+    second: Animation_Flowers_Purple_51
+  - first:
+      213: 6195434753102895428
+    second: Animation_Flowers_Purple_52
+  - first:
+      213: -2657729248334266565
+    second: Animation_Flowers_Purple_53
+  - first:
+      213: 8302439352267989576
+    second: Animation_Flowers_Purple_54
+  - first:
+      213: -1645817140227975690
+    second: Animation_Flowers_Purple_55
+  - first:
+      213: -6160839763188964721
+    second: Animation_Flowers_Purple_56
+  - first:
+      213: -8069152079140473243
+    second: Animation_Flowers_Purple_57
+  - first:
+      213: 3450162462739980157
+    second: Animation_Flowers_Purple_58
+  - first:
+      213: -7374105050185676312
+    second: Animation_Flowers_Purple_59
+  - first:
+      213: -931291156289589138
+    second: Animation_Flowers_Purple_60
+  - first:
+      213: 2649433459446986977
+    second: Animation_Flowers_Purple_61
+  - first:
+      213: 1038046108823726401
+    second: Animation_Flowers_Purple_62
+  - first:
+      213: -3683345370063688847
+    second: Animation_Flowers_Purple_63
+  - first:
+      213: -1917692267883975562
+    second: Animation_Flowers_Purple_64
+  - first:
+      213: 2160142006828565504
+    second: Animation_Flowers_Purple_65
+  - first:
+      213: 8040268428075612016
+    second: Animation_Flowers_Purple_66
+  - first:
+      213: 7201315732238014536
+    second: Animation_Flowers_Purple_67
+  - first:
+      213: 3673999064073353221
+    second: Animation_Flowers_Purple_68
+  - first:
+      213: -7065261544094579443
+    second: Animation_Flowers_Purple_69
+  - first:
+      213: -5653932582179807173
+    second: Animation_Flowers_Purple_70
+  - first:
+      213: -269236879676713574
+    second: Animation_Flowers_Purple_71
+  - first:
+      213: -3053188375529636693
+    second: Animation_Flowers_Purple_72
+  - first:
+      213: 7429729732131517684
+    second: Animation_Flowers_Purple_73
+  - first:
+      213: -2599010903426519826
+    second: Animation_Flowers_Purple_74
+  - first:
+      213: -6456221301782216501
+    second: Animation_Flowers_Purple_75
+  - first:
+      213: 1185465412930609609
+    second: Animation_Flowers_Purple_76
+  - first:
+      213: 9104309277740628541
+    second: Animation_Flowers_Purple_77
+  - first:
+      213: 2466280174312328401
+    second: Animation_Flowers_Purple_78
+  - first:
+      213: 7424166756340626265
+    second: Animation_Flowers_Purple_79
+  - first:
+      213: 1884047525195166355
+    second: Animation_Flowers_Purple_80
+  - first:
+      213: 2641035006696950671
+    second: Animation_Flowers_Purple_81
+  - first:
+      213: -5809188389350675570
+    second: Animation_Flowers_Purple_82
+  - first:
+      213: 8696359063437841037
+    second: Animation_Flowers_Purple_83
+  - first:
+      213: -9055152211400855498
+    second: Animation_Flowers_Purple_84
+  - first:
+      213: -4016347100318077333
+    second: Animation_Flowers_Purple_85
+  - first:
+      213: 6044650145077866861
+    second: Animation_Flowers_Purple_86
+  - first:
+      213: -1930470547829011038
+    second: Animation_Flowers_Purple_87
+  - first:
+      213: 7585712784490499159
+    second: Animation_Flowers_Purple_88
+  - first:
+      213: 787125779045595153
+    second: Animation_Flowers_Purple_89
+  - first:
+      213: -6960906329635184433
+    second: Animation_Flowers_Purple_90
+  - first:
+      213: -6944526652653215625
+    second: Animation_Flowers_Purple_91
+  - first:
+      213: -3241528059761972286
+    second: Animation_Flowers_Purple_92
+  - first:
+      213: -4174350837598369307
+    second: Animation_Flowers_Purple_93
+  - first:
+      213: 3820270052918424129
+    second: Animation_Flowers_Purple_94
+  - first:
+      213: 3219384031157223665
+    second: Animation_Flowers_Purple_95
+  - first:
+      213: 11972445305323950
+    second: Animation_Flowers_Purple_96
+  - first:
+      213: -4238101925097627018
+    second: Animation_Flowers_Purple_97
+  - first:
+      213: 7846418208904820433
+    second: Animation_Flowers_Purple_98
+  - first:
+      213: 8164702326946702504
+    second: Animation_Flowers_Purple_99
+  - first:
+      213: 2985477467509006255
+    second: Animation_Flowers_Purple_100
+  - first:
+      213: -375076989316648174
+    second: Animation_Flowers_Purple_101
+  - first:
+      213: 2297735150788794761
+    second: Animation_Flowers_Purple_102
+  - first:
+      213: 6271808881300082769
+    second: Animation_Flowers_Purple_103
+  - first:
+      213: 5399550635287193189
+    second: Animation_Flowers_Purple_104
+  - first:
+      213: -8031740185426050104
+    second: Animation_Flowers_Purple_105
+  - first:
+      213: -1617281323726952815
+    second: Animation_Flowers_Purple_106
+  - first:
+      213: 8805263631022321107
+    second: Animation_Flowers_Purple_107
+  - first:
+      213: -7107002460444561888
+    second: Animation_Flowers_Purple_108
+  - first:
+      213: -7986003430992589710
+    second: Animation_Flowers_Purple_109
+  - first:
+      213: -1394165283442316144
+    second: Animation_Flowers_Purple_110
+  - first:
+      213: 8951258788935684576
+    second: Animation_Flowers_Purple_111
+  - first:
+      213: -2685735370072598311
+    second: Animation_Flowers_Purple_112
+  - first:
+      213: 4132176346435896480
+    second: Animation_Flowers_Purple_113
+  - first:
+      213: 9151853436225379298
+    second: Animation_Flowers_Purple_114
+  - first:
+      213: 4648232083429057521
+    second: Animation_Flowers_Purple_115
+  - first:
+      213: 3550461616276402550
+    second: Animation_Flowers_Purple_116
+  - first:
+      213: 1098403615489286360
+    second: Animation_Flowers_Purple_117
+  - first:
+      213: 870539630347784222
+    second: Animation_Flowers_Purple_118
+  - first:
+      213: -2950637793535834702
+    second: Animation_Flowers_Purple_119
+  - first:
+      213: 4640964528224520988
+    second: Animation_Flowers_Purple_120
+  - first:
+      213: 8063122854461891395
+    second: Animation_Flowers_Purple_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dc686ce6ad55860800000000000000
+      internalID: 7518155322276891907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68f5328d78c7f8d0800000000000000
+      internalID: -2812559000888543121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ade453385a2e11f0800000000000000
+      internalID: -1072373102960906844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95e0358e8afd46b0800000000000000
+      internalID: -5310312895573072482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f6e67d394d66a0800000000000000
+      internalID: -6454422162615372531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fee5dbe7c4be3b0800000000000000
+      internalID: -5482204014166741151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc9c16727efddf50800000000000000
+      internalID: 6907957171017522352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5647757d6ffce340800000000000000
+      internalID: 4894567740632155742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d821c57199a870800000000000000
+      internalID: 8694640490553333854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14287c9eeb03929a0800000000000000
+      internalID: -6257416610730507711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793e3993d3a59a9b0800000000000000
+      internalID: -5068420686623284329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 12
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c626b5775f837b0800000000000000
+      internalID: -5244171873089852347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ea629313e49bf20800000000000000
+      internalID: 3438865763793284731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235aec6e14ebab7c0800000000000000
+      internalID: -4054719324239256270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 14
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc44566655471000800000000000000
+      internalID: 6550161850649809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da1d6b1a1e3f63d0800000000000000
+      internalID: -3211279727441667375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00624ccb7bab081e0800000000000000
+      internalID: -2197551319848049152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babb95e3c3c4ddb50800000000000000
+      internalID: 6619530848932314027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8ab10f1371fd440800000000000000
+      internalID: 4962710817634756792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 14
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed567c3c8261ef20800000000000000
+      internalID: 3450147143991844324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb166dc28f3148a0800000000000000
+      internalID: -6322702570827146250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36c8170deeee0d60800000000000000
+      internalID: 7858481101601818170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 12
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7a9ced9f1b6cf0800000000000000
+      internalID: -258077790503797478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff02fa18e89af40800000000000000
+      internalID: 5740275887700508625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd14fa894c762d0800000000000000
+      internalID: -3285441243089085062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 21
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f505e56f2f9ff3de0800000000000000
+      internalID: -1351086541277081505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 14
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fd81f8ffe946c30800000000000000
+      internalID: 4351777960401362792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_27
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41eb06a06f653190800000000000000
+      internalID: -7983352303550996148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 12
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9d92a6db6185aa0800000000000000
+      internalID: -6172158286525507104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f9fbfb419401e10800000000000000
+      internalID: 2166311774230388521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_30
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a4ec2f8eb121300800000000000000
+      internalID: 221270019014543911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b19ab5cb2b57c1e0800000000000000
+      internalID: -2177671651251285582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e11d77fbd672900800000000000000
+      internalID: 659616539549441546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_33
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f28f9611df09e9e0800000000000000
+      internalID: -1591723602596625678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_34
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 12
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035a6a00cc03d3660800000000000000
+      internalID: 7367098218190382384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_35
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee2b5c9998263600800000000000000
+      internalID: 447589853188271845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9894587fa16b0440800000000000000
+      internalID: 4903120025588897951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d113e852e030ba690800000000000000
+      internalID: -7589969387708337891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_38
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daa25ef8643bb0e0800000000000000
+      internalID: -2253149563020727600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_39
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911fd79de114f8fe0800000000000000
+      internalID: -1184656576221417191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_40
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f34ad70c9bd98c50800000000000000
+      internalID: 6668102186491855864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_41
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f116d1e6ca139d0800000000000000
+      internalID: -2796264304681083110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a504268182478970800000000000000
+      internalID: 8757041124513940904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_43
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bd326a00caac5a0800000000000000
+      internalID: -6500193993368544427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_44
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6881439fb3cbab490800000000000000
+      internalID: -7729658844658001786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deed0ba1c8529cae0800000000000000
+      internalID: -1528649314842124563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfecb6b3136f806b0800000000000000
+      internalID: -5329739467682230533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b749db84afe44d80800000000000000
+      internalID: -8267219525945440331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e7b540d6dc1db20800000000000000
+      internalID: 3157530681871662705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4eb0f1d9d1e7650800000000000000
+      internalID: 6232451494995289330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88209af8b16b14770800000000000000
+      internalID: 8593349793490207368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2968530a3002aec70800000000000000
+      internalID: 9001042005198210706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449dec7451b9af550800000000000000
+      internalID: 6195434753102895428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fbed37459dd1bd0800000000000000
+      internalID: -2657729248334266565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84268294a90383370800000000000000
+      internalID: 8302439352267989576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f55677e702e829e0800000000000000
+      internalID: -1645817140227975690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82250d70ec408aa0800000000000000
+      internalID: -6160839763188964721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 12
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5663a3cafec940090800000000000000
+      internalID: -8069152079140473243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fd009ea7071ef20800000000000000
+      internalID: 3450162462739980157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c44bc68ae9a990800000000000000
+      internalID: -7374105050185676312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6075e6a0a36313f0800000000000000
+      internalID: -931291156289589138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e83f5ea1bda4c420800000000000000
+      internalID: 2649433459446986977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1492ae8af61e76e00800000000000000
+      internalID: 1038046108823726401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b2640b6e022ecc0800000000000000
+      internalID: -3683345370063688847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c2340fa0df265e0800000000000000
+      internalID: -1917692267883975562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048a65d5bd5afd10800000000000000
+      internalID: 2160142006828565504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_66
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0773c324985c49f60800000000000000
+      internalID: 8040268428075612016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8489a77118630f360800000000000000
+      internalID: 7201315732238014536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_68
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b53fdeaaacf230800000000000000
+      internalID: 3673999064073353221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05c30b1f0623fd90800000000000000
+      internalID: -7065261544094579443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b306a27b5423981b0800000000000000
+      internalID: -5653932582179807173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_71
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a955f620c7a734cf0800000000000000
+      internalID: -269236879676713574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_72
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac34345955e0a5d0800000000000000
+      internalID: -3053188375529636693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_73
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f47bd4b3d3bb1760800000000000000
+      internalID: 7429729732131517684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_74
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec25ed7a557eebd0800000000000000
+      internalID: -2599010903426519826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_75
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc006fbbee4e666a0800000000000000
+      internalID: -6456221301782216501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_76
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1ad3f138e937010800000000000000
+      internalID: 1185465412930609609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3af5092d01095e70800000000000000
+      internalID: 9104309277740628541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_78
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc897a60ccf93220800000000000000
+      internalID: 2466280174312328401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_79
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95372f87450f70760800000000000000
+      internalID: 7424166756340626265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_80
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3923637fd3b752a10800000000000000
+      internalID: 1884047525195166355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_81
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b0b858857d6a420800000000000000
+      internalID: 2641035006696950671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_82
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bed6330fd916fa0800000000000000
+      internalID: -5809188389350675570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_83
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82167f2e7cafa870800000000000000
+      internalID: 8696359063437841037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_84
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630fb5c3a03a55280800000000000000
+      internalID: -9055152211400855498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_85
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eeede77911348c0800000000000000
+      internalID: -4016347100318077333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_86
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6131e0f749e2e350800000000000000
+      internalID: 6044650145077866861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_87
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad4c4bc3479535e0800000000000000
+      internalID: -1930470547829011038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_88
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c02bf269dd54960800000000000000
+      internalID: 7585712784490499159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_89
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118b095c9be6cea00800000000000000
+      internalID: 787125779045595153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0a35bd294e56f90800000000000000
+      internalID: -6960906329635184433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7706f579dc510af90800000000000000
+      internalID: -6944526652653215625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb2d6c6767c303d0800000000000000
+      internalID: -3241528059761972286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_93
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e94815a70ab116c0800000000000000
+      internalID: -4174350837598369307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f34a5f53540530800000000000000
+      internalID: 3820270052918424129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_95
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f001b428bc8dac20800000000000000
+      internalID: 3219384031157223665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_96
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1448520e88a2000800000000000000
+      internalID: 11972445305323950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67228a8e0cc3f25c0800000000000000
+      internalID: -4238101925097627018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_98
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6bde4f9c314ec60800000000000000
+      internalID: 7846418208904820433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4a6760289de4170800000000000000
+      internalID: 8164702326946702504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_100
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf9ecf50fb8e6920800000000000000
+      internalID: 2985477467509006255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213bb5827757bcaf0800000000000000
+      internalID: -375076989316648174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_102
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989d1ba12f133ef10800000000000000
+      internalID: 2297735150788794761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_103
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1501805b2f0f90750800000000000000
+      internalID: 6271808881300082769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_104
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566270bd1be0fea40800000000000000
+      internalID: 5399550635287193189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_105
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c34377fad6898090800000000000000
+      internalID: -8031740185426050104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_106
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a16d64334e89e0800000000000000
+      internalID: -1617281323726952815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_107
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd60c0ce94923a70800000000000000
+      internalID: 8805263631022321107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_108
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eef5faaeade5d90800000000000000
+      internalID: -7107002460444561888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cc2a0f0340c2190800000000000000
+      internalID: -7986003430992589710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_110
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c2d32bf0ee6ace0800000000000000
+      internalID: -1394165283442316144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_111
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1da175172493c70800000000000000
+      internalID: 8951258788935684576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_112
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8de1a19e95abad0800000000000000
+      internalID: -2685735370072598311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_113
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4459e6e70785930800000000000000
+      internalID: 4132176346435896480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_114
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebd6ae263ae10f70800000000000000
+      internalID: 9151853436225379298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_115
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3ec56d376d18040800000000000000
+      internalID: 4648232083429057521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_116
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67170d26706c54130800000000000000
+      internalID: 3550461616276402550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_117
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d06e39c4405e3f00800000000000000
+      internalID: 1098403615489286360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_118
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1097c57e27c41c00800000000000000
+      internalID: 870539630347784222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_119
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b544775f8a3d07d0800000000000000
+      internalID: -2950637793535834702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_120
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bc20846a4086040800000000000000
+      internalID: 4640964528224520988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Purple_121
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343e8801487f5ef60800000000000000
+      internalID: 8063122854461891395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Flowers_Purple_0: 7518155322276891907
+      Animation_Flowers_Purple_1: -2812559000888543121
+      Animation_Flowers_Purple_10: -5068420686623284329
+      Animation_Flowers_Purple_100: 2985477467509006255
+      Animation_Flowers_Purple_101: -375076989316648174
+      Animation_Flowers_Purple_102: 2297735150788794761
+      Animation_Flowers_Purple_103: 6271808881300082769
+      Animation_Flowers_Purple_104: 5399550635287193189
+      Animation_Flowers_Purple_105: -8031740185426050104
+      Animation_Flowers_Purple_106: -1617281323726952815
+      Animation_Flowers_Purple_107: 8805263631022321107
+      Animation_Flowers_Purple_108: -7107002460444561888
+      Animation_Flowers_Purple_109: -7986003430992589710
+      Animation_Flowers_Purple_11: -5244171873089852347
+      Animation_Flowers_Purple_110: -1394165283442316144
+      Animation_Flowers_Purple_111: 8951258788935684576
+      Animation_Flowers_Purple_112: -2685735370072598311
+      Animation_Flowers_Purple_113: 4132176346435896480
+      Animation_Flowers_Purple_114: 9151853436225379298
+      Animation_Flowers_Purple_115: 4648232083429057521
+      Animation_Flowers_Purple_116: 3550461616276402550
+      Animation_Flowers_Purple_117: 1098403615489286360
+      Animation_Flowers_Purple_118: 870539630347784222
+      Animation_Flowers_Purple_119: -2950637793535834702
+      Animation_Flowers_Purple_12: 3438865763793284731
+      Animation_Flowers_Purple_120: 4640964528224520988
+      Animation_Flowers_Purple_121: 8063122854461891395
+      Animation_Flowers_Purple_13: -4054719324239256270
+      Animation_Flowers_Purple_14: 6550161850649809
+      Animation_Flowers_Purple_15: -3211279727441667375
+      Animation_Flowers_Purple_16: -2197551319848049152
+      Animation_Flowers_Purple_17: 6619530848932314027
+      Animation_Flowers_Purple_18: 4962710817634756792
+      Animation_Flowers_Purple_19: 3450147143991844324
+      Animation_Flowers_Purple_2: -1072373102960906844
+      Animation_Flowers_Purple_20: -6322702570827146250
+      Animation_Flowers_Purple_21: 7858481101601818170
+      Animation_Flowers_Purple_22: -258077790503797478
+      Animation_Flowers_Purple_23: 5740275887700508625
+      Animation_Flowers_Purple_24: -3285441243089085062
+      Animation_Flowers_Purple_25: -1351086541277081505
+      Animation_Flowers_Purple_26: 4351777960401362792
+      Animation_Flowers_Purple_27: -7983352303550996148
+      Animation_Flowers_Purple_28: -6172158286525507104
+      Animation_Flowers_Purple_29: 2166311774230388521
+      Animation_Flowers_Purple_3: -5310312895573072482
+      Animation_Flowers_Purple_30: 221270019014543911
+      Animation_Flowers_Purple_31: -2177671651251285582
+      Animation_Flowers_Purple_32: 659616539549441546
+      Animation_Flowers_Purple_33: -1591723602596625678
+      Animation_Flowers_Purple_34: 7367098218190382384
+      Animation_Flowers_Purple_35: 447589853188271845
+      Animation_Flowers_Purple_36: 4903120025588897951
+      Animation_Flowers_Purple_37: -7589969387708337891
+      Animation_Flowers_Purple_38: -2253149563020727600
+      Animation_Flowers_Purple_39: -1184656576221417191
+      Animation_Flowers_Purple_4: -6454422162615372531
+      Animation_Flowers_Purple_40: 6668102186491855864
+      Animation_Flowers_Purple_41: -2796264304681083110
+      Animation_Flowers_Purple_42: 8757041124513940904
+      Animation_Flowers_Purple_43: -6500193993368544427
+      Animation_Flowers_Purple_44: -7729658844658001786
+      Animation_Flowers_Purple_45: -1528649314842124563
+      Animation_Flowers_Purple_46: -5329739467682230533
+      Animation_Flowers_Purple_47: -8267219525945440331
+      Animation_Flowers_Purple_48: 3157530681871662705
+      Animation_Flowers_Purple_49: 6232451494995289330
+      Animation_Flowers_Purple_5: -5482204014166741151
+      Animation_Flowers_Purple_50: 8593349793490207368
+      Animation_Flowers_Purple_51: 9001042005198210706
+      Animation_Flowers_Purple_52: 6195434753102895428
+      Animation_Flowers_Purple_53: -2657729248334266565
+      Animation_Flowers_Purple_54: 8302439352267989576
+      Animation_Flowers_Purple_55: -1645817140227975690
+      Animation_Flowers_Purple_56: -6160839763188964721
+      Animation_Flowers_Purple_57: -8069152079140473243
+      Animation_Flowers_Purple_58: 3450162462739980157
+      Animation_Flowers_Purple_59: -7374105050185676312
+      Animation_Flowers_Purple_6: 6907957171017522352
+      Animation_Flowers_Purple_60: -931291156289589138
+      Animation_Flowers_Purple_61: 2649433459446986977
+      Animation_Flowers_Purple_62: 1038046108823726401
+      Animation_Flowers_Purple_63: -3683345370063688847
+      Animation_Flowers_Purple_64: -1917692267883975562
+      Animation_Flowers_Purple_65: 2160142006828565504
+      Animation_Flowers_Purple_66: 8040268428075612016
+      Animation_Flowers_Purple_67: 7201315732238014536
+      Animation_Flowers_Purple_68: 3673999064073353221
+      Animation_Flowers_Purple_69: -7065261544094579443
+      Animation_Flowers_Purple_7: 4894567740632155742
+      Animation_Flowers_Purple_70: -5653932582179807173
+      Animation_Flowers_Purple_71: -269236879676713574
+      Animation_Flowers_Purple_72: -3053188375529636693
+      Animation_Flowers_Purple_73: 7429729732131517684
+      Animation_Flowers_Purple_74: -2599010903426519826
+      Animation_Flowers_Purple_75: -6456221301782216501
+      Animation_Flowers_Purple_76: 1185465412930609609
+      Animation_Flowers_Purple_77: 9104309277740628541
+      Animation_Flowers_Purple_78: 2466280174312328401
+      Animation_Flowers_Purple_79: 7424166756340626265
+      Animation_Flowers_Purple_8: 8694640490553333854
+      Animation_Flowers_Purple_80: 1884047525195166355
+      Animation_Flowers_Purple_81: 2641035006696950671
+      Animation_Flowers_Purple_82: -5809188389350675570
+      Animation_Flowers_Purple_83: 8696359063437841037
+      Animation_Flowers_Purple_84: -9055152211400855498
+      Animation_Flowers_Purple_85: -4016347100318077333
+      Animation_Flowers_Purple_86: 6044650145077866861
+      Animation_Flowers_Purple_87: -1930470547829011038
+      Animation_Flowers_Purple_88: 7585712784490499159
+      Animation_Flowers_Purple_89: 787125779045595153
+      Animation_Flowers_Purple_9: -6257416610730507711
+      Animation_Flowers_Purple_90: -6960906329635184433
+      Animation_Flowers_Purple_91: -6944526652653215625
+      Animation_Flowers_Purple_92: -3241528059761972286
+      Animation_Flowers_Purple_93: -4174350837598369307
+      Animation_Flowers_Purple_94: 3820270052918424129
+      Animation_Flowers_Purple_95: 3219384031157223665
+      Animation_Flowers_Purple_96: 11972445305323950
+      Animation_Flowers_Purple_97: -4238101925097627018
+      Animation_Flowers_Purple_98: 7846418208904820433
+      Animation_Flowers_Purple_99: 8164702326946702504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: ed4a0237d1b4bdb47a5072e60b2451fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7627779530676072426
+    second: Animation_Rock_Gray_0
+  - first:
+      213: 7280812604990826964
+    second: Animation_Rock_Gray_1
+  - first:
+      213: -2142828523291655027
+    second: Animation_Rock_Gray_2
+  - first:
+      213: 1242548209176228486
+    second: Animation_Rock_Gray_3
+  - first:
+      213: 817388857861234058
+    second: Animation_Rock_Gray_4
+  - first:
+      213: -8950989839905043482
+    second: Animation_Rock_Gray_5
+  - first:
+      213: 7388103646459595441
+    second: Animation_Rock_Gray_6
+  - first:
+      213: -3361308033805292258
+    second: Animation_Rock_Gray_7
+  - first:
+      213: 6106697195688655159
+    second: Animation_Rock_Gray_8
+  - first:
+      213: 6238524721313670078
+    second: Animation_Rock_Gray_9
+  - first:
+      213: -3801385168395666797
+    second: Animation_Rock_Gray_10
+  - first:
+      213: -6427319339963403617
+    second: Animation_Rock_Gray_11
+  - first:
+      213: 2996676862624828058
+    second: Animation_Rock_Gray_12
+  - first:
+      213: 6708710641863313053
+    second: Animation_Rock_Gray_13
+  - first:
+      213: -8468775166726694904
+    second: Animation_Rock_Gray_14
+  - first:
+      213: -6435406637693222996
+    second: Animation_Rock_Gray_15
+  - first:
+      213: -5946578942309419308
+    second: Animation_Rock_Gray_16
+  - first:
+      213: 1083134810555303020
+    second: Animation_Rock_Gray_17
+  - first:
+      213: 4463868498816086589
+    second: Animation_Rock_Gray_18
+  - first:
+      213: -6218063174389119818
+    second: Animation_Rock_Gray_19
+  - first:
+      213: -6397256014071570194
+    second: Animation_Rock_Gray_20
+  - first:
+      213: -8811999929455799272
+    second: Animation_Rock_Gray_21
+  - first:
+      213: -1424979544955378189
+    second: Animation_Rock_Gray_22
+  - first:
+      213: -1411626661689962276
+    second: Animation_Rock_Gray_23
+  - first:
+      213: 7610420707666801440
+    second: Animation_Rock_Gray_24
+  - first:
+      213: -8755252802445117617
+    second: Animation_Rock_Gray_25
+  - first:
+      213: -6432025568649481610
+    second: Animation_Rock_Gray_26
+  - first:
+      213: 4453045948934233578
+    second: Animation_Rock_Gray_27
+  - first:
+      213: -3206021914286139447
+    second: Animation_Rock_Gray_28
+  - first:
+      213: -7121190129759162032
+    second: Animation_Rock_Gray_29
+  - first:
+      213: -7734867351420701948
+    second: Animation_Rock_Gray_30
+  - first:
+      213: -8838961875288298797
+    second: Animation_Rock_Gray_31
+  - first:
+      213: 4476126997937855352
+    second: Animation_Rock_Gray_32
+  - first:
+      213: -4271553847255443295
+    second: Animation_Rock_Gray_33
+  - first:
+      213: 2525452714681825029
+    second: Animation_Rock_Gray_34
+  - first:
+      213: -1564343319756440970
+    second: Animation_Rock_Gray_35
+  - first:
+      213: -3400431221011427006
+    second: Animation_Rock_Gray_36
+  - first:
+      213: 4136473908654680353
+    second: Animation_Rock_Gray_37
+  - first:
+      213: -2976658000982865535
+    second: Animation_Rock_Gray_38
+  - first:
+      213: 2752964178282818166
+    second: Animation_Rock_Gray_39
+  - first:
+      213: -2393968790721985960
+    second: Animation_Rock_Gray_40
+  - first:
+      213: 2433847600903989766
+    second: Animation_Rock_Gray_41
+  - first:
+      213: -4961929833853326119
+    second: Animation_Rock_Gray_42
+  - first:
+      213: 7985752160764713528
+    second: Animation_Rock_Gray_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef61f6c1115bd960800000000000000
+      internalID: 7627779530676072426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 301
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d92aa42d74aa0560800000000000000
+      internalID: 7280812604990826964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8440aeafc42342e0800000000000000
+      internalID: -2142828523291655027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6823f30530b6e3110800000000000000
+      internalID: 1242548209176228486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d5e24e5d2f75b00800000000000000
+      internalID: 817388857861234058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 301
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb445c3a22b7c380800000000000000
+      internalID: -8950989839905043482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba0ef26f11d78660800000000000000
+      internalID: 7388103646459595441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 289
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d6e58f62c3a51d0800000000000000
+      internalID: -3361308033805292258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73975ebaeb85fb450800000000000000
+      internalID: 6106697195688655159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3e4605e21b39650800000000000000
+      internalID: 6238524721313670078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a76577454ce3bc0800000000000000
+      internalID: -3801385168395666797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92bb7b1d139dc6a0800000000000000
+      internalID: -6427319339963403617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 289
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a826fbab5569920800000000000000
+      internalID: 2996676862624828058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d964525d8c02a1d50800000000000000
+      internalID: 6708710641863313053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8081b98faddd87a80800000000000000
+      internalID: -8468775166726694904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafba1f52c7d0b6a0800000000000000
+      internalID: -6435406637693222996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d634d255f1897da0800000000000000
+      internalID: -5946578942309419308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64420b1f51180f00800000000000000
+      internalID: 1083134810555303020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d323df3cfb8d2fd30800000000000000
+      internalID: 4463868498816086589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b44993dc7005b9a0800000000000000
+      internalID: -6218063174389119818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee06800ac816837a0800000000000000
+      internalID: -6397256014071570194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814150c80cc75b580800000000000000
+      internalID: -8811999929455799272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5acba57a4793ce0800000000000000
+      internalID: -1424979544955378189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0df72c705e86ce0800000000000000
+      internalID: -1411626661689962276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023b1c7df45ad9960800000000000000
+      internalID: 7610420707666801440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47f387a6f71f7680800000000000000
+      internalID: -8755252802445117617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672fa6ad2dadcb6a0800000000000000
+      internalID: -6432025568649481610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed97b282b56ccd30800000000000000
+      internalID: 4453045948934233578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c75bd02e0ce183d0800000000000000
+      internalID: -3206021914286139447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051ffa18e437c2d90800000000000000
+      internalID: -7121190129759162032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4037dcdff1b38a490800000000000000
+      internalID: -7734867351420701948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da68385103b55580800000000000000
+      internalID: -8838961875288298797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b1f910ac56e1e30800000000000000
+      internalID: 4476126997937855352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d267586468b4c0800000000000000
+      internalID: -4271553847255443295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507f7a31dd53c0320800000000000000
+      internalID: 2525452714681825029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a7927f9065a4ae0800000000000000
+      internalID: -1564343319756440970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241577c12dd3fc0d0800000000000000
+      internalID: -3400431221011427006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 49
+        width: 98
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a80c9a15b76930800000000000000
+      internalID: 4136473908654680353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1898791b159c0b6d0800000000000000
+      internalID: -2976658000982865535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a2ce5955e743620800000000000000
+      internalID: 2752964178282818166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85205a1911ae6ced0800000000000000
+      internalID: -2393968790721985960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aa1597f73c6c120800000000000000
+      internalID: 2433847600903989766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc62c40b1fa32bb0800000000000000
+      internalID: -4961929833853326119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a50b6a74713de60800000000000000
+      internalID: 7985752160764713528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Rock_Gray_0: 7627779530676072426
+      Animation_Rock_Gray_1: 7280812604990826964
+      Animation_Rock_Gray_10: -3801385168395666797
+      Animation_Rock_Gray_11: -6427319339963403617
+      Animation_Rock_Gray_12: 2996676862624828058
+      Animation_Rock_Gray_13: 6708710641863313053
+      Animation_Rock_Gray_14: -8468775166726694904
+      Animation_Rock_Gray_15: -6435406637693222996
+      Animation_Rock_Gray_16: -5946578942309419308
+      Animation_Rock_Gray_17: 1083134810555303020
+      Animation_Rock_Gray_18: 4463868498816086589
+      Animation_Rock_Gray_19: -6218063174389119818
+      Animation_Rock_Gray_2: -2142828523291655027
+      Animation_Rock_Gray_20: -6397256014071570194
+      Animation_Rock_Gray_21: -8811999929455799272
+      Animation_Rock_Gray_22: -1424979544955378189
+      Animation_Rock_Gray_23: -1411626661689962276
+      Animation_Rock_Gray_24: 7610420707666801440
+      Animation_Rock_Gray_25: -8755252802445117617
+      Animation_Rock_Gray_26: -6432025568649481610
+      Animation_Rock_Gray_27: 4453045948934233578
+      Animation_Rock_Gray_28: -3206021914286139447
+      Animation_Rock_Gray_29: -7121190129759162032
+      Animation_Rock_Gray_3: 1242548209176228486
+      Animation_Rock_Gray_30: -7734867351420701948
+      Animation_Rock_Gray_31: -8838961875288298797
+      Animation_Rock_Gray_32: 4476126997937855352
+      Animation_Rock_Gray_33: -4271553847255443295
+      Animation_Rock_Gray_34: 2525452714681825029
+      Animation_Rock_Gray_35: -1564343319756440970
+      Animation_Rock_Gray_36: -3400431221011427006
+      Animation_Rock_Gray_37: 4136473908654680353
+      Animation_Rock_Gray_38: -2976658000982865535
+      Animation_Rock_Gray_39: 2752964178282818166
+      Animation_Rock_Gray_4: 817388857861234058
+      Animation_Rock_Gray_40: -2393968790721985960
+      Animation_Rock_Gray_41: 2433847600903989766
+      Animation_Rock_Gray_42: -4961929833853326119
+      Animation_Rock_Gray_43: 7985752160764713528
+      Animation_Rock_Gray_5: -8950989839905043482
+      Animation_Rock_Gray_6: 7388103646459595441
+      Animation_Rock_Gray_7: -3361308033805292258
+      Animation_Rock_Gray_8: 6106697195688655159
+      Animation_Rock_Gray_9: 6238524721313670078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

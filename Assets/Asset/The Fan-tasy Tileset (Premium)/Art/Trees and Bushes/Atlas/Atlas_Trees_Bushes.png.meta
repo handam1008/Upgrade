@@ -1,0 +1,2873 @@
+fileFormatVersion: 2
+guid: ed5a42a62fe07964494940c2f023b0f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4316010207655824914
+    second: Atlas_Trees_Bushes_0
+  - first:
+      213: 7350644478018466323
+    second: Atlas_Trees_Bushes_1
+  - first:
+      213: -3626994551631964610
+    second: Atlas_Trees_Bushes_2
+  - first:
+      213: 2004842825522889390
+    second: Atlas_Trees_Bushes_3
+  - first:
+      213: 4411974894219510875
+    second: Atlas_Trees_Bushes_4
+  - first:
+      213: 1427546738239167465
+    second: Atlas_Trees_Bushes_5
+  - first:
+      213: 8141057846132827880
+    second: Atlas_Trees_Bushes_6
+  - first:
+      213: 8419926460568457977
+    second: Atlas_Trees_Bushes_7
+  - first:
+      213: -5699694342824233661
+    second: Atlas_Trees_Bushes_8
+  - first:
+      213: 5214932594584904659
+    second: Atlas_Trees_Bushes_9
+  - first:
+      213: -1945037262988752827
+    second: Atlas_Trees_Bushes_10
+  - first:
+      213: -2810374471536790810
+    second: Atlas_Trees_Bushes_11
+  - first:
+      213: 1973226882749603914
+    second: Atlas_Trees_Bushes_12
+  - first:
+      213: 4491480516692024856
+    second: Atlas_Trees_Bushes_13
+  - first:
+      213: 5646503106162872976
+    second: Atlas_Trees_Bushes_14
+  - first:
+      213: -7347806351663145165
+    second: Atlas_Trees_Bushes_15
+  - first:
+      213: 312667873992067019
+    second: Atlas_Trees_Bushes_16
+  - first:
+      213: -7921725622332117312
+    second: Atlas_Trees_Bushes_17
+  - first:
+      213: -5884481180669953095
+    second: Atlas_Trees_Bushes_18
+  - first:
+      213: 1577670272552518155
+    second: Atlas_Trees_Bushes_19
+  - first:
+      213: -8418541024544888707
+    second: Atlas_Trees_Bushes_20
+  - first:
+      213: 7946386801030033833
+    second: Atlas_Trees_Bushes_21
+  - first:
+      213: 5694822109429354388
+    second: Atlas_Trees_Bushes_22
+  - first:
+      213: 8621851963657146123
+    second: Atlas_Trees_Bushes_23
+  - first:
+      213: -2766805454908827506
+    second: Atlas_Trees_Bushes_24
+  - first:
+      213: 3875654867298990627
+    second: Atlas_Trees_Bushes_25
+  - first:
+      213: 4100568246998000064
+    second: Atlas_Trees_Bushes_26
+  - first:
+      213: 4200410519000850669
+    second: Atlas_Trees_Bushes_27
+  - first:
+      213: 9011822445040325195
+    second: Atlas_Trees_Bushes_28
+  - first:
+      213: -3378677102333722749
+    second: Atlas_Trees_Bushes_29
+  - first:
+      213: -2712769973284149232
+    second: Atlas_Trees_Bushes_30
+  - first:
+      213: 2644726980005087713
+    second: Atlas_Trees_Bushes_31
+  - first:
+      213: 5489568307743609745
+    second: Atlas_Trees_Bushes_32
+  - first:
+      213: 7816091425038635648
+    second: Atlas_Trees_Bushes_33
+  - first:
+      213: 1087270471577449438
+    second: Atlas_Trees_Bushes_34
+  - first:
+      213: -8915647014786049892
+    second: Atlas_Trees_Bushes_35
+  - first:
+      213: -9084422644726592680
+    second: Atlas_Trees_Bushes_36
+  - first:
+      213: 5277241701497484116
+    second: Atlas_Trees_Bushes_37
+  - first:
+      213: 1600697478131188930
+    second: Atlas_Trees_Bushes_38
+  - first:
+      213: 6299532518540415407
+    second: Atlas_Trees_Bushes_39
+  - first:
+      213: -8151428127549145506
+    second: Atlas_Trees_Bushes_40
+  - first:
+      213: 6838441088215961763
+    second: Atlas_Trees_Bushes_41
+  - first:
+      213: 6878185001649319476
+    second: Atlas_Trees_Bushes_42
+  - first:
+      213: 7159834236448600825
+    second: Atlas_Trees_Bushes_43
+  - first:
+      213: -1160430172603648481
+    second: Atlas_Trees_Bushes_44
+  - first:
+      213: -5466174831150790115
+    second: Atlas_Trees_Bushes_45
+  - first:
+      213: 2832666285837747312
+    second: Atlas_Trees_Bushes_46
+  - first:
+      213: 8083887896817355487
+    second: Atlas_Trees_Bushes_47
+  - first:
+      213: -4863198089518145305
+    second: Atlas_Trees_Bushes_48
+  - first:
+      213: -3996799411798615709
+    second: Atlas_Trees_Bushes_49
+  - first:
+      213: -6775592399636201845
+    second: Atlas_Trees_Bushes_50
+  - first:
+      213: -3561353660214422462
+    second: Atlas_Trees_Bushes_51
+  - first:
+      213: -8055746448740226048
+    second: Atlas_Trees_Bushes_52
+  - first:
+      213: -1447150518930806989
+    second: Atlas_Trees_Bushes_53
+  - first:
+      213: -4081142688566669572
+    second: Atlas_Trees_Bushes_54
+  - first:
+      213: -5642026708667162454
+    second: Atlas_Trees_Bushes_55
+  - first:
+      213: -2663056636719536619
+    second: Atlas_Trees_Bushes_56
+  - first:
+      213: 8467496793798640350
+    second: Atlas_Trees_Bushes_57
+  - first:
+      213: -3829708711921025311
+    second: Atlas_Trees_Bushes_58
+  - first:
+      213: 4415919059631853781
+    second: Atlas_Trees_Bushes_59
+  - first:
+      213: -5425328443730980297
+    second: Atlas_Trees_Bushes_60
+  - first:
+      213: 7923685447451100032
+    second: Atlas_Trees_Bushes_61
+  - first:
+      213: 8691068495766261565
+    second: Atlas_Trees_Bushes_62
+  - first:
+      213: 3891155770260635929
+    second: Atlas_Trees_Bushes_63
+  - first:
+      213: -7532656625329340509
+    second: Atlas_Trees_Bushes_64
+  - first:
+      213: -452340488802014011
+    second: Atlas_Trees_Bushes_65
+  - first:
+      213: 6216602467744122468
+    second: Atlas_Trees_Bushes_66
+  - first:
+      213: -8481667321943844837
+    second: Atlas_Trees_Bushes_67
+  - first:
+      213: -8680423784673533798
+    second: Atlas_Trees_Bushes_68
+  - first:
+      213: 2295656739488250014
+    second: Atlas_Trees_Bushes_69
+  - first:
+      213: 3882224905065533735
+    second: Atlas_Trees_Bushes_70
+  - first:
+      213: -6665207385677719408
+    second: Atlas_Trees_Bushes_71
+  - first:
+      213: 1180599371978493179
+    second: Atlas_Trees_Bushes_72
+  - first:
+      213: -7783821266834983784
+    second: Atlas_Trees_Bushes_73
+  - first:
+      213: 4713941756137272802
+    second: Atlas_Trees_Bushes_74
+  - first:
+      213: 2305116782715464809
+    second: Atlas_Trees_Bushes_75
+  - first:
+      213: -326800790837753458
+    second: Atlas_Trees_Bushes_76
+  - first:
+      213: -8159579043727689568
+    second: Atlas_Trees_Bushes_77
+  - first:
+      213: 6956347635760420355
+    second: Atlas_Trees_Bushes_78
+  - first:
+      213: -8201786288461231771
+    second: Atlas_Trees_Bushes_79
+  - first:
+      213: -3961157604395923403
+    second: Atlas_Trees_Bushes_80
+  - first:
+      213: -5969303301562203258
+    second: Atlas_Trees_Bushes_81
+  - first:
+      213: 8647434179311639693
+    second: Atlas_Trees_Bushes_82
+  - first:
+      213: -7757317898570639988
+    second: Atlas_Trees_Bushes_83
+  - first:
+      213: -2676763973279081632
+    second: Atlas_Trees_Bushes_84
+  - first:
+      213: 6508693234215624484
+    second: Atlas_Trees_Bushes_85
+  - first:
+      213: -5782820600146017870
+    second: Atlas_Trees_Bushes_86
+  - first:
+      213: 3090544327653104528
+    second: Atlas_Trees_Bushes_87
+  - first:
+      213: 3334758798642104979
+    second: Atlas_Trees_Bushes_88
+  - first:
+      213: 7923284282457022107
+    second: Atlas_Trees_Bushes_89
+  - first:
+      213: -7044665701223798658
+    second: Atlas_Trees_Bushes_90
+  - first:
+      213: 2796798967638124739
+    second: Atlas_Trees_Bushes_91
+  - first:
+      213: -3689079148570218569
+    second: Atlas_Trees_Bushes_92
+  - first:
+      213: 7054183453031098242
+    second: Atlas_Trees_Bushes_93
+  - first:
+      213: -2626500850041062094
+    second: Atlas_Trees_Bushes_94
+  - first:
+      213: 952520011291470198
+    second: Atlas_Trees_Bushes_95
+  - first:
+      213: -4633199851187501295
+    second: Atlas_Trees_Bushes_96
+  - first:
+      213: 2831822125421491492
+    second: Atlas_Trees_Bushes_97
+  - first:
+      213: -7274427124682519930
+    second: Atlas_Trees_Bushes_98
+  - first:
+      213: -2807810122039819691
+    second: Atlas_Trees_Bushes_99
+  - first:
+      213: -3509620324597580385
+    second: Atlas_Trees_Bushes_100
+  - first:
+      213: 5512786442028646384
+    second: Atlas_Trees_Bushes_101
+  - first:
+      213: -5961129718624530417
+    second: Atlas_Trees_Bushes_102
+  - first:
+      213: 6478356264705854121
+    second: Atlas_Trees_Bushes_103
+  - first:
+      213: -6635104631247323763
+    second: Atlas_Trees_Bushes_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1311
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1f6b555937a14c0800000000000000
+      internalID: -4316010207655824914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1344
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3123a76153cb20660800000000000000
+      internalID: 7350644478018466323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1311
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3613b30ca35aadc0800000000000000
+      internalID: -3626994551631964610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1344
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea248cd7de1a2db10800000000000000
+      internalID: 2004842825522889390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1311
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5445e76acb7a3d30800000000000000
+      internalID: 4411974894219510875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1344
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb5309e13aafc310800000000000000
+      internalID: 1427546738239167465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1231
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e667a65af8daf070800000000000000
+      internalID: 8141057846132827880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1296
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f25815518699d470800000000000000
+      internalID: 8419926460568457977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1231
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34578a7813e96e0b0800000000000000
+      internalID: -5699694342824233661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1296
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3e6db90992f5840800000000000000
+      internalID: 5214932594584904659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1231
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54848a02ae6d105e0800000000000000
+      internalID: -1945037262988752827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1296
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e23932ee4b8ff8d0800000000000000
+      internalID: -2810374471536790810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1248
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40aa8f256f426b10800000000000000
+      internalID: 1973226882749603914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1248
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e1409abb1f45e30800000000000000
+      internalID: 4491480516692024856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1248
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0925af998a86c5e40800000000000000
+      internalID: 5646503106162872976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1215
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f52c2bd09570a90800000000000000
+      internalID: -7347806351663145165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1215
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc749f956c1d65400800000000000000
+      internalID: 312667873992067019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1215
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cea8c08480601290800000000000000
+      internalID: -7921725622332117312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1120
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb32b22b8f165ea0800000000000000
+      internalID: -5884481180669953095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1185
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02cf2801c205e510800000000000000
+      internalID: 1577670272552518155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1120
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78e2f0aa855b2b80800000000000000
+      internalID: -8418541024544888707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1185
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a17f3b91bc374e60800000000000000
+      internalID: 7946386801030033833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_22
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1120
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fc39b3982180f40800000000000000
+      internalID: 5694822109429354388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1185
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc9cf2ea8f6a770800000000000000
+      internalID: 8621851963657146123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88db8119155a99d0800000000000000
+      internalID: -2766805454908827506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32abe55519719c530800000000000000
+      internalID: 3875654867298990627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1ef8b481528e830800000000000000
+      internalID: 4100568246998000064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de02cdfbc1bda4a30800000000000000
+      internalID: 4200410519000850669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42558f54cc601d70800000000000000
+      internalID: 9011822445040325195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ff6a093178c11d0800000000000000
+      internalID: -3378677102333722749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1009
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0186d09051e4a5ad0800000000000000
+      internalID: -2712769973284149232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1074
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9481b0d25f3b420800000000000000
+      internalID: 2644726980005087713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1009
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193dc497a4dde2c40800000000000000
+      internalID: 5489568307743609745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1074
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08297695db5587c60800000000000000
+      internalID: 7816091425038635648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1009
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed33529bbb2c61f00800000000000000
+      internalID: 1087270471577449438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1074
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98d7e4f642454480800000000000000
+      internalID: -8915647014786049892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1007
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b8e876cb5ade180800000000000000
+      internalID: -9084422644726592680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_37
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1007
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453b2a31e578c3940800000000000000
+      internalID: 5277241701497484116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1007
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c48fd020e1d63610800000000000000
+      internalID: 1600697478131188930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa19f92037f6c6750800000000000000
+      internalID: 6299532518540415407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e3e4d5e4f40ee80800000000000000
+      internalID: -8151428127549145506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a05c8820f507ee50800000000000000
+      internalID: 6838441088215961763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e2aba11d8347f50800000000000000
+      internalID: 6878185001649319476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2f23abd47dc5360800000000000000
+      internalID: 7159834236448600825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_44
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 976
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16705ff7e255efe0800000000000000
+      internalID: -1160430172603648481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a831db3fe3424b0800000000000000
+      internalID: -5466174831150790115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07485969af6af4720800000000000000
+      internalID: 2832666285837747312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 928
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdac0ed363dbf2070800000000000000
+      internalID: 8083887896817355487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0a9e99a13728cb0800000000000000
+      internalID: -4863198089518145305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369d0456c148888c0800000000000000
+      internalID: -3996799411798615709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 832
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ef8d47c9248f1a0800000000000000
+      internalID: -6775592399636201845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244d16307b7839ec0800000000000000
+      internalID: -3561353660214422462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_52
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 832
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c693a394d343090800000000000000
+      internalID: -8055746448740226048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 879
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3376b963540baebe0800000000000000
+      internalID: -1447150518930806989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe0d4af85edc57c0800000000000000
+      internalID: -4081142688566669572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0a0a8e99e73b1b0800000000000000
+      internalID: -5642026708667162454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 847
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e59f291cea0bd0800000000000000
+      internalID: -2663056636719536619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 688
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed28023a877928570800000000000000
+      internalID: 8467496793798640350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 688
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee7ab897342adac0800000000000000
+      internalID: -3829708711921025311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 688
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0db3afcfe784d30800000000000000
+      internalID: 4415919059631853781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7329799668c55b4b0800000000000000
+      internalID: -5425328443730980297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 560
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0834147dee596fd60800000000000000
+      internalID: 7923685447451100032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 560
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f8cb8efb0ec9870800000000000000
+      internalID: 8691068495766261565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 464
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911c81c8e89200630800000000000000
+      internalID: 3891155770260635929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 513
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af704085b0a67790800000000000000
+      internalID: -7532656625329340509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 464
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cced67d8b6f8b9f0800000000000000
+      internalID: -452340488802014011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_66
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 513
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46684b7e10fc54650800000000000000
+      internalID: 6216602467744122468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 464
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b189f7c22801b4a80800000000000000
+      internalID: -8481667321943844837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_68
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 513
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90aea60f80f88780800000000000000
+      internalID: -8680423784673533798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 465
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98bd6344afcbdf10800000000000000
+      internalID: 2295656739488250014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_70
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 465
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7211b947bfe60e530800000000000000
+      internalID: 3882224905065533735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_71
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 465
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0989e5e423d6083a0800000000000000
+      internalID: -6665207385677719408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 352
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcc3dcafd4526010800000000000000
+      internalID: 1180599371978493179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 417
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8947b2b5ccf4af390800000000000000
+      internalID: -7783821266834983784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_74
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 352
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5717a3d094b6140800000000000000
+      internalID: 4713941756137272802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 417
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ceb87308b6dff10800000000000000
+      internalID: 2305116782715464809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_76
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 352
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e898cc58968f67bf0800000000000000
+      internalID: -326800790837753458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 417
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8b3ed471a53ce80800000000000000
+      internalID: -8159579043727689568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306d0a38159e98060800000000000000
+      internalID: 6956347635760420355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_79
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 241
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569499853d66d2e80800000000000000
+      internalID: -8201786288461231771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_80
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 241
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538c4aa55242709c0800000000000000
+      internalID: -3961157604395923403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68381d12646c82da0800000000000000
+      internalID: -5969303301562203258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c117ce19bd10870800000000000000
+      internalID: 8647434179311639693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85dae5a878785490800000000000000
+      internalID: -7757317898570639988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_84
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 160
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b132139593adad0800000000000000
+      internalID: -2676763973279081632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f19611306835a50800000000000000
+      internalID: 6508693234215624484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_86
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 160
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b14c788d4b4fbfa0800000000000000
+      internalID: -5782820600146017870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b9c5c01b1d3ea20800000000000000
+      internalID: 3090544327653104528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_88
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39acba48571774e20800000000000000
+      internalID: 3334758798642104979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e5946531925fd60800000000000000
+      internalID: 7923284282457022107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_90
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 113
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e786d257ed15c3e90800000000000000
+      internalID: -7044665701223798658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_91
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8ef3ec7d930d620800000000000000
+      internalID: 2796798967638124739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfeb295f02cdccc0800000000000000
+      internalID: -3689079148570218569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_93
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 113
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2876b52d97e75e160800000000000000
+      internalID: 7054183453031098242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_94
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d7a07846bcc8bd0800000000000000
+      internalID: -2626500850041062094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_95
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 129
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679aa7257e7083d00800000000000000
+      internalID: 952520011291470198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 17
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1178398784193bfb0800000000000000
+      internalID: -4633199851187501295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f6dc2837ac4720800000000000000
+      internalID: 2831822125421491492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_98
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 81
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a05d8521b0c0b90800000000000000
+      internalID: -7274427124682519930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_99
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55202170297a809d0800000000000000
+      internalID: -2807810122039819691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dbed7d8e25b4fc0800000000000000
+      internalID: -3509620324597580385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_101
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 81
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fff4bf9f0a518c40800000000000000
+      internalID: 5512786442028646384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_102
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 17
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f005c55ba10d54da0800000000000000
+      internalID: -5961129718624530417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 17
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa083ee2beb7e950800000000000000
+      internalID: 6478356264705854121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Trees_Bushes_104
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 81
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d34fefd7f5be3a0800000000000000
+      internalID: -6635104631247323763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Trees_Bushes_0: -4316010207655824914
+      Atlas_Trees_Bushes_1: 7350644478018466323
+      Atlas_Trees_Bushes_10: -1945037262988752827
+      Atlas_Trees_Bushes_100: -3509620324597580385
+      Atlas_Trees_Bushes_101: 5512786442028646384
+      Atlas_Trees_Bushes_102: -5961129718624530417
+      Atlas_Trees_Bushes_103: 6478356264705854121
+      Atlas_Trees_Bushes_104: -6635104631247323763
+      Atlas_Trees_Bushes_11: -2810374471536790810
+      Atlas_Trees_Bushes_12: 1973226882749603914
+      Atlas_Trees_Bushes_13: 4491480516692024856
+      Atlas_Trees_Bushes_14: 5646503106162872976
+      Atlas_Trees_Bushes_15: -7347806351663145165
+      Atlas_Trees_Bushes_16: 312667873992067019
+      Atlas_Trees_Bushes_17: -7921725622332117312
+      Atlas_Trees_Bushes_18: -5884481180669953095
+      Atlas_Trees_Bushes_19: 1577670272552518155
+      Atlas_Trees_Bushes_2: -3626994551631964610
+      Atlas_Trees_Bushes_20: -8418541024544888707
+      Atlas_Trees_Bushes_21: 7946386801030033833
+      Atlas_Trees_Bushes_22: 5694822109429354388
+      Atlas_Trees_Bushes_23: 8621851963657146123
+      Atlas_Trees_Bushes_24: -2766805454908827506
+      Atlas_Trees_Bushes_25: 3875654867298990627
+      Atlas_Trees_Bushes_26: 4100568246998000064
+      Atlas_Trees_Bushes_27: 4200410519000850669
+      Atlas_Trees_Bushes_28: 9011822445040325195
+      Atlas_Trees_Bushes_29: -3378677102333722749
+      Atlas_Trees_Bushes_3: 2004842825522889390
+      Atlas_Trees_Bushes_30: -2712769973284149232
+      Atlas_Trees_Bushes_31: 2644726980005087713
+      Atlas_Trees_Bushes_32: 5489568307743609745
+      Atlas_Trees_Bushes_33: 7816091425038635648
+      Atlas_Trees_Bushes_34: 1087270471577449438
+      Atlas_Trees_Bushes_35: -8915647014786049892
+      Atlas_Trees_Bushes_36: -9084422644726592680
+      Atlas_Trees_Bushes_37: 5277241701497484116
+      Atlas_Trees_Bushes_38: 1600697478131188930
+      Atlas_Trees_Bushes_39: 6299532518540415407
+      Atlas_Trees_Bushes_4: 4411974894219510875
+      Atlas_Trees_Bushes_40: -8151428127549145506
+      Atlas_Trees_Bushes_41: 6838441088215961763
+      Atlas_Trees_Bushes_42: 6878185001649319476
+      Atlas_Trees_Bushes_43: 7159834236448600825
+      Atlas_Trees_Bushes_44: -1160430172603648481
+      Atlas_Trees_Bushes_45: -5466174831150790115
+      Atlas_Trees_Bushes_46: 2832666285837747312
+      Atlas_Trees_Bushes_47: 8083887896817355487
+      Atlas_Trees_Bushes_48: -4863198089518145305
+      Atlas_Trees_Bushes_49: -3996799411798615709
+      Atlas_Trees_Bushes_5: 1427546738239167465
+      Atlas_Trees_Bushes_50: -6775592399636201845
+      Atlas_Trees_Bushes_51: -3561353660214422462
+      Atlas_Trees_Bushes_52: -8055746448740226048
+      Atlas_Trees_Bushes_53: -1447150518930806989
+      Atlas_Trees_Bushes_54: -4081142688566669572
+      Atlas_Trees_Bushes_55: -5642026708667162454
+      Atlas_Trees_Bushes_56: -2663056636719536619
+      Atlas_Trees_Bushes_57: 8467496793798640350
+      Atlas_Trees_Bushes_58: -3829708711921025311
+      Atlas_Trees_Bushes_59: 4415919059631853781
+      Atlas_Trees_Bushes_6: 8141057846132827880
+      Atlas_Trees_Bushes_60: -5425328443730980297
+      Atlas_Trees_Bushes_61: 7923685447451100032
+      Atlas_Trees_Bushes_62: 8691068495766261565
+      Atlas_Trees_Bushes_63: 3891155770260635929
+      Atlas_Trees_Bushes_64: -7532656625329340509
+      Atlas_Trees_Bushes_65: -452340488802014011
+      Atlas_Trees_Bushes_66: 6216602467744122468
+      Atlas_Trees_Bushes_67: -8481667321943844837
+      Atlas_Trees_Bushes_68: -8680423784673533798
+      Atlas_Trees_Bushes_69: 2295656739488250014
+      Atlas_Trees_Bushes_7: 8419926460568457977
+      Atlas_Trees_Bushes_70: 3882224905065533735
+      Atlas_Trees_Bushes_71: -6665207385677719408
+      Atlas_Trees_Bushes_72: 1180599371978493179
+      Atlas_Trees_Bushes_73: -7783821266834983784
+      Atlas_Trees_Bushes_74: 4713941756137272802
+      Atlas_Trees_Bushes_75: 2305116782715464809
+      Atlas_Trees_Bushes_76: -326800790837753458
+      Atlas_Trees_Bushes_77: -8159579043727689568
+      Atlas_Trees_Bushes_78: 6956347635760420355
+      Atlas_Trees_Bushes_79: -8201786288461231771
+      Atlas_Trees_Bushes_8: -5699694342824233661
+      Atlas_Trees_Bushes_80: -3961157604395923403
+      Atlas_Trees_Bushes_81: -5969303301562203258
+      Atlas_Trees_Bushes_82: 8647434179311639693
+      Atlas_Trees_Bushes_83: -7757317898570639988
+      Atlas_Trees_Bushes_84: -2676763973279081632
+      Atlas_Trees_Bushes_85: 6508693234215624484
+      Atlas_Trees_Bushes_86: -5782820600146017870
+      Atlas_Trees_Bushes_87: 3090544327653104528
+      Atlas_Trees_Bushes_88: 3334758798642104979
+      Atlas_Trees_Bushes_89: 7923284282457022107
+      Atlas_Trees_Bushes_9: 5214932594584904659
+      Atlas_Trees_Bushes_90: -7044665701223798658
+      Atlas_Trees_Bushes_91: 2796798967638124739
+      Atlas_Trees_Bushes_92: -3689079148570218569
+      Atlas_Trees_Bushes_93: 7054183453031098242
+      Atlas_Trees_Bushes_94: -2626500850041062094
+      Atlas_Trees_Bushes_95: 952520011291470198
+      Atlas_Trees_Bushes_96: -4633199851187501295
+      Atlas_Trees_Bushes_97: 2831822125421491492
+      Atlas_Trees_Bushes_98: -7274427124682519930
+      Atlas_Trees_Bushes_99: -2807810122039819691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

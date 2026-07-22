@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 3d083c9c630642845be100d5bdc00f11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4465147411527619350
+    second: Atlas_Buildings_Bridges_0
+  - first:
+      213: 8853242665385087069
+    second: Atlas_Buildings_Bridges_1
+  - first:
+      213: 6809960529095001684
+    second: Atlas_Buildings_Bridges_2
+  - first:
+      213: -880914634450773499
+    second: Atlas_Buildings_Bridges_3
+  - first:
+      213: 4798520343432455384
+    second: Atlas_Buildings_Bridges_4
+  - first:
+      213: -2232376123899789350
+    second: Atlas_Buildings_Bridges_5
+  - first:
+      213: -1219543826948634187
+    second: Atlas_Buildings_Bridges_6
+  - first:
+      213: 92257222722778365
+    second: Atlas_Buildings_Bridges_7
+  - first:
+      213: -6530323255138517304
+    second: Atlas_Buildings_Bridges_8
+  - first:
+      213: 2822292681021320547
+    second: Atlas_Buildings_Bridges_9
+  - first:
+      213: -4970746644901694113
+    second: Atlas_Buildings_Bridges_10
+  - first:
+      213: -5570112360430002927
+    second: Atlas_Buildings_Bridges_11
+  - first:
+      213: 4671462190675147275
+    second: Atlas_Buildings_Bridges_12
+  - first:
+      213: -3827145644391715444
+    second: Atlas_Buildings_Bridges_13
+  - first:
+      213: -5661240223225201765
+    second: Atlas_Buildings_Bridges_14
+  - first:
+      213: 6471710455263014145
+    second: Atlas_Buildings_Bridges_15
+  - first:
+      213: 6310803393175086957
+    second: Atlas_Buildings_Bridges_16
+  - first:
+      213: 6278554379028736300
+    second: Atlas_Buildings_Bridges_17
+  - first:
+      213: -1620717673669441258
+    second: Atlas_Buildings_Bridges_18
+  - first:
+      213: -2476100275485204914
+    second: Atlas_Buildings_Bridges_19
+  - first:
+      213: -7935934041586138436
+    second: Atlas_Buildings_Bridges_20
+  - first:
+      213: -3740581966725310051
+    second: Atlas_Buildings_Bridges_21
+  - first:
+      213: 4021302137281919800
+    second: Atlas_Buildings_Bridges_22
+  - first:
+      213: 4892675920174109210
+    second: Atlas_Buildings_Bridges_23
+  - first:
+      213: 285319827540617700
+    second: Atlas_Buildings_Bridges_24
+  - first:
+      213: 8702619740578050470
+    second: Atlas_Buildings_Bridges_25
+  - first:
+      213: -4488055483560302801
+    second: Atlas_Buildings_Bridges_26
+  - first:
+      213: -355169046628756844
+    second: Atlas_Buildings_Bridges_27
+  - first:
+      213: -435617760882127264
+    second: Atlas_Buildings_Bridges_28
+  - first:
+      213: 4973672419120644016
+    second: Atlas_Buildings_Bridges_29
+  - first:
+      213: 3450162526036315244
+    second: Atlas_Buildings_Bridges_30
+  - first:
+      213: 6325073646263848174
+    second: Atlas_Buildings_Bridges_31
+  - first:
+      213: -6976341992506950903
+    second: Atlas_Buildings_Bridges_32
+  - first:
+      213: 16088794921798917
+    second: Atlas_Buildings_Bridges_33
+  - first:
+      213: 125803650809035283
+    second: Atlas_Buildings_Bridges_34
+  - first:
+      213: 5493471659205271286
+    second: Atlas_Buildings_Bridges_35
+  - first:
+      213: 2307152741282210539
+    second: Atlas_Buildings_Bridges_36
+  - first:
+      213: -7884724002531074918
+    second: Atlas_Buildings_Bridges_37
+  - first:
+      213: -8895451863306868311
+    second: Atlas_Buildings_Bridges_38
+  - first:
+      213: 2945464375969717410
+    second: Atlas_Buildings_Bridges_39
+  - first:
+      213: -3879492368770542411
+    second: Atlas_Buildings_Bridges_40
+  - first:
+      213: -4649596129981365857
+    second: Atlas_Buildings_Bridges_41
+  - first:
+      213: 5671009043428441260
+    second: Atlas_Buildings_Bridges_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 616
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec242a261c9802c0800000000000000
+      internalID: -4465147411527619350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 616
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d505c943c490dda70800000000000000
+      internalID: 8853242665385087069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 616
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456832f3507d18e50800000000000000
+      internalID: 6809960529095001684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 515
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a5e18aecc56c3f0800000000000000
+      internalID: -880914634450773499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 495
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4e6c524d4c79240800000000000000
+      internalID: 4798520343432455384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfb3e13eb10501e0800000000000000
+      internalID: -2232376123899789350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 433
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9c4bec95f431fe0800000000000000
+      internalID: -1219543826948634187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 433
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4fa5c8473c74100800000000000000
+      internalID: 92257222722778365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 433
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cefefc3991af55a0800000000000000
+      internalID: -6530323255138517304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 431
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36de5708d3cca2720800000000000000
+      internalID: 2822292681021320547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 431
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f557b2a334c540bb0800000000000000
+      internalID: -4970746644901694113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 401
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d9e85e15cf2b2b0800000000000000
+      internalID: -5570112360430002927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 369
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a3cd8ac1e54d040800000000000000
+      internalID: 4671462190675147275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 369
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d2952405f33eac0800000000000000
+      internalID: -3827145644391715444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 399
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b3282f20c3f61b0800000000000000
+      internalID: -5661240223225201765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 371
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d2227de5220d950800000000000000
+      internalID: 6471710455263014145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 371
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67e781004a749750800000000000000
+      internalID: 6310803393175086957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 367
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c292bf841f7e12750800000000000000
+      internalID: 6278554379028736300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 367
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6194cbbdcdd0289e0800000000000000
+      internalID: -1620717673669441258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e157b1bef13add0800000000000000
+      internalID: -2476100275485204914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2045a1906edd190800000000000000
+      internalID: -7935934041586138436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 300
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d991b1c0588c61cc0800000000000000
+      internalID: -3740581966725310051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 287
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b3533fcf88ec730800000000000000
+      internalID: 4021302137281919800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 294
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12d51fa3d646e340800000000000000
+      internalID: 4892675920174109210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 249
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e92fe71fd8a5f300800000000000000
+      internalID: 285319827540617700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 294
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1f47cab8ae5c870800000000000000
+      internalID: 8702619740578050470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27e422015937b1c0800000000000000
+      internalID: -4488055483560302801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 300
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4929a7442af221bf0800000000000000
+      internalID: -355169046628756844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_28
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e05c854ff54f9f0800000000000000
+      internalID: -435617760882127264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_29
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 287
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bff7daa6b8060540800000000000000
+      internalID: 4973672419120644016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 251
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c42c5a98071ef20800000000000000
+      internalID: 3450162526036315244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 218
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeccdb738fc27c750800000000000000
+      internalID: 6325073646263848174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b7bf88bed0f2f90800000000000000
+      internalID: -6976341992506950903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d8d2a7ca8293000800000000000000
+      internalID: 16088794921798917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 124
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a7bedf0c1feb100800000000000000
+      internalID: 125803650809035283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 101
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe1b9e4e5bbc3c40800000000000000
+      internalID: 5493471659205271286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 54
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e1b2c137a40020800000000000000
+      internalID: 2307152741282210539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 101
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c93257b45d39290800000000000000
+      internalID: -7884724002531074918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 124
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9e10319a10d8480800000000000000
+      internalID: -8895451863306868311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_39
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac1e348e3460e820800000000000000
+      internalID: 2945464375969717410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_40
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4d79abe36492ac0800000000000000
+      internalID: -3879492368770542411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 72
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f910e6354f0597fb0800000000000000
+      internalID: -4649596129981365857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Buildings_Bridges_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac749fbda873be40800000000000000
+      internalID: 5671009043428441260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Buildings_Bridges_0: -4465147411527619350
+      Atlas_Buildings_Bridges_1: 8853242665385087069
+      Atlas_Buildings_Bridges_10: -4970746644901694113
+      Atlas_Buildings_Bridges_11: -5570112360430002927
+      Atlas_Buildings_Bridges_12: 4671462190675147275
+      Atlas_Buildings_Bridges_13: -3827145644391715444
+      Atlas_Buildings_Bridges_14: -5661240223225201765
+      Atlas_Buildings_Bridges_15: 6471710455263014145
+      Atlas_Buildings_Bridges_16: 6310803393175086957
+      Atlas_Buildings_Bridges_17: 6278554379028736300
+      Atlas_Buildings_Bridges_18: -1620717673669441258
+      Atlas_Buildings_Bridges_19: -2476100275485204914
+      Atlas_Buildings_Bridges_2: 6809960529095001684
+      Atlas_Buildings_Bridges_20: -7935934041586138436
+      Atlas_Buildings_Bridges_21: -3740581966725310051
+      Atlas_Buildings_Bridges_22: 4021302137281919800
+      Atlas_Buildings_Bridges_23: 4892675920174109210
+      Atlas_Buildings_Bridges_24: 285319827540617700
+      Atlas_Buildings_Bridges_25: 8702619740578050470
+      Atlas_Buildings_Bridges_26: -4488055483560302801
+      Atlas_Buildings_Bridges_27: -355169046628756844
+      Atlas_Buildings_Bridges_28: -435617760882127264
+      Atlas_Buildings_Bridges_29: 4973672419120644016
+      Atlas_Buildings_Bridges_3: -880914634450773499
+      Atlas_Buildings_Bridges_30: 3450162526036315244
+      Atlas_Buildings_Bridges_31: 6325073646263848174
+      Atlas_Buildings_Bridges_32: -6976341992506950903
+      Atlas_Buildings_Bridges_33: 16088794921798917
+      Atlas_Buildings_Bridges_34: 125803650809035283
+      Atlas_Buildings_Bridges_35: 5493471659205271286
+      Atlas_Buildings_Bridges_36: 2307152741282210539
+      Atlas_Buildings_Bridges_37: -7884724002531074918
+      Atlas_Buildings_Bridges_38: -8895451863306868311
+      Atlas_Buildings_Bridges_39: 2945464375969717410
+      Atlas_Buildings_Bridges_4: 4798520343432455384
+      Atlas_Buildings_Bridges_40: -3879492368770542411
+      Atlas_Buildings_Bridges_41: -4649596129981365857
+      Atlas_Buildings_Bridges_42: 5671009043428441260
+      Atlas_Buildings_Bridges_5: -2232376123899789350
+      Atlas_Buildings_Bridges_6: -1219543826948634187
+      Atlas_Buildings_Bridges_7: 92257222722778365
+      Atlas_Buildings_Bridges_8: -6530323255138517304
+      Atlas_Buildings_Bridges_9: 2822292681021320547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

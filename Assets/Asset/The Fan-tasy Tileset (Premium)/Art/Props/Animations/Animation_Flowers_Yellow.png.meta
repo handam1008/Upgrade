@@ -1,0 +1,3315 @@
+fileFormatVersion: 2
+guid: a244b7f5a7ae8c34e8ba58d870925468
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6353216930356732601
+    second: Animation_Flowers_Yellow_0
+  - first:
+      213: 7291134620675790556
+    second: Animation_Flowers_Yellow_1
+  - first:
+      213: -4370169295350691650
+    second: Animation_Flowers_Yellow_2
+  - first:
+      213: -8362097330657529375
+    second: Animation_Flowers_Yellow_3
+  - first:
+      213: -4359629560350319523
+    second: Animation_Flowers_Yellow_4
+  - first:
+      213: -8873428046279240287
+    second: Animation_Flowers_Yellow_5
+  - first:
+      213: -3085006013952634005
+    second: Animation_Flowers_Yellow_6
+  - first:
+      213: 4873071012115228753
+    second: Animation_Flowers_Yellow_7
+  - first:
+      213: -7012401947247944204
+    second: Animation_Flowers_Yellow_8
+  - first:
+      213: -2571467475550334221
+    second: Animation_Flowers_Yellow_9
+  - first:
+      213: -8132436354001106018
+    second: Animation_Flowers_Yellow_10
+  - first:
+      213: -2741321046282171724
+    second: Animation_Flowers_Yellow_11
+  - first:
+      213: 520046624611048713
+    second: Animation_Flowers_Yellow_12
+  - first:
+      213: -9019960095806404374
+    second: Animation_Flowers_Yellow_13
+  - first:
+      213: -9204621687828062873
+    second: Animation_Flowers_Yellow_14
+  - first:
+      213: 8056745447041409750
+    second: Animation_Flowers_Yellow_15
+  - first:
+      213: 2727908025712653286
+    second: Animation_Flowers_Yellow_16
+  - first:
+      213: -1288881949196534173
+    second: Animation_Flowers_Yellow_17
+  - first:
+      213: -7301270177797768335
+    second: Animation_Flowers_Yellow_18
+  - first:
+      213: -3994074181709282109
+    second: Animation_Flowers_Yellow_19
+  - first:
+      213: -489986944157080961
+    second: Animation_Flowers_Yellow_20
+  - first:
+      213: -2195399435175482004
+    second: Animation_Flowers_Yellow_21
+  - first:
+      213: 5745989022009015599
+    second: Animation_Flowers_Yellow_22
+  - first:
+      213: 727340519572838016
+    second: Animation_Flowers_Yellow_23
+  - first:
+      213: -6412627791103532744
+    second: Animation_Flowers_Yellow_24
+  - first:
+      213: -3415334709720184471
+    second: Animation_Flowers_Yellow_25
+  - first:
+      213: 5571365999238121425
+    second: Animation_Flowers_Yellow_26
+  - first:
+      213: -8830112880026771705
+    second: Animation_Flowers_Yellow_27
+  - first:
+      213: 6052557571222434402
+    second: Animation_Flowers_Yellow_28
+  - first:
+      213: -507008959112979871
+    second: Animation_Flowers_Yellow_29
+  - first:
+      213: 904889642639659611
+    second: Animation_Flowers_Yellow_30
+  - first:
+      213: 3272089206790842133
+    second: Animation_Flowers_Yellow_31
+  - first:
+      213: -2611314063126249558
+    second: Animation_Flowers_Yellow_32
+  - first:
+      213: -43460603548843708
+    second: Animation_Flowers_Yellow_33
+  - first:
+      213: -7173969275993146097
+    second: Animation_Flowers_Yellow_34
+  - first:
+      213: 7144573266484718154
+    second: Animation_Flowers_Yellow_35
+  - first:
+      213: 8483134070753732781
+    second: Animation_Flowers_Yellow_36
+  - first:
+      213: -5509871753063190808
+    second: Animation_Flowers_Yellow_37
+  - first:
+      213: -5529670963582825612
+    second: Animation_Flowers_Yellow_38
+  - first:
+      213: -1231473923839611221
+    second: Animation_Flowers_Yellow_39
+  - first:
+      213: 4014772397774576125
+    second: Animation_Flowers_Yellow_40
+  - first:
+      213: 1784352907026743117
+    second: Animation_Flowers_Yellow_41
+  - first:
+      213: 642697777811902310
+    second: Animation_Flowers_Yellow_42
+  - first:
+      213: -2848897856725192443
+    second: Animation_Flowers_Yellow_43
+  - first:
+      213: -8359545064851516686
+    second: Animation_Flowers_Yellow_44
+  - first:
+      213: -2586864145189687254
+    second: Animation_Flowers_Yellow_45
+  - first:
+      213: 760015103718659295
+    second: Animation_Flowers_Yellow_46
+  - first:
+      213: -4479842250202223314
+    second: Animation_Flowers_Yellow_47
+  - first:
+      213: 2100859353544492836
+    second: Animation_Flowers_Yellow_48
+  - first:
+      213: -808841421135120399
+    second: Animation_Flowers_Yellow_49
+  - first:
+      213: 8728471809376828731
+    second: Animation_Flowers_Yellow_50
+  - first:
+      213: 1989779374308050004
+    second: Animation_Flowers_Yellow_51
+  - first:
+      213: 7533088919028637373
+    second: Animation_Flowers_Yellow_52
+  - first:
+      213: 2298070339577342354
+    second: Animation_Flowers_Yellow_53
+  - first:
+      213: -5662637668508876845
+    second: Animation_Flowers_Yellow_54
+  - first:
+      213: -949256668395623453
+    second: Animation_Flowers_Yellow_55
+  - first:
+      213: 5276958822405638140
+    second: Animation_Flowers_Yellow_56
+  - first:
+      213: -3032857322218604701
+    second: Animation_Flowers_Yellow_57
+  - first:
+      213: -6836948171395336535
+    second: Animation_Flowers_Yellow_58
+  - first:
+      213: -1647288679293681162
+    second: Animation_Flowers_Yellow_59
+  - first:
+      213: -6623171158669239729
+    second: Animation_Flowers_Yellow_60
+  - first:
+      213: -2023031890340579904
+    second: Animation_Flowers_Yellow_61
+  - first:
+      213: -6076412166563029996
+    second: Animation_Flowers_Yellow_62
+  - first:
+      213: -216455959128272872
+    second: Animation_Flowers_Yellow_63
+  - first:
+      213: 6662693738998206012
+    second: Animation_Flowers_Yellow_64
+  - first:
+      213: 5774857849002141616
+    second: Animation_Flowers_Yellow_65
+  - first:
+      213: -6658471978075916126
+    second: Animation_Flowers_Yellow_66
+  - first:
+      213: 4838041458313662560
+    second: Animation_Flowers_Yellow_67
+  - first:
+      213: -6347481887522508046
+    second: Animation_Flowers_Yellow_68
+  - first:
+      213: 8551851719401289950
+    second: Animation_Flowers_Yellow_69
+  - first:
+      213: -3618718059838623865
+    second: Animation_Flowers_Yellow_70
+  - first:
+      213: -1245518348474866707
+    second: Animation_Flowers_Yellow_71
+  - first:
+      213: -1833357529768841944
+    second: Animation_Flowers_Yellow_72
+  - first:
+      213: -5402521719662165406
+    second: Animation_Flowers_Yellow_73
+  - first:
+      213: 5447087513539659189
+    second: Animation_Flowers_Yellow_74
+  - first:
+      213: -6906393923956003549
+    second: Animation_Flowers_Yellow_75
+  - first:
+      213: -5465326264246292880
+    second: Animation_Flowers_Yellow_76
+  - first:
+      213: 8100831101863653804
+    second: Animation_Flowers_Yellow_77
+  - first:
+      213: 8772214956255599662
+    second: Animation_Flowers_Yellow_78
+  - first:
+      213: -868850691177265424
+    second: Animation_Flowers_Yellow_79
+  - first:
+      213: -4659664057347624565
+    second: Animation_Flowers_Yellow_80
+  - first:
+      213: 1499008622043070592
+    second: Animation_Flowers_Yellow_81
+  - first:
+      213: -3515393276107145044
+    second: Animation_Flowers_Yellow_82
+  - first:
+      213: 913757850416119155
+    second: Animation_Flowers_Yellow_83
+  - first:
+      213: -7424543877094421787
+    second: Animation_Flowers_Yellow_84
+  - first:
+      213: 7573027837092039159
+    second: Animation_Flowers_Yellow_85
+  - first:
+      213: 1621650763355081206
+    second: Animation_Flowers_Yellow_86
+  - first:
+      213: 73378549492133593
+    second: Animation_Flowers_Yellow_87
+  - first:
+      213: -1407861785175150989
+    second: Animation_Flowers_Yellow_88
+  - first:
+      213: -5309254936239069292
+    second: Animation_Flowers_Yellow_89
+  - first:
+      213: -3478929528231363468
+    second: Animation_Flowers_Yellow_90
+  - first:
+      213: 2179743794673515264
+    second: Animation_Flowers_Yellow_91
+  - first:
+      213: -7461593062253320434
+    second: Animation_Flowers_Yellow_92
+  - first:
+      213: -1864397523601404978
+    second: Animation_Flowers_Yellow_93
+  - first:
+      213: -3276017792926087659
+    second: Animation_Flowers_Yellow_94
+  - first:
+      213: 4821365254470051025
+    second: Animation_Flowers_Yellow_95
+  - first:
+      213: -7902458880016317869
+    second: Animation_Flowers_Yellow_96
+  - first:
+      213: 2009570660208605004
+    second: Animation_Flowers_Yellow_97
+  - first:
+      213: -2686602434719238999
+    second: Animation_Flowers_Yellow_98
+  - first:
+      213: 9053302620761950227
+    second: Animation_Flowers_Yellow_99
+  - first:
+      213: 6523494704791177197
+    second: Animation_Flowers_Yellow_100
+  - first:
+      213: 233294607079987908
+    second: Animation_Flowers_Yellow_101
+  - first:
+      213: -7256455058274183911
+    second: Animation_Flowers_Yellow_102
+  - first:
+      213: -7087343699227628525
+    second: Animation_Flowers_Yellow_103
+  - first:
+      213: 9147814333236579172
+    second: Animation_Flowers_Yellow_104
+  - first:
+      213: -3686574737694229139
+    second: Animation_Flowers_Yellow_105
+  - first:
+      213: 5362329506295593608
+    second: Animation_Flowers_Yellow_106
+  - first:
+      213: 8077493085672843654
+    second: Animation_Flowers_Yellow_107
+  - first:
+      213: -2082278258787192103
+    second: Animation_Flowers_Yellow_108
+  - first:
+      213: 8968195546266440629
+    second: Animation_Flowers_Yellow_109
+  - first:
+      213: 7009715792904251211
+    second: Animation_Flowers_Yellow_110
+  - first:
+      213: 5918686677176917534
+    second: Animation_Flowers_Yellow_111
+  - first:
+      213: 7534505067761179644
+    second: Animation_Flowers_Yellow_112
+  - first:
+      213: 3258958179665279204
+    second: Animation_Flowers_Yellow_113
+  - first:
+      213: -6322043024592603772
+    second: Animation_Flowers_Yellow_114
+  - first:
+      213: 1054535410580746764
+    second: Animation_Flowers_Yellow_115
+  - first:
+      213: -2012527574175042718
+    second: Animation_Flowers_Yellow_116
+  - first:
+      213: 4429079691918616404
+    second: Animation_Flowers_Yellow_117
+  - first:
+      213: -8777373755623655068
+    second: Animation_Flowers_Yellow_118
+  - first:
+      213: -5034037013285014356
+    second: Animation_Flowers_Yellow_119
+  - first:
+      213: 2637868858624238653
+    second: Animation_Flowers_Yellow_120
+  - first:
+      213: 2214480689512783581
+    second: Animation_Flowers_Yellow_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dd615dcd6d4d7a0800000000000000
+      internalID: -6353216930356732601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6dee2be405f2560800000000000000
+      internalID: 7291134620675790556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb88d461e2a0a53c0800000000000000
+      internalID: -4370169295350691650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17ae438ccd3fb80800000000000000
+      internalID: -8362097330657529375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cd60f530c7f73c0800000000000000
+      internalID: -4359629560350319523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5998194304bd480800000000000000
+      internalID: -8873428046279240287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63d868106bdf25d0800000000000000
+      internalID: -3085006013952634005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158a1625440a0a340800000000000000
+      internalID: 4873071012115228753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd57001591feae90800000000000000
+      internalID: -7012401947247944204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f21a5884ff405cd0800000000000000
+      internalID: -2571467475550334221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b8a493938c32f80800000000000000
+      internalID: -8132436354001106018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 12
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba8c05580fd4f9d0800000000000000
+      internalID: -2741321046282171724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d159656a3973700800000000000000
+      internalID: 520046624611048713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8c249251aa2d280800000000000000
+      internalID: -9019960095806404374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 14
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dd625d75d924080800000000000000
+      internalID: -9204621687828062873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d226a03c4f4fcf60800000000000000
+      internalID: 8056745447041409750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e33a8475e97bd520800000000000000
+      internalID: 2727908025712653286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e3abc22b8fc1ee0800000000000000
+      internalID: -1288881949196534173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf533057dacaa90800000000000000
+      internalID: -7301270177797768335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 14
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4c8a871b23298c0800000000000000
+      internalID: -3994074181709282109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7220f868773339f0800000000000000
+      internalID: -489986944157080961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6da54e68df5881e0800000000000000
+      internalID: -2195399435175482004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 12
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d342c629addbf40800000000000000
+      internalID: 5745989022009015599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08613e35958081a00800000000000000
+      internalID: 727340519572838016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831e972eff4c107a0800000000000000
+      internalID: -6412627791103532744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 21
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969011e3d2b4a90d0800000000000000
+      internalID: -3415334709720184471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 14
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d70742abd7715d40800000000000000
+      internalID: 5571365999238121425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f176b9e13257580800000000000000
+      internalID: -8830112880026771705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 12
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262705f0b010ff350800000000000000
+      internalID: 6052557571222434402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a5126b90eb6f8f0800000000000000
+      internalID: -507008959112979871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52977ee550de8c00800000000000000
+      internalID: 904889642639659611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517682c1ccbc86d20800000000000000
+      internalID: 3272089206790842133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb066e1bfb2cbd0800000000000000
+      internalID: -2611314063126249558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4414fb3bfc8956ff0800000000000000
+      internalID: -43460603548843708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 12
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dbcdae3f0f07c90800000000000000
+      internalID: -7173969275993146097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ae294488f962360800000000000000
+      internalID: 7144573266484718154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da82a45ed752ab570800000000000000
+      internalID: 8483134070753732781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eea5b845d00983b0800000000000000
+      internalID: -5509871753063190808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b8ada5e89a243b0800000000000000
+      internalID: -5529670963582825612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae226badfce8eee0800000000000000
+      internalID: -1231473923839611221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9956f793657b730800000000000000
+      internalID: 4014772397774576125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fb349d38b43c810800000000000000
+      internalID: 1784352907026743117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f496849325be800800000000000000
+      internalID: 642697777811902310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501f5805e7ea678d0800000000000000
+      internalID: -2848897856725192443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d7a5ed0eecfb80800000000000000
+      internalID: -8359545064851516686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2036c704cc991cd0800000000000000
+      internalID: -2586864145189687254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd41519c5bd1c8a00800000000000000
+      internalID: 760015103718659295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2de8ea653764d1c0800000000000000
+      internalID: -4479842250202223314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42783138370c72d10800000000000000
+      internalID: 2100859353544492836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f77e9d430b66c4f0800000000000000
+      internalID: -808841421135120399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dbaed7dd2c12970800000000000000
+      internalID: 8728471809376828731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454c7037ccd1d9b10800000000000000
+      internalID: 1989779374308050004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe1228b578ea8860800000000000000
+      internalID: 7533088919028637373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2996e535cc264ef10800000000000000
+      internalID: 2298070339577342354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df38ccda054a61b0800000000000000
+      internalID: -5662637668508876845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebab97e61093d2f0800000000000000
+      internalID: -949256668395623453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf70ad727168b3940800000000000000
+      internalID: 5276958822405638140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 12
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367b7be855029e5d0800000000000000
+      internalID: -3032857322218604701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a67930acd74e11a0800000000000000
+      internalID: -6836948171395336535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f18d248ca7a329e0800000000000000
+      internalID: -1647288679293681162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a58e81ce4c514a0800000000000000
+      internalID: -6623171158669239729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c576f6d63fbce3e0800000000000000
+      internalID: -2023031890340579904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c1627245f3caba0800000000000000
+      internalID: -6076412166563029996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81094a6b37efefcf0800000000000000
+      internalID: -216455959128272872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e0538b7a4a67c50800000000000000
+      internalID: 6662693738998206012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7262efd9a642050800000000000000
+      internalID: 5774857849002141616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_66
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a874e7930b5893a0800000000000000
+      internalID: -6658471978075916126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0601663c21d242340800000000000000
+      internalID: 4838041458313662560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_68
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2befb8ad639e7a0800000000000000
+      internalID: -6347481887522508046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed83ab244d74ea670800000000000000
+      internalID: 8551851719401289950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f270de81bb7cdc0800000000000000
+      internalID: -3618718059838623865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_71
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3aced39a707bee0800000000000000
+      internalID: -1245518348474866707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_72
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d27db4a0b9e86e0800000000000000
+      internalID: -1833357529768841944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_73
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624438ae136605b0800000000000000
+      internalID: -5402521719662165406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_74
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b54ff0db31f79b40800000000000000
+      internalID: 5447087513539659189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_75
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dafab515f8720a0800000000000000
+      internalID: -6906393923956003549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_76
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eacfd18b24724b0800000000000000
+      internalID: -5465326264246292880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1f40497feeb6070800000000000000
+      internalID: 8100831101863653804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_78
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cdbf8860b2db970800000000000000
+      internalID: 8772214956255599662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_79
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6c68556e831f3f0800000000000000
+      internalID: -868850691177265424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_80
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81b3215a3c855fb0800000000000000
+      internalID: -4659664057347624565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_81
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0800020566c8dc410800000000000000
+      internalID: 1499008622043070592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_82
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca046d3d070d63fc0800000000000000
+      internalID: -3515393276107145044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_83
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37df6c47ce15eac00800000000000000
+      internalID: 913757850416119155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_84
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea4c724ea8b6f890800000000000000
+      internalID: -7424543877094421787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_85
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f90408b1bcc81960800000000000000
+      internalID: 7573027837092039159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_86
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9458307c2418610800000000000000
+      internalID: 1621650763355081206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_87
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deac98e661b40100800000000000000
+      internalID: 73378549492133593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_88
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ea9c16a25467ce0800000000000000
+      internalID: -1407861785175150989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_89
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4972b7fd3ccb156b0800000000000000
+      internalID: -5309254936239069292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cf627b60c58bfc0800000000000000
+      internalID: -3478929528231363468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b70e6be61004e10800000000000000
+      internalID: 2179743794673515264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e072fd1a4a8137890800000000000000
+      internalID: -7461593062253320434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_93
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbce9d84545026e0800000000000000
+      internalID: -1864397523601404978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51608c6ac2f3982d0800000000000000
+      internalID: -3276017792926087659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_95
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4291d772ee8e240800000000000000
+      internalID: 4821365254470051025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_96
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3520f748483d45290800000000000000
+      internalID: -7902458880016317869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47f7c84edd63eb10800000000000000
+      internalID: 2009570660208605004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_98
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a43cd1e15547bad0800000000000000
+      internalID: -2686602434719238999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31801a264cac3ad70800000000000000
+      internalID: 9053302620761950227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_100
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7483dfedb188a50800000000000000
+      internalID: 6523494704791177197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca54078534dc3300800000000000000
+      internalID: 233294607079987908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_102
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9151bf22294eb4b90800000000000000
+      internalID: -7256455058274183911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_103
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c2f66b472b4ad90800000000000000
+      internalID: -7087343699227628525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_104
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b0bcb3ba093fe70800000000000000
+      internalID: 9147814333236579172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_105
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d7ec1fec7a6dcc0800000000000000
+      internalID: -3686574737694229139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_106
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a385f6642da6a40800000000000000
+      internalID: 5362329506295593608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_107
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689243f3a25091070800000000000000
+      internalID: 8077493085672843654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_108
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2787db4f24a13e0800000000000000
+      internalID: -2082278258787192103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b39373755e657c70800000000000000
+      internalID: 8968195546266440629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_110
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47e084ef53874160800000000000000
+      internalID: 7009715792904251211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_111
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e97f1ac26632250800000000000000
+      internalID: 5918686677176917534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_112
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb194a8070ff8860800000000000000
+      internalID: 7534505067761179644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_113
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e87dcc92352a3d20800000000000000
+      internalID: 3258958179665279204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_114
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485fb606d579348a0800000000000000
+      internalID: -6322043024592603772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_115
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c027cb66e5672ae00800000000000000
+      internalID: 1054535410580746764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_116
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2633e9885d01214e0800000000000000
+      internalID: -2012527574175042718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_117
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457a4b67380477d30800000000000000
+      internalID: 4429079691918616404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_118
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4693733e211803680800000000000000
+      internalID: -8777373755623655068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_119
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47af40202832ab0800000000000000
+      internalID: -5034037013285014356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_120
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34ec5a30c79b9420800000000000000
+      internalID: 2637868858624238653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Flowers_Yellow_121
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde1f5c447a6bbe10800000000000000
+      internalID: 2214480689512783581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Flowers_Yellow_0: -6353216930356732601
+      Animation_Flowers_Yellow_1: 7291134620675790556
+      Animation_Flowers_Yellow_10: -8132436354001106018
+      Animation_Flowers_Yellow_100: 6523494704791177197
+      Animation_Flowers_Yellow_101: 233294607079987908
+      Animation_Flowers_Yellow_102: -7256455058274183911
+      Animation_Flowers_Yellow_103: -7087343699227628525
+      Animation_Flowers_Yellow_104: 9147814333236579172
+      Animation_Flowers_Yellow_105: -3686574737694229139
+      Animation_Flowers_Yellow_106: 5362329506295593608
+      Animation_Flowers_Yellow_107: 8077493085672843654
+      Animation_Flowers_Yellow_108: -2082278258787192103
+      Animation_Flowers_Yellow_109: 8968195546266440629
+      Animation_Flowers_Yellow_11: -2741321046282171724
+      Animation_Flowers_Yellow_110: 7009715792904251211
+      Animation_Flowers_Yellow_111: 5918686677176917534
+      Animation_Flowers_Yellow_112: 7534505067761179644
+      Animation_Flowers_Yellow_113: 3258958179665279204
+      Animation_Flowers_Yellow_114: -6322043024592603772
+      Animation_Flowers_Yellow_115: 1054535410580746764
+      Animation_Flowers_Yellow_116: -2012527574175042718
+      Animation_Flowers_Yellow_117: 4429079691918616404
+      Animation_Flowers_Yellow_118: -8777373755623655068
+      Animation_Flowers_Yellow_119: -5034037013285014356
+      Animation_Flowers_Yellow_12: 520046624611048713
+      Animation_Flowers_Yellow_120: 2637868858624238653
+      Animation_Flowers_Yellow_121: 2214480689512783581
+      Animation_Flowers_Yellow_13: -9019960095806404374
+      Animation_Flowers_Yellow_14: -9204621687828062873
+      Animation_Flowers_Yellow_15: 8056745447041409750
+      Animation_Flowers_Yellow_16: 2727908025712653286
+      Animation_Flowers_Yellow_17: -1288881949196534173
+      Animation_Flowers_Yellow_18: -7301270177797768335
+      Animation_Flowers_Yellow_19: -3994074181709282109
+      Animation_Flowers_Yellow_2: -4370169295350691650
+      Animation_Flowers_Yellow_20: -489986944157080961
+      Animation_Flowers_Yellow_21: -2195399435175482004
+      Animation_Flowers_Yellow_22: 5745989022009015599
+      Animation_Flowers_Yellow_23: 727340519572838016
+      Animation_Flowers_Yellow_24: -6412627791103532744
+      Animation_Flowers_Yellow_25: -3415334709720184471
+      Animation_Flowers_Yellow_26: 5571365999238121425
+      Animation_Flowers_Yellow_27: -8830112880026771705
+      Animation_Flowers_Yellow_28: 6052557571222434402
+      Animation_Flowers_Yellow_29: -507008959112979871
+      Animation_Flowers_Yellow_3: -8362097330657529375
+      Animation_Flowers_Yellow_30: 904889642639659611
+      Animation_Flowers_Yellow_31: 3272089206790842133
+      Animation_Flowers_Yellow_32: -2611314063126249558
+      Animation_Flowers_Yellow_33: -43460603548843708
+      Animation_Flowers_Yellow_34: -7173969275993146097
+      Animation_Flowers_Yellow_35: 7144573266484718154
+      Animation_Flowers_Yellow_36: 8483134070753732781
+      Animation_Flowers_Yellow_37: -5509871753063190808
+      Animation_Flowers_Yellow_38: -5529670963582825612
+      Animation_Flowers_Yellow_39: -1231473923839611221
+      Animation_Flowers_Yellow_4: -4359629560350319523
+      Animation_Flowers_Yellow_40: 4014772397774576125
+      Animation_Flowers_Yellow_41: 1784352907026743117
+      Animation_Flowers_Yellow_42: 642697777811902310
+      Animation_Flowers_Yellow_43: -2848897856725192443
+      Animation_Flowers_Yellow_44: -8359545064851516686
+      Animation_Flowers_Yellow_45: -2586864145189687254
+      Animation_Flowers_Yellow_46: 760015103718659295
+      Animation_Flowers_Yellow_47: -4479842250202223314
+      Animation_Flowers_Yellow_48: 2100859353544492836
+      Animation_Flowers_Yellow_49: -808841421135120399
+      Animation_Flowers_Yellow_5: -8873428046279240287
+      Animation_Flowers_Yellow_50: 8728471809376828731
+      Animation_Flowers_Yellow_51: 1989779374308050004
+      Animation_Flowers_Yellow_52: 7533088919028637373
+      Animation_Flowers_Yellow_53: 2298070339577342354
+      Animation_Flowers_Yellow_54: -5662637668508876845
+      Animation_Flowers_Yellow_55: -949256668395623453
+      Animation_Flowers_Yellow_56: 5276958822405638140
+      Animation_Flowers_Yellow_57: -3032857322218604701
+      Animation_Flowers_Yellow_58: -6836948171395336535
+      Animation_Flowers_Yellow_59: -1647288679293681162
+      Animation_Flowers_Yellow_6: -3085006013952634005
+      Animation_Flowers_Yellow_60: -6623171158669239729
+      Animation_Flowers_Yellow_61: -2023031890340579904
+      Animation_Flowers_Yellow_62: -6076412166563029996
+      Animation_Flowers_Yellow_63: -216455959128272872
+      Animation_Flowers_Yellow_64: 6662693738998206012
+      Animation_Flowers_Yellow_65: 5774857849002141616
+      Animation_Flowers_Yellow_66: -6658471978075916126
+      Animation_Flowers_Yellow_67: 4838041458313662560
+      Animation_Flowers_Yellow_68: -6347481887522508046
+      Animation_Flowers_Yellow_69: 8551851719401289950
+      Animation_Flowers_Yellow_7: 4873071012115228753
+      Animation_Flowers_Yellow_70: -3618718059838623865
+      Animation_Flowers_Yellow_71: -1245518348474866707
+      Animation_Flowers_Yellow_72: -1833357529768841944
+      Animation_Flowers_Yellow_73: -5402521719662165406
+      Animation_Flowers_Yellow_74: 5447087513539659189
+      Animation_Flowers_Yellow_75: -6906393923956003549
+      Animation_Flowers_Yellow_76: -5465326264246292880
+      Animation_Flowers_Yellow_77: 8100831101863653804
+      Animation_Flowers_Yellow_78: 8772214956255599662
+      Animation_Flowers_Yellow_79: -868850691177265424
+      Animation_Flowers_Yellow_8: -7012401947247944204
+      Animation_Flowers_Yellow_80: -4659664057347624565
+      Animation_Flowers_Yellow_81: 1499008622043070592
+      Animation_Flowers_Yellow_82: -3515393276107145044
+      Animation_Flowers_Yellow_83: 913757850416119155
+      Animation_Flowers_Yellow_84: -7424543877094421787
+      Animation_Flowers_Yellow_85: 7573027837092039159
+      Animation_Flowers_Yellow_86: 1621650763355081206
+      Animation_Flowers_Yellow_87: 73378549492133593
+      Animation_Flowers_Yellow_88: -1407861785175150989
+      Animation_Flowers_Yellow_89: -5309254936239069292
+      Animation_Flowers_Yellow_9: -2571467475550334221
+      Animation_Flowers_Yellow_90: -3478929528231363468
+      Animation_Flowers_Yellow_91: 2179743794673515264
+      Animation_Flowers_Yellow_92: -7461593062253320434
+      Animation_Flowers_Yellow_93: -1864397523601404978
+      Animation_Flowers_Yellow_94: -3276017792926087659
+      Animation_Flowers_Yellow_95: 4821365254470051025
+      Animation_Flowers_Yellow_96: -7902458880016317869
+      Animation_Flowers_Yellow_97: 2009570660208605004
+      Animation_Flowers_Yellow_98: -2686602434719238999
+      Animation_Flowers_Yellow_99: 9053302620761950227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

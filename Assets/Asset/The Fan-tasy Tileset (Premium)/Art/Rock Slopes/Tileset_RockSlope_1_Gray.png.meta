@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: d803c9fe68913fc459a1c4143234bdf3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7880561947568302055
+    second: Tileset_RockSlope_1_Gray_0
+  - first:
+      213: 3974560896002938895
+    second: Tileset_RockSlope_1_Gray_1
+  - first:
+      213: 4035338837874058587
+    second: Tileset_RockSlope_1_Gray_2
+  - first:
+      213: 4308028780728085739
+    second: Tileset_RockSlope_1_Gray_3
+  - first:
+      213: -6052447980956151390
+    second: Tileset_RockSlope_1_Gray_4
+  - first:
+      213: -7013624182322863112
+    second: Tileset_RockSlope_1_Gray_5
+  - first:
+      213: 8323749390878616632
+    second: Tileset_RockSlope_1_Gray_6
+  - first:
+      213: 1738742717556037545
+    second: Tileset_RockSlope_1_Gray_7
+  - first:
+      213: -2923553040832965707
+    second: Tileset_RockSlope_1_Gray_8
+  - first:
+      213: -4336444641081738040
+    second: Tileset_RockSlope_1_Gray_9
+  - first:
+      213: -8216290863257250772
+    second: Tileset_RockSlope_1_Gray_10
+  - first:
+      213: 3250022733850524502
+    second: Tileset_RockSlope_1_Gray_11
+  - first:
+      213: 2061181358808442365
+    second: Tileset_RockSlope_1_Gray_12
+  - first:
+      213: -3502721393958290203
+    second: Tileset_RockSlope_1_Gray_13
+  - first:
+      213: -8531503568194393137
+    second: Tileset_RockSlope_1_Gray_14
+  - first:
+      213: -7489984087287557624
+    second: Tileset_RockSlope_1_Gray_15
+  - first:
+      213: -2365147742201805789
+    second: Tileset_RockSlope_1_Gray_16
+  - first:
+      213: -8092719338949427183
+    second: Tileset_RockSlope_1_Gray_17
+  - first:
+      213: -5552349212421306465
+    second: Tileset_RockSlope_1_Gray_18
+  - first:
+      213: -221627750397909351
+    second: Tileset_RockSlope_1_Gray_19
+  - first:
+      213: 5607163508072195583
+    second: Tileset_RockSlope_1_Gray_20
+  - first:
+      213: 1788949090705553783
+    second: Tileset_RockSlope_1_Gray_21
+  - first:
+      213: 126892366468576813
+    second: Tileset_RockSlope_1_Gray_22
+  - first:
+      213: 8862715903940284938
+    second: Tileset_RockSlope_1_Gray_23
+  - first:
+      213: -2869094798239536572
+    second: Tileset_RockSlope_1_Gray_24
+  - first:
+      213: -3696740736423349370
+    second: Tileset_RockSlope_1_Gray_25
+  - first:
+      213: 8584102923495159004
+    second: Tileset_RockSlope_1_Gray_26
+  - first:
+      213: -6482028946837362456
+    second: Tileset_RockSlope_1_Gray_27
+  - first:
+      213: -4323129977136047023
+    second: Tileset_RockSlope_1_Gray_28
+  - first:
+      213: 5219529831906984715
+    second: Tileset_RockSlope_1_Gray_29
+  - first:
+      213: 2866540315619939991
+    second: Tileset_RockSlope_1_Gray_30
+  - first:
+      213: 905873588139500675
+    second: Tileset_RockSlope_1_Gray_31
+  - first:
+      213: -3363583313737461591
+    second: Tileset_RockSlope_1_Gray_32
+  - first:
+      213: 631134545007688819
+    second: Tileset_RockSlope_1_Gray_33
+  - first:
+      213: -7029102811564783399
+    second: Tileset_RockSlope_1_Gray_34
+  - first:
+      213: 5708055666893277192
+    second: Tileset_RockSlope_1_Gray_35
+  - first:
+      213: -6621032063924765400
+    second: Tileset_RockSlope_1_Gray_36
+  - first:
+      213: 6188810100211489329
+    second: Tileset_RockSlope_1_Gray_37
+  - first:
+      213: -3658251653603892539
+    second: Tileset_RockSlope_1_Gray_38
+  - first:
+      213: -6550203043003697641
+    second: Tileset_RockSlope_1_Gray_39
+  - first:
+      213: 2580253118768490143
+    second: Tileset_RockSlope_1_Gray_40
+  - first:
+      213: -2093755744800564439
+    second: Tileset_RockSlope_1_Gray_41
+  - first:
+      213: -8185667020474701715
+    second: Tileset_RockSlope_1_Gray_42
+  - first:
+      213: 5863829553308402842
+    second: Tileset_RockSlope_1_Gray_43
+  - first:
+      213: -6545365700912241162
+    second: Tileset_RockSlope_1_Gray_44
+  - first:
+      213: -3769176108733826029
+    second: Tileset_RockSlope_1_Gray_45
+  - first:
+      213: -3851906694134479462
+    second: Tileset_RockSlope_1_Gray_46
+  - first:
+      213: 7651340335801476047
+    second: Tileset_RockSlope_1_Gray_47
+  - first:
+      213: -9064341931529719882
+    second: Tileset_RockSlope_1_Gray_48
+  - first:
+      213: 4136153140009044340
+    second: Tileset_RockSlope_1_Gray_49
+  - first:
+      213: -1972170641815896225
+    second: Tileset_RockSlope_1_Gray_50
+  - first:
+      213: -1963163777283070996
+    second: Tileset_RockSlope_1_Gray_51
+  - first:
+      213: 3590042530525358174
+    second: Tileset_RockSlope_1_Gray_52
+  - first:
+      213: -176297603445452001
+    second: Tileset_RockSlope_1_Gray_53
+  - first:
+      213: 8123116993135481120
+    second: Tileset_RockSlope_1_Gray_54
+  - first:
+      213: -1278886579426601781
+    second: Tileset_RockSlope_1_Gray_55
+  - first:
+      213: 7882138895270279356
+    second: Tileset_RockSlope_1_Gray_56
+  - first:
+      213: 1207164248138634919
+    second: Tileset_RockSlope_1_Gray_57
+  - first:
+      213: -2422911765534216897
+    second: Tileset_RockSlope_1_Gray_58
+  - first:
+      213: -8481251721514186282
+    second: Tileset_RockSlope_1_Gray_59
+  - first:
+      213: -3111252484182620877
+    second: Tileset_RockSlope_1_Gray_60
+  - first:
+      213: -8856391320622990169
+    second: Tileset_RockSlope_1_Gray_61
+  - first:
+      213: 3273537609865638982
+    second: Tileset_RockSlope_1_Gray_62
+  - first:
+      213: -8851017938216526244
+    second: Tileset_RockSlope_1_Gray_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1012
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9181bb469ae92a290800000000000000
+      internalID: -7880561947568302055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 959
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08d968a31a782730800000000000000
+      internalID: 3974560896002938895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 975
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5522dbfa47600830800000000000000
+      internalID: 4035338837874058587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 975
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bece475e95139cb30800000000000000
+      internalID: 4308028780728085739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 975
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a11499e0a2610ca0800000000000000
+      internalID: -6052447980956151390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 975
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f36e8847f99aae90800000000000000
+      internalID: -7013624182322863112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 975
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ca1ba48f5e38370800000000000000
+      internalID: 8323749390878616632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 975
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a799b31a41412810800000000000000
+      internalID: 1738742717556037545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 983
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3532fbff37d67d0800000000000000
+      internalID: -2923553040832965707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 983
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc3d2c039ad1d3c0800000000000000
+      internalID: -4336444641081738040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 975
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24934cddfed9fd80800000000000000
+      internalID: -8216290863257250772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 975
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bba1305766a1d20800000000000000
+      internalID: 3250022733850524502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 920
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df52f657689ca9c10800000000000000
+      internalID: 2061181358808442365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 920
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec74fd4375d36fc0800000000000000
+      internalID: -3502721393958290203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 927
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbabc1e4b20a9980800000000000000
+      internalID: -8531503568194393137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 895
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80295eff72b3e0890800000000000000
+      internalID: -7489984087287557624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 863
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3248eb8d8ae4d2fd0800000000000000
+      internalID: -2365147742201805789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 847
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1104cf663a2e0bf80800000000000000
+      internalID: -8092719338949427183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 895
+        width: 79
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9745b41fc712f2b0800000000000000
+      internalID: -5552349212421306465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 863
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996e9293cbe9cecf0800000000000000
+      internalID: -221627750397909351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 869
+        width: 66
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff52d28a085a0dd40800000000000000
+      internalID: 5607163508072195583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 783
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77933c048bf93d810800000000000000
+      internalID: 1788949090705553783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 783
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26711c5fefc2c100800000000000000
+      internalID: 126892366468576813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 783
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02d09f6821befa70800000000000000
+      internalID: 8862715903940284938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 783
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ae20c6b7dee28d0800000000000000
+      internalID: -2869094798239536572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 783
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68335cae2e982bcc0800000000000000
+      internalID: -3696740736423349370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 783
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4325ed02cd02770800000000000000
+      internalID: 8584102923495159004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 783
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8a5ff14053b06a0800000000000000
+      internalID: -6482028946837362456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 783
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c96f2d0382104c0800000000000000
+      internalID: -4323129977136047023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 783
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03ce555abe7f6840800000000000000
+      internalID: 5219529831906984715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 735
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796dcdeba3ff7c720800000000000000
+      internalID: 2866540315619939991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 735
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384a6789a3f429c00800000000000000
+      internalID: 905873588139500675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 735
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a05f341cc62251d0800000000000000
+      internalID: -3363583313737461591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 687
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c39a8568d32c800800000000000000
+      internalID: 631134545007688819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 655
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d84bf21c3c937e90800000000000000
+      internalID: -7029102811564783399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 655
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808445fe266173f40800000000000000
+      internalID: 5708055666893277192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 639
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dfa47ea6e5d14a0800000000000000
+      internalID: -6621032063924765400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 639
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a94751ff113e550800000000000000
+      internalID: 6188810100211489329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 639
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c264f7d0874b3dc0800000000000000
+      internalID: -3658251653603892539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 543
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716f41f69010915a0800000000000000
+      internalID: -6550203043003697641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 543
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f962ace6a86eec320800000000000000
+      internalID: 2580253118768490143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 543
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b9ab84e3c71f2e0800000000000000
+      internalID: -2093755744800564439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 543
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68a9f2e63ba66e80800000000000000
+      internalID: -8185667020474701715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 543
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94826c29e1806150800000000000000
+      internalID: 5863829553308402842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 543
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5a918e2903a25a0800000000000000
+      internalID: -6545365700912241162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_45
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 543
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cf70f8c4231bbc0800000000000000
+      internalID: -3769176108733826029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_46
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 543
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a954a2c15474b8ac0800000000000000
+      internalID: -3851906694134479462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_47
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 543
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3a0133f750f2a60800000000000000
+      internalID: 7651340335801476047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 527
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf2e78c90df43280800000000000000
+      internalID: -9064341931529719882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_49
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 527
+        width: 18
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4790bd6dd51966930800000000000000
+      internalID: 4136153140009044340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 543
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ffb12104171a4e0800000000000000
+      internalID: -1972170641815896225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_51
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 543
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3e02322f071c4e0800000000000000
+      internalID: -1963163777283070996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_52
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 527
+        width: 18
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58228029a462d130800000000000000
+      internalID: 3590042530525358174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_53
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 527
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1391e3834aad8df0800000000000000
+      internalID: -176297603445452001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 479
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02197ccfddb1bb070800000000000000
+      internalID: 8123116993135481120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 479
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4534d8e6b704ee0800000000000000
+      internalID: -1278886579426601781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_56
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 479
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8ffda509bf26d60800000000000000
+      internalID: 7882138895270279356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 479
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6dad3ec75b0c010800000000000000
+      internalID: 1207164248138634919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_58
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 415
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3de73d1696106ed0800000000000000
+      internalID: -2422911765534216897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 383
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d90a70be7a8c4a80800000000000000
+      internalID: -8481251721514186282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_60
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 383
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3354eb9895c92d4d0800000000000000
+      internalID: -3111252484182620877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_61
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 367
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acf96e5407c71580800000000000000
+      internalID: -8856391320622990169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_62
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 367
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6443ceabc11fd6d20800000000000000
+      internalID: 3273537609865638982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_RockSlope_1_Gray_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 351
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e5ef3741eda2580800000000000000
+      internalID: -8851017938216526244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_RockSlope_1_Gray_0: -7880561947568302055
+      Tileset_RockSlope_1_Gray_1: 3974560896002938895
+      Tileset_RockSlope_1_Gray_10: -8216290863257250772
+      Tileset_RockSlope_1_Gray_11: 3250022733850524502
+      Tileset_RockSlope_1_Gray_12: 2061181358808442365
+      Tileset_RockSlope_1_Gray_13: -3502721393958290203
+      Tileset_RockSlope_1_Gray_14: -8531503568194393137
+      Tileset_RockSlope_1_Gray_15: -7489984087287557624
+      Tileset_RockSlope_1_Gray_16: -2365147742201805789
+      Tileset_RockSlope_1_Gray_17: -8092719338949427183
+      Tileset_RockSlope_1_Gray_18: -5552349212421306465
+      Tileset_RockSlope_1_Gray_19: -221627750397909351
+      Tileset_RockSlope_1_Gray_2: 4035338837874058587
+      Tileset_RockSlope_1_Gray_20: 5607163508072195583
+      Tileset_RockSlope_1_Gray_21: 1788949090705553783
+      Tileset_RockSlope_1_Gray_22: 126892366468576813
+      Tileset_RockSlope_1_Gray_23: 8862715903940284938
+      Tileset_RockSlope_1_Gray_24: -2869094798239536572
+      Tileset_RockSlope_1_Gray_25: -3696740736423349370
+      Tileset_RockSlope_1_Gray_26: 8584102923495159004
+      Tileset_RockSlope_1_Gray_27: -6482028946837362456
+      Tileset_RockSlope_1_Gray_28: -4323129977136047023
+      Tileset_RockSlope_1_Gray_29: 5219529831906984715
+      Tileset_RockSlope_1_Gray_3: 4308028780728085739
+      Tileset_RockSlope_1_Gray_30: 2866540315619939991
+      Tileset_RockSlope_1_Gray_31: 905873588139500675
+      Tileset_RockSlope_1_Gray_32: -3363583313737461591
+      Tileset_RockSlope_1_Gray_33: 631134545007688819
+      Tileset_RockSlope_1_Gray_34: -7029102811564783399
+      Tileset_RockSlope_1_Gray_35: 5708055666893277192
+      Tileset_RockSlope_1_Gray_36: -6621032063924765400
+      Tileset_RockSlope_1_Gray_37: 6188810100211489329
+      Tileset_RockSlope_1_Gray_38: -3658251653603892539
+      Tileset_RockSlope_1_Gray_39: -6550203043003697641
+      Tileset_RockSlope_1_Gray_4: -6052447980956151390
+      Tileset_RockSlope_1_Gray_40: 2580253118768490143
+      Tileset_RockSlope_1_Gray_41: -2093755744800564439
+      Tileset_RockSlope_1_Gray_42: -8185667020474701715
+      Tileset_RockSlope_1_Gray_43: 5863829553308402842
+      Tileset_RockSlope_1_Gray_44: -6545365700912241162
+      Tileset_RockSlope_1_Gray_45: -3769176108733826029
+      Tileset_RockSlope_1_Gray_46: -3851906694134479462
+      Tileset_RockSlope_1_Gray_47: 7651340335801476047
+      Tileset_RockSlope_1_Gray_48: -9064341931529719882
+      Tileset_RockSlope_1_Gray_49: 4136153140009044340
+      Tileset_RockSlope_1_Gray_5: -7013624182322863112
+      Tileset_RockSlope_1_Gray_50: -1972170641815896225
+      Tileset_RockSlope_1_Gray_51: -1963163777283070996
+      Tileset_RockSlope_1_Gray_52: 3590042530525358174
+      Tileset_RockSlope_1_Gray_53: -176297603445452001
+      Tileset_RockSlope_1_Gray_54: 8123116993135481120
+      Tileset_RockSlope_1_Gray_55: -1278886579426601781
+      Tileset_RockSlope_1_Gray_56: 7882138895270279356
+      Tileset_RockSlope_1_Gray_57: 1207164248138634919
+      Tileset_RockSlope_1_Gray_58: -2422911765534216897
+      Tileset_RockSlope_1_Gray_59: -8481251721514186282
+      Tileset_RockSlope_1_Gray_6: 8323749390878616632
+      Tileset_RockSlope_1_Gray_60: -3111252484182620877
+      Tileset_RockSlope_1_Gray_61: -8856391320622990169
+      Tileset_RockSlope_1_Gray_62: 3273537609865638982
+      Tileset_RockSlope_1_Gray_63: -8851017938216526244
+      Tileset_RockSlope_1_Gray_7: 1738742717556037545
+      Tileset_RockSlope_1_Gray_8: -2923553040832965707
+      Tileset_RockSlope_1_Gray_9: -4336444641081738040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

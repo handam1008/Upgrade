@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 3a4f632c5a4e69844b0cbac023d41f06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5952683414526415881
+    second: Animation_Rock_Gray_EmeraldGrass_0
+  - first:
+      213: -3279562957707020864
+    second: Animation_Rock_Gray_EmeraldGrass_1
+  - first:
+      213: 3838360474780551897
+    second: Animation_Rock_Gray_EmeraldGrass_2
+  - first:
+      213: 1545552214403487609
+    second: Animation_Rock_Gray_EmeraldGrass_3
+  - first:
+      213: 7674464435325474317
+    second: Animation_Rock_Gray_EmeraldGrass_4
+  - first:
+      213: 1537018065124438487
+    second: Animation_Rock_Gray_EmeraldGrass_5
+  - first:
+      213: 4560730038452479065
+    second: Animation_Rock_Gray_EmeraldGrass_6
+  - first:
+      213: -3774166197164277266
+    second: Animation_Rock_Gray_EmeraldGrass_7
+  - first:
+      213: -1460273310265693138
+    second: Animation_Rock_Gray_EmeraldGrass_8
+  - first:
+      213: 695539415802192403
+    second: Animation_Rock_Gray_EmeraldGrass_9
+  - first:
+      213: -7205991272159598826
+    second: Animation_Rock_Gray_EmeraldGrass_10
+  - first:
+      213: -1179528543446991682
+    second: Animation_Rock_Gray_EmeraldGrass_11
+  - first:
+      213: 440007257029776457
+    second: Animation_Rock_Gray_EmeraldGrass_12
+  - first:
+      213: -8642054637317048328
+    second: Animation_Rock_Gray_EmeraldGrass_13
+  - first:
+      213: -7630804164653461063
+    second: Animation_Rock_Gray_EmeraldGrass_14
+  - first:
+      213: -6475241909031914109
+    second: Animation_Rock_Gray_EmeraldGrass_15
+  - first:
+      213: -9080330877330528951
+    second: Animation_Rock_Gray_EmeraldGrass_16
+  - first:
+      213: 5042603383616828342
+    second: Animation_Rock_Gray_EmeraldGrass_17
+  - first:
+      213: 8024160843237639818
+    second: Animation_Rock_Gray_EmeraldGrass_18
+  - first:
+      213: 826669050982984682
+    second: Animation_Rock_Gray_EmeraldGrass_19
+  - first:
+      213: 1978190964851184358
+    second: Animation_Rock_Gray_EmeraldGrass_20
+  - first:
+      213: 485842715019494844
+    second: Animation_Rock_Gray_EmeraldGrass_21
+  - first:
+      213: -8822175701330945536
+    second: Animation_Rock_Gray_EmeraldGrass_22
+  - first:
+      213: 4300654429093145738
+    second: Animation_Rock_Gray_EmeraldGrass_23
+  - first:
+      213: -3473094862631910727
+    second: Animation_Rock_Gray_EmeraldGrass_24
+  - first:
+      213: -540697047594452816
+    second: Animation_Rock_Gray_EmeraldGrass_25
+  - first:
+      213: -2133057307353071520
+    second: Animation_Rock_Gray_EmeraldGrass_26
+  - first:
+      213: 4228076790526584585
+    second: Animation_Rock_Gray_EmeraldGrass_27
+  - first:
+      213: 2089961781776416807
+    second: Animation_Rock_Gray_EmeraldGrass_28
+  - first:
+      213: 6200757306367491557
+    second: Animation_Rock_Gray_EmeraldGrass_29
+  - first:
+      213: -3739957720634421216
+    second: Animation_Rock_Gray_EmeraldGrass_30
+  - first:
+      213: -6844700446297159990
+    second: Animation_Rock_Gray_EmeraldGrass_31
+  - first:
+      213: -8364398687331533731
+    second: Animation_Rock_Gray_EmeraldGrass_32
+  - first:
+      213: -3636279637212559572
+    second: Animation_Rock_Gray_EmeraldGrass_33
+  - first:
+      213: 967329398878652467
+    second: Animation_Rock_Gray_EmeraldGrass_34
+  - first:
+      213: 8522117475062282630
+    second: Animation_Rock_Gray_EmeraldGrass_35
+  - first:
+      213: 6253479766985189839
+    second: Animation_Rock_Gray_EmeraldGrass_36
+  - first:
+      213: -5488752759858314909
+    second: Animation_Rock_Gray_EmeraldGrass_37
+  - first:
+      213: 4215145847700151756
+    second: Animation_Rock_Gray_EmeraldGrass_38
+  - first:
+      213: -5256622196431001578
+    second: Animation_Rock_Gray_EmeraldGrass_39
+  - first:
+      213: -6611708830993173234
+    second: Animation_Rock_Gray_EmeraldGrass_40
+  - first:
+      213: 5209389080926823812
+    second: Animation_Rock_Gray_EmeraldGrass_41
+  - first:
+      213: -7839766506315833215
+    second: Animation_Rock_Gray_EmeraldGrass_42
+  - first:
+      213: -6190099636355888019
+    second: Animation_Rock_Gray_EmeraldGrass_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb2bc029f1d36da0800000000000000
+      internalID: -5952683414526415881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 301
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5f757add6ac72d0800000000000000
+      internalID: -3279562957707020864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dac13be388944530800000000000000
+      internalID: 3838360474780551897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9779651ec87e27510800000000000000
+      internalID: 1545552214403487609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0691fc2ebc218a60800000000000000
+      internalID: 7674464435325474317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 301
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1b91969c5945510800000000000000
+      internalID: 1537018065124438487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954e9626ec7fa4f30800000000000000
+      internalID: 4560730038452479065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee18cbe07d77f9bc0800000000000000
+      internalID: -3774166197164277266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c21a249211cbbe0800000000000000
+      internalID: -1460273310265693138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3122c2ed96d07a900800000000000000
+      internalID: 695539415802192403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617ac50fd1d2ffb90800000000000000
+      internalID: -7205991272159598826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc78650a0971afe0800000000000000
+      internalID: -1179528543446991682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9449addd4483b1600800000000000000
+      internalID: 440007257029776457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7333d4811411880800000000000000
+      internalID: -8642054637317048328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 225
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1524fba00f91690800000000000000
+      internalID: -7630804164653461063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 225
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3853e618ac15326a0800000000000000
+      internalID: -6475241909031914109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945e3bd3d2f2cf180800000000000000
+      internalID: -9080330877330528951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 225
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3f9af7f0deaf540800000000000000
+      internalID: 5042603383616828342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8647c9e5cb8b5f60800000000000000
+      internalID: 8024160843237639818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 161
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb66aa3f1be87b00800000000000000
+      internalID: 826669050982984682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 161
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e297dd9332f37b10800000000000000
+      internalID: 1978190964851184358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 161
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5c27d006f0eb600800000000000000
+      internalID: 485842715019494844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 161
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a161801f5519580800000000000000
+      internalID: -8822175701330945536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 161
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8caecbda6efeab30800000000000000
+      internalID: 4300654429093145738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 161
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b24799af961dcfc0800000000000000
+      internalID: -3473094862631910727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8b70366ee0f78f0800000000000000
+      internalID: -540697047594452816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0604bad2eabd562e0800000000000000
+      internalID: -2133057307353071520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907296e80752daa30800000000000000
+      internalID: 4228076790526584585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7200decda29010d10800000000000000
+      internalID: 2089961781776416807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed3178cae38d0650800000000000000
+      internalID: 6200757306367491557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0201b9aa440091cc0800000000000000
+      internalID: -3739957720634421216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac60088753db201a0800000000000000
+      internalID: -6844700446297159990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 81
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c3cd9d5bfabeb80800000000000000
+      internalID: -8364398687331533731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 81
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2785ff8fe6598dc0800000000000000
+      internalID: -3636279637212559572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 81
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33844f096f4ac6d00800000000000000
+      internalID: 967329398878652467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 81
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6897c3301b4a44670800000000000000
+      internalID: 8522117475062282630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 81
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9ae3937b2d8c650800000000000000
+      internalID: 6253479766985189839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 48
+        width: 98
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36143b0127804d3b0800000000000000
+      internalID: -5488752759858314909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd51a0d0d43f7a30800000000000000
+      internalID: 4215145847700151756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618eb4f86f9bc07b0800000000000000
+      internalID: -5256622196431001578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05b65a39dd7e34a0800000000000000
+      internalID: -6611708830993173234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4852171c4c77b4840800000000000000
+      internalID: 5209389080926823812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1802a0d36ed833390800000000000000
+      internalID: -7839766506315833215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Gray_EmeraldGrass_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c8bb26d29581aa0800000000000000
+      internalID: -6190099636355888019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Rock_Gray_EmeraldGrass_0: -5952683414526415881
+      Animation_Rock_Gray_EmeraldGrass_1: -3279562957707020864
+      Animation_Rock_Gray_EmeraldGrass_10: -7205991272159598826
+      Animation_Rock_Gray_EmeraldGrass_11: -1179528543446991682
+      Animation_Rock_Gray_EmeraldGrass_12: 440007257029776457
+      Animation_Rock_Gray_EmeraldGrass_13: -8642054637317048328
+      Animation_Rock_Gray_EmeraldGrass_14: -7630804164653461063
+      Animation_Rock_Gray_EmeraldGrass_15: -6475241909031914109
+      Animation_Rock_Gray_EmeraldGrass_16: -9080330877330528951
+      Animation_Rock_Gray_EmeraldGrass_17: 5042603383616828342
+      Animation_Rock_Gray_EmeraldGrass_18: 8024160843237639818
+      Animation_Rock_Gray_EmeraldGrass_19: 826669050982984682
+      Animation_Rock_Gray_EmeraldGrass_2: 3838360474780551897
+      Animation_Rock_Gray_EmeraldGrass_20: 1978190964851184358
+      Animation_Rock_Gray_EmeraldGrass_21: 485842715019494844
+      Animation_Rock_Gray_EmeraldGrass_22: -8822175701330945536
+      Animation_Rock_Gray_EmeraldGrass_23: 4300654429093145738
+      Animation_Rock_Gray_EmeraldGrass_24: -3473094862631910727
+      Animation_Rock_Gray_EmeraldGrass_25: -540697047594452816
+      Animation_Rock_Gray_EmeraldGrass_26: -2133057307353071520
+      Animation_Rock_Gray_EmeraldGrass_27: 4228076790526584585
+      Animation_Rock_Gray_EmeraldGrass_28: 2089961781776416807
+      Animation_Rock_Gray_EmeraldGrass_29: 6200757306367491557
+      Animation_Rock_Gray_EmeraldGrass_3: 1545552214403487609
+      Animation_Rock_Gray_EmeraldGrass_30: -3739957720634421216
+      Animation_Rock_Gray_EmeraldGrass_31: -6844700446297159990
+      Animation_Rock_Gray_EmeraldGrass_32: -8364398687331533731
+      Animation_Rock_Gray_EmeraldGrass_33: -3636279637212559572
+      Animation_Rock_Gray_EmeraldGrass_34: 967329398878652467
+      Animation_Rock_Gray_EmeraldGrass_35: 8522117475062282630
+      Animation_Rock_Gray_EmeraldGrass_36: 6253479766985189839
+      Animation_Rock_Gray_EmeraldGrass_37: -5488752759858314909
+      Animation_Rock_Gray_EmeraldGrass_38: 4215145847700151756
+      Animation_Rock_Gray_EmeraldGrass_39: -5256622196431001578
+      Animation_Rock_Gray_EmeraldGrass_4: 7674464435325474317
+      Animation_Rock_Gray_EmeraldGrass_40: -6611708830993173234
+      Animation_Rock_Gray_EmeraldGrass_41: 5209389080926823812
+      Animation_Rock_Gray_EmeraldGrass_42: -7839766506315833215
+      Animation_Rock_Gray_EmeraldGrass_43: -6190099636355888019
+      Animation_Rock_Gray_EmeraldGrass_5: 1537018065124438487
+      Animation_Rock_Gray_EmeraldGrass_6: 4560730038452479065
+      Animation_Rock_Gray_EmeraldGrass_7: -3774166197164277266
+      Animation_Rock_Gray_EmeraldGrass_8: -1460273310265693138
+      Animation_Rock_Gray_EmeraldGrass_9: 695539415802192403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

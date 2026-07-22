@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 27ffa796f9d43d647ac5da16301d8020
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2730666091874638889
+    second: Atlas_GrassPatch_0
+  - first:
+      213: 4555113484670132379
+    second: Atlas_GrassPatch_1
+  - first:
+      213: -5723651272201256037
+    second: Atlas_GrassPatch_2
+  - first:
+      213: 5581389125981968858
+    second: Atlas_GrassPatch_3
+  - first:
+      213: 8788097325594976958
+    second: Atlas_GrassPatch_4
+  - first:
+      213: 8477780787987970572
+    second: Atlas_GrassPatch_5
+  - first:
+      213: 5385026821157769133
+    second: Atlas_GrassPatch_6
+  - first:
+      213: 1959757137637686231
+    second: Atlas_GrassPatch_7
+  - first:
+      213: 4793490157514209028
+    second: Atlas_GrassPatch_8
+  - first:
+      213: 47389547252346681
+    second: Atlas_GrassPatch_9
+  - first:
+      213: -5869232684169938956
+    second: Atlas_GrassPatch_10
+  - first:
+      213: -7308516392304763629
+    second: Atlas_GrassPatch_11
+  - first:
+      213: 6267828117128364071
+    second: Atlas_GrassPatch_12
+  - first:
+      213: -8748108801736107857
+    second: Atlas_GrassPatch_13
+  - first:
+      213: 1246246676779511002
+    second: Atlas_GrassPatch_14
+  - first:
+      213: 7888869634935526639
+    second: Atlas_GrassPatch_15
+  - first:
+      213: -1137766863707793132
+    second: Atlas_GrassPatch_16
+  - first:
+      213: -1496488169557082420
+    second: Atlas_GrassPatch_17
+  - first:
+      213: -719483617214677854
+    second: Atlas_GrassPatch_18
+  - first:
+      213: -9131142317988441458
+    second: Atlas_GrassPatch_19
+  - first:
+      213: -6107061018119758981
+    second: Atlas_GrassPatch_20
+  - first:
+      213: 1856826664803065385
+    second: Atlas_GrassPatch_21
+  - first:
+      213: -8584703230369883622
+    second: Atlas_GrassPatch_22
+  - first:
+      213: 3659004779619078952
+    second: Atlas_GrassPatch_23
+  - first:
+      213: 8310780975562122671
+    second: Atlas_GrassPatch_24
+  - first:
+      213: -3060827645659534756
+    second: Atlas_GrassPatch_25
+  - first:
+      213: 7940146018951202625
+    second: Atlas_GrassPatch_26
+  - first:
+      213: 572833425572378196
+    second: Atlas_GrassPatch_27
+  - first:
+      213: 8858920632313692112
+    second: Atlas_GrassPatch_28
+  - first:
+      213: 5973162491862826017
+    second: Atlas_GrassPatch_29
+  - first:
+      213: 4485053773408450774
+    second: Atlas_GrassPatch_30
+  - first:
+      213: 3951806828618685097
+    second: Atlas_GrassPatch_31
+  - first:
+      213: 8325264998811252914
+    second: Atlas_GrassPatch_32
+  - first:
+      213: 1721103222473259716
+    second: Atlas_GrassPatch_33
+  - first:
+      213: -3954950506583243988
+    second: Atlas_GrassPatch_34
+  - first:
+      213: -5010189297272254482
+    second: Atlas_GrassPatch_35
+  - first:
+      213: 8496618384091497445
+    second: Atlas_GrassPatch_36
+  - first:
+      213: -2976618616630945861
+    second: Atlas_GrassPatch_37
+  - first:
+      213: 3827449445035822524
+    second: Atlas_GrassPatch_38
+  - first:
+      213: 6926041938986742076
+    second: Atlas_GrassPatch_39
+  - first:
+      213: -5444755832641417511
+    second: Atlas_GrassPatch_40
+  - first:
+      213: -4167812647930461789
+    second: Atlas_GrassPatch_41
+  - first:
+      213: -3537962155332579629
+    second: Atlas_GrassPatch_42
+  - first:
+      213: -915697158484534827
+    second: Atlas_GrassPatch_43
+  - first:
+      213: 4069400399205654232
+    second: Atlas_GrassPatch_44
+  - first:
+      213: -7343285133927274192
+    second: Atlas_GrassPatch_45
+  - first:
+      213: -4999248971038539241
+    second: Atlas_GrassPatch_46
+  - first:
+      213: -8726206659646019047
+    second: Atlas_GrassPatch_47
+  - first:
+      213: -8267435431673885489
+    second: Atlas_GrassPatch_48
+  - first:
+      213: 7983639270831414612
+    second: Atlas_GrassPatch_49
+  - first:
+      213: 6105077231709177463
+    second: Atlas_GrassPatch_50
+  - first:
+      213: -6878084290202417695
+    second: Atlas_GrassPatch_51
+  - first:
+      213: 7334374468591911784
+    second: Atlas_GrassPatch_52
+  - first:
+      213: 6152420618692326884
+    second: Atlas_GrassPatch_53
+  - first:
+      213: -7991448254424947662
+    second: Atlas_GrassPatch_54
+  - first:
+      213: 1983370893414442334
+    second: Atlas_GrassPatch_55
+  - first:
+      213: -7503050276849756308
+    second: Atlas_GrassPatch_56
+  - first:
+      213: -1315571172748439665
+    second: Atlas_GrassPatch_57
+  - first:
+      213: 128749827316602547
+    second: Atlas_GrassPatch_58
+  - first:
+      213: -7585642228685081850
+    second: Atlas_GrassPatch_59
+  - first:
+      213: -7206491817776880561
+    second: Atlas_GrassPatch_60
+  - first:
+      213: -1490290965967694426
+    second: Atlas_GrassPatch_61
+  - first:
+      213: 1909043126955502311
+    second: Atlas_GrassPatch_62
+  - first:
+      213: -2870165870283936779
+    second: Atlas_GrassPatch_63
+  - first:
+      213: 2642123026361246600
+    second: Atlas_GrassPatch_64
+  - first:
+      213: -667135261934311637
+    second: Atlas_GrassPatch_65
+  - first:
+      213: -4014784935850890596
+    second: Atlas_GrassPatch_66
+  - first:
+      213: 323096959950248475
+    second: Atlas_GrassPatch_67
+  - first:
+      213: 648118548070828215
+    second: Atlas_GrassPatch_68
+  - first:
+      213: 1159783819598848687
+    second: Atlas_GrassPatch_69
+  - first:
+      213: 1218753210287611969
+    second: Atlas_GrassPatch_70
+  - first:
+      213: -1312924342023653169
+    second: Atlas_GrassPatch_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1776
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c5466c75645e520800000000000000
+      internalID: 2730666091874638889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1776
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90ea5d8493073f30800000000000000
+      internalID: 4555113484670132379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1776
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b934b3e3e718190b0800000000000000
+      internalID: -5723651272201256037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1781
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9126fa6d3157d40800000000000000
+      internalID: 5581389125981968858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1776
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb226afc4f795f970800000000000000
+      internalID: 8788097325594976958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1776
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a77af95b027a570800000000000000
+      internalID: 8477780787987970572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1776
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf4f0ddc557bba40800000000000000
+      internalID: 5385026821157769133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1777
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db3ee2cbb4723b10800000000000000
+      internalID: 1959757137637686231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1776
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40737f8b6e5e58240800000000000000
+      internalID: 4793490157514209028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1778
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fea0aca8c58a000800000000000000
+      internalID: 47389547252346681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1778
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f730f368fb4c8ea0800000000000000
+      internalID: -5869232684169938956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1777
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d1e89301fe29a90800000000000000
+      internalID: -7308516392304763629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1778
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72044a2d67ccbf650800000000000000
+      internalID: 6267828117128364071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1744
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa81d00f469789680800000000000000
+      internalID: -8748108801736107857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1744
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc24f7efbe8b4110800000000000000
+      internalID: 1246246676779511002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1744
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe492bdc225ea7d60800000000000000
+      internalID: 7888869634935526639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1698
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4199c7bc017d530f0800000000000000
+      internalID: -1137766863707793132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1696
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceb9f240f76b3be0800000000000000
+      internalID: -1496488169557082420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1697
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acb43e4671e306f0800000000000000
+      internalID: -719483617214677854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1699
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8213cec07aa74180800000000000000
+      internalID: -9131142317988441458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1635
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b16515c5c5f3ba0800000000000000
+      internalID: -6107061018119758981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1670
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e5f058306c4c910800000000000000
+      internalID: 1856826664803065385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1632
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a97ab45e10dd880800000000000000
+      internalID: -8584703230369883622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1665
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823d6a8f57567c230800000000000000
+      internalID: 3659004779619078952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1520
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5647ec343d55370800000000000000
+      internalID: 8310780975562122671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aa4c52971c585d0800000000000000
+      internalID: -3060827645659534756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147815c4cb0113e60800000000000000
+      internalID: 7940146018951202625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1525
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45636be27fc13f700800000000000000
+      internalID: 572833425572378196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1520
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfbf66e06531fa70800000000000000
+      internalID: 8858920632313692112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1520
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cbb21a3afe4e250800000000000000
+      internalID: 5973162491862826017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1520
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d83982e4ac1e3e30800000000000000
+      internalID: 4485053773408450774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1521
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa97c08f53a7d630800000000000000
+      internalID: 3951806828618685097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b833234868498370800000000000000
+      internalID: 8325264998811252914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1522
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca7c45134692e710800000000000000
+      internalID: 1721103222473259716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_34
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1522
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23cadee7713d19c0800000000000000
+      internalID: -3954950506583243988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_35
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1521
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef8f96116b387ab0800000000000000
+      internalID: -5010189297272254482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1522
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3c3df376d0ae570800000000000000
+      internalID: 8496618384091497445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1488
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7d5e3932de0b6d0800000000000000
+      internalID: -2976618616630945861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1488
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd4027ddf4dd1530800000000000000
+      internalID: 3827449445035822524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1488
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3133c0a27e3e1060800000000000000
+      internalID: 6926041938986742076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1442
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de0ca2fa675074b0800000000000000
+      internalID: -5444755832641417511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1440
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a189bd8a74f826c0800000000000000
+      internalID: -4167812647930461789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1441
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de40a62a22a6eec0800000000000000
+      internalID: -3537962155332579629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1443
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9d1b2394aca43f0800000000000000
+      internalID: -915697158484534827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1379
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de5c7b3a1a697830800000000000000
+      internalID: 4069400399205654232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1414
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039abdbb319671a90800000000000000
+      internalID: -7343285133927274192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1376
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712c2894c891f9ab0800000000000000
+      internalID: -4999248971038539241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1409
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aa627c64946e680800000000000000
+      internalID: -8726206659646019047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1264
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc8993174b244d80800000000000000
+      internalID: -8267435431673885489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1264
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dd3c02e959bce60800000000000000
+      internalID: 7983639270831414612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_50
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1264
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c95a656799b450800000000000000
+      internalID: 6105077231709177463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1269
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e54a4b97c22c80a0800000000000000
+      internalID: -6878084290202417695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1264
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8638d1258bee8c560800000000000000
+      internalID: 7334374468591911784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1264
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5f1fda4f9c16550800000000000000
+      internalID: 6152420618692326884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1264
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234e512372ca81190800000000000000
+      internalID: -7991448254424947662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1265
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5521d7b159568b10800000000000000
+      internalID: 1983370893414442334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67597ca68fcfd790800000000000000
+      internalID: -7503050276849756308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1266
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fc5931df62ebde0800000000000000
+      internalID: -1315571172748439665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1266
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6591a294969c100800000000000000
+      internalID: 128749827316602547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_59
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1265
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603f50e55926ab690800000000000000
+      internalID: -7585642228685081850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_60
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1266
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4466a49fd56dfb90800000000000000
+      internalID: -7206491817776880561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1232
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a59589234c615be0800000000000000
+      internalID: -1490290965967694426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1232
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea65130c984e7a10800000000000000
+      internalID: 1909043126955502311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1232
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fba647095f1b28d0800000000000000
+      internalID: -2870165870283936779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1186
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8836427d4e4baa420800000000000000
+      internalID: 2642123026361246600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1184
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27a44f830cddb6f0800000000000000
+      internalID: -667135261934311637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_66
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1185
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aa4014f5e9848c0800000000000000
+      internalID: -4014784935850890596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1187
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ad7d529fedb7400800000000000000
+      internalID: 323096959950248475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1123
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b88a16b2649ef800800000000000000
+      internalID: 648118548070828215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa26f673d31681010800000000000000
+      internalID: 1159783819598848687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1120
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1406f086691e9e010800000000000000
+      internalID: 1218753210287611969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_GrassPatch_71
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1153
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc877b0644e87cde0800000000000000
+      internalID: -1312924342023653169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_GrassPatch_0: 2730666091874638889
+      Atlas_GrassPatch_1: 4555113484670132379
+      Atlas_GrassPatch_10: -5869232684169938956
+      Atlas_GrassPatch_11: -7308516392304763629
+      Atlas_GrassPatch_12: 6267828117128364071
+      Atlas_GrassPatch_13: -8748108801736107857
+      Atlas_GrassPatch_14: 1246246676779511002
+      Atlas_GrassPatch_15: 7888869634935526639
+      Atlas_GrassPatch_16: -1137766863707793132
+      Atlas_GrassPatch_17: -1496488169557082420
+      Atlas_GrassPatch_18: -719483617214677854
+      Atlas_GrassPatch_19: -9131142317988441458
+      Atlas_GrassPatch_2: -5723651272201256037
+      Atlas_GrassPatch_20: -6107061018119758981
+      Atlas_GrassPatch_21: 1856826664803065385
+      Atlas_GrassPatch_22: -8584703230369883622
+      Atlas_GrassPatch_23: 3659004779619078952
+      Atlas_GrassPatch_24: 8310780975562122671
+      Atlas_GrassPatch_25: -3060827645659534756
+      Atlas_GrassPatch_26: 7940146018951202625
+      Atlas_GrassPatch_27: 572833425572378196
+      Atlas_GrassPatch_28: 8858920632313692112
+      Atlas_GrassPatch_29: 5973162491862826017
+      Atlas_GrassPatch_3: 5581389125981968858
+      Atlas_GrassPatch_30: 4485053773408450774
+      Atlas_GrassPatch_31: 3951806828618685097
+      Atlas_GrassPatch_32: 8325264998811252914
+      Atlas_GrassPatch_33: 1721103222473259716
+      Atlas_GrassPatch_34: -3954950506583243988
+      Atlas_GrassPatch_35: -5010189297272254482
+      Atlas_GrassPatch_36: 8496618384091497445
+      Atlas_GrassPatch_37: -2976618616630945861
+      Atlas_GrassPatch_38: 3827449445035822524
+      Atlas_GrassPatch_39: 6926041938986742076
+      Atlas_GrassPatch_4: 8788097325594976958
+      Atlas_GrassPatch_40: -5444755832641417511
+      Atlas_GrassPatch_41: -4167812647930461789
+      Atlas_GrassPatch_42: -3537962155332579629
+      Atlas_GrassPatch_43: -915697158484534827
+      Atlas_GrassPatch_44: 4069400399205654232
+      Atlas_GrassPatch_45: -7343285133927274192
+      Atlas_GrassPatch_46: -4999248971038539241
+      Atlas_GrassPatch_47: -8726206659646019047
+      Atlas_GrassPatch_48: -8267435431673885489
+      Atlas_GrassPatch_49: 7983639270831414612
+      Atlas_GrassPatch_5: 8477780787987970572
+      Atlas_GrassPatch_50: 6105077231709177463
+      Atlas_GrassPatch_51: -6878084290202417695
+      Atlas_GrassPatch_52: 7334374468591911784
+      Atlas_GrassPatch_53: 6152420618692326884
+      Atlas_GrassPatch_54: -7991448254424947662
+      Atlas_GrassPatch_55: 1983370893414442334
+      Atlas_GrassPatch_56: -7503050276849756308
+      Atlas_GrassPatch_57: -1315571172748439665
+      Atlas_GrassPatch_58: 128749827316602547
+      Atlas_GrassPatch_59: -7585642228685081850
+      Atlas_GrassPatch_6: 5385026821157769133
+      Atlas_GrassPatch_60: -7206491817776880561
+      Atlas_GrassPatch_61: -1490290965967694426
+      Atlas_GrassPatch_62: 1909043126955502311
+      Atlas_GrassPatch_63: -2870165870283936779
+      Atlas_GrassPatch_64: 2642123026361246600
+      Atlas_GrassPatch_65: -667135261934311637
+      Atlas_GrassPatch_66: -4014784935850890596
+      Atlas_GrassPatch_67: 323096959950248475
+      Atlas_GrassPatch_68: 648118548070828215
+      Atlas_GrassPatch_69: 1159783819598848687
+      Atlas_GrassPatch_7: 1959757137637686231
+      Atlas_GrassPatch_70: 1218753210287611969
+      Atlas_GrassPatch_71: -1312924342023653169
+      Atlas_GrassPatch_8: 4793490157514209028
+      Atlas_GrassPatch_9: 47389547252346681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

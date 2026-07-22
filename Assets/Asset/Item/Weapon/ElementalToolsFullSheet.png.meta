@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 5b47cb0f1b030ae4ab51913cb8c5b649
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -858926338672220851
+    second: ElementalToolsFullSheet_0
+  - first:
+      213: 3720470246948629269
+    second: ElementalToolsFullSheet_1
+  - first:
+      213: 3314199582904601300
+    second: ElementalToolsFullSheet_2
+  - first:
+      213: -1300820282471786793
+    second: ElementalToolsFullSheet_3
+  - first:
+      213: -9124108550470797215
+    second: ElementalToolsFullSheet_4
+  - first:
+      213: 1592959119729109906
+    second: ElementalToolsFullSheet_5
+  - first:
+      213: -3881837487025172962
+    second: ElementalToolsFullSheet_6
+  - first:
+      213: 2763809348662348948
+    second: ElementalToolsFullSheet_7
+  - first:
+      213: -3382378522499711460
+    second: ElementalToolsFullSheet_8
+  - first:
+      213: 5115232471890465870
+    second: ElementalToolsFullSheet_9
+  - first:
+      213: 1675058179250819267
+    second: ElementalToolsFullSheet_10
+  - first:
+      213: -8044443725134359923
+    second: ElementalToolsFullSheet_11
+  - first:
+      213: 1619329804916203708
+    second: ElementalToolsFullSheet_12
+  - first:
+      213: 375473916774619706
+    second: ElementalToolsFullSheet_13
+  - first:
+      213: -7043516664745062845
+    second: ElementalToolsFullSheet_14
+  - first:
+      213: 4317239950910702771
+    second: ElementalToolsFullSheet_15
+  - first:
+      213: -3896261917895214455
+    second: ElementalToolsFullSheet_16
+  - first:
+      213: 4823395384114549829
+    second: ElementalToolsFullSheet_17
+  - first:
+      213: 4885345293736239498
+    second: ElementalToolsFullSheet_18
+  - first:
+      213: -8546758367273888419
+    second: ElementalToolsFullSheet_19
+  - first:
+      213: -6319398730857531117
+    second: ElementalToolsFullSheet_20
+  - first:
+      213: 5935433242302678442
+    second: ElementalToolsFullSheet_21
+  - first:
+      213: 7668824311935449327
+    second: ElementalToolsFullSheet_22
+  - first:
+      213: 3939805790061514572
+    second: ElementalToolsFullSheet_23
+  - first:
+      213: 9208956697236299888
+    second: ElementalToolsFullSheet_24
+  - first:
+      213: -2675592264369180543
+    second: ElementalToolsFullSheet_25
+  - first:
+      213: 7873409698122546078
+    second: ElementalToolsFullSheet_26
+  - first:
+      213: -1529001218651549866
+    second: ElementalToolsFullSheet_27
+  - first:
+      213: 8495733715973701473
+    second: ElementalToolsFullSheet_28
+  - first:
+      213: -6054571250574614304
+    second: ElementalToolsFullSheet_29
+  - first:
+      213: 905405673877916195
+    second: ElementalToolsFullSheet_30
+  - first:
+      213: -2388430065685329387
+    second: ElementalToolsFullSheet_31
+  - first:
+      213: 3105509239616646393
+    second: ElementalToolsFullSheet_32
+  - first:
+      213: -6326033928502104367
+    second: ElementalToolsFullSheet_33
+  - first:
+      213: -2662294417339572093
+    second: ElementalToolsFullSheet_34
+  - first:
+      213: 5585130307634505671
+    second: ElementalToolsFullSheet_35
+  - first:
+      213: 954260519920919312
+    second: ElementalToolsFullSheet_36
+  - first:
+      213: -5583310589893260881
+    second: ElementalToolsFullSheet_37
+  - first:
+      213: -3577874538048595612
+    second: ElementalToolsFullSheet_38
+  - first:
+      213: -7647568513450912204
+    second: ElementalToolsFullSheet_39
+  - first:
+      213: 1716926622504182874
+    second: ElementalToolsFullSheet_40
+  - first:
+      213: -6932986984780892646
+    second: ElementalToolsFullSheet_41
+  - first:
+      213: -539776717219119002
+    second: ElementalToolsFullSheet_42
+  - first:
+      213: -5356316619242353086
+    second: ElementalToolsFullSheet_43
+  - first:
+      213: 2378453248429369126
+    second: ElementalToolsFullSheet_44
+  - first:
+      213: -7270595871253532824
+    second: ElementalToolsFullSheet_45
+  - first:
+      213: 2387153108485004244
+    second: ElementalToolsFullSheet_46
+  - first:
+      213: -8777044856663318985
+    second: ElementalToolsFullSheet_47
+  - first:
+      213: 6490711238993466522
+    second: ElementalToolsFullSheet_48
+  - first:
+      213: 5536118456095451109
+    second: ElementalToolsFullSheet_49
+  - first:
+      213: -8623089593353082136
+    second: ElementalToolsFullSheet_50
+  - first:
+      213: -4783107613871238816
+    second: ElementalToolsFullSheet_51
+  - first:
+      213: -7432888624959511890
+    second: ElementalToolsFullSheet_52
+  - first:
+      213: -8855194646961541911
+    second: ElementalToolsFullSheet_53
+  - first:
+      213: -6637458995247342066
+    second: ElementalToolsFullSheet_54
+  - first:
+      213: 887991116288065840
+    second: ElementalToolsFullSheet_55
+  - first:
+      213: -6685842467321355529
+    second: ElementalToolsFullSheet_56
+  - first:
+      213: -3994938817606530379
+    second: ElementalToolsFullSheet_57
+  - first:
+      213: -3426620035919243688
+    second: ElementalToolsFullSheet_58
+  - first:
+      213: 6788702820190850866
+    second: ElementalToolsFullSheet_59
+  - first:
+      213: -3028607903533858429
+    second: ElementalToolsFullSheet_60
+  - first:
+      213: 7899267067251879456
+    second: ElementalToolsFullSheet_61
+  - first:
+      213: -7232245761609967225
+    second: ElementalToolsFullSheet_62
+  - first:
+      213: -4822570672678157977
+    second: ElementalToolsFullSheet_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d452737bb0b7414f0800000000000000
+      internalID: -858926338672220851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 479
+        width: 322
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b68ca4af3c1a330800000000000000
+      internalID: 3720470246948629269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 639
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dac6c516f66efd20800000000000000
+      internalID: 3314199582904601300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 639
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d655aa58de82fde0800000000000000
+      internalID: -1300820282471786793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 639
+        width: 152
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168751d6d97a06180800000000000000
+      internalID: -9124108550470797215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_5
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 639
+        width: 312
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b2c2921e35b1610800000000000000
+      internalID: 1592959119729109906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 479
+        width: 142
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ec1165f51f02ac0800000000000000
+      internalID: -3881837487025172962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 649
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c4ce595f50b5620800000000000000
+      internalID: 2763809348662348948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 649
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e7e7687a06f01d0800000000000000
+      internalID: -3382378522499711460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 639
+        width: 122
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44139ed4d4fcf640800000000000000
+      internalID: 5115232471890465870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 659
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c09b580a800f3710800000000000000
+      internalID: 1675058179250819267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 639
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d821fb3ad056c5090800000000000000
+      internalID: -8044443725134359923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 639
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0ab34c0e3097610800000000000000
+      internalID: 1619329804916203708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 659
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a96c7b983f53500800000000000000
+      internalID: 375473916774619706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e835c59e6604e90800000000000000
+      internalID: -7043516664745062845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 479
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b448249cdae9eb30800000000000000
+      internalID: 4317239950910702771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_16
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 479
+        width: 152
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a39ffcd62bde9c0800000000000000
+      internalID: -3896261917895214455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 479
+        width: 322
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5441861eb8420f240800000000000000
+      internalID: 4823395384114549829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 489
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81664639ab3cc340800000000000000
+      internalID: 4885345293736239498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 489
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55da813c80d36980800000000000000
+      internalID: -8546758367273888419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 489
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319be2df55cfc48a0800000000000000
+      internalID: -6319398730857531117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 499
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa50f7b2615ee5250800000000000000
+      internalID: 5935433242302678442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 479
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8bacd94132d6a60800000000000000
+      internalID: 7668824311935449327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 319
+        width: 142
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fc4a8fd700da630800000000000000
+      internalID: 3939805790061514572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 499
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07069b23359cccf70800000000000000
+      internalID: 9208956697236299888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180fd7ee2036edad0800000000000000
+      internalID: -2675592264369180543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 319
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bb5b3c768f34d60800000000000000
+      internalID: 7873409698122546078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 319
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f822d1e75e7cae0800000000000000
+      internalID: -1529001218651549866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 319
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ffbe66dc8e6e570800000000000000
+      internalID: 8495733715973701473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_29
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 319
+        width: 152
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0253ea687d9fba0800000000000000
+      internalID: -6054571250574614304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_30
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 319
+        width: 312
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32acd11d9a5a09c00800000000000000
+      internalID: 905405673877916195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 329
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a86fb72879aded0800000000000000
+      internalID: -2388430065685329387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 339
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc2b02233cf81b20800000000000000
+      internalID: 3105509239616646393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 329
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de2096a8a96538a0800000000000000
+      internalID: -6326033928502104367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 319
+        width: 122
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38028f63551ad0bd0800000000000000
+      internalID: -2662294417339572093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 329
+        width: 322
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a2da6c6e528d40800000000000000
+      internalID: 5585130307634505671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_36
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 339
+        width: 112
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013e01113e63e3d00800000000000000
+      internalID: 954260519920919312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa94cb2a9981482b0800000000000000
+      internalID: -5583310589893260881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469d2b46016d85ec0800000000000000
+      internalID: -3577874538048595612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_39
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 159
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436db40a4f06ed590800000000000000
+      internalID: -7647568513450912204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_40
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 159
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54e5cf9aafb3d710800000000000000
+      internalID: 1716926622504182874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_41
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 152
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a167ab3e11519cf90800000000000000
+      internalID: -6932986984780892646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_42
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 159
+        width: 312
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660c0208fe35288f0800000000000000
+      internalID: -539776717219119002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 0
+        width: 142
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ec98de96a8aa5b0800000000000000
+      internalID: -5356316619242353086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 169
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627a18bb0a6f10120800000000000000
+      internalID: 2378453248429369126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 169
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fe28c8397a91b90800000000000000
+      internalID: -7270595871253532824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 159
+        width: 122
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbd7bfba1fd02120800000000000000
+      internalID: 2387153108485004244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 179
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ed9e4a43ca13680800000000000000
+      internalID: -8777044856663318985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 169
+        width: 162
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9457db8b73a31a50800000000000000
+      internalID: 6490711238993466522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_49
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 159
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7ad0a776e34dc40800000000000000
+      internalID: 5536118456095451109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_50
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 179
+        width: 122
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea62d1b3b1a45880800000000000000
+      internalID: -8623089593353082136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0611db897fcfe9db0800000000000000
+      internalID: -4783107613871238816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea22f3e3d2319d890800000000000000
+      internalID: -7432888624959511890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_53
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecaaeaa2670c1580800000000000000
+      internalID: -8855194646961541911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_54
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e9f09e53203e3a0800000000000000
+      internalID: -6637458995247342066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_55
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 0
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0318d0a2737c25c00800000000000000
+      internalID: 887991116288065840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_56
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 0
+        width: 142
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2e617f2bd1733a0800000000000000
+      internalID: -6685842467321355529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 9
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac42dbf402f88c0800000000000000
+      internalID: -3994938817606530379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 9
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8561cca7b333270d0800000000000000
+      internalID: -3426620035919243688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 0
+        width: 122
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f0b233f31563e50800000000000000
+      internalID: 6788702820190850866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_60
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 19
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3818ce1782938f5d0800000000000000
+      internalID: -3028607903533858429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_61
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 0
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e6d79ab85df9d60800000000000000
+      internalID: 7899267067251879456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_62
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 0
+        width: 142
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789d9e24cc6e1ab90800000000000000
+      internalID: -7232245761609967225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalToolsFullSheet_63
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 19
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7614dc63689c21db0800000000000000
+      internalID: -4822570672678157977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ElementalToolsFullSheet_0: -858926338672220851
+      ElementalToolsFullSheet_1: 3720470246948629269
+      ElementalToolsFullSheet_10: 1675058179250819267
+      ElementalToolsFullSheet_11: -8044443725134359923
+      ElementalToolsFullSheet_12: 1619329804916203708
+      ElementalToolsFullSheet_13: 375473916774619706
+      ElementalToolsFullSheet_14: -7043516664745062845
+      ElementalToolsFullSheet_15: 4317239950910702771
+      ElementalToolsFullSheet_16: -3896261917895214455
+      ElementalToolsFullSheet_17: 4823395384114549829
+      ElementalToolsFullSheet_18: 4885345293736239498
+      ElementalToolsFullSheet_19: -8546758367273888419
+      ElementalToolsFullSheet_2: 3314199582904601300
+      ElementalToolsFullSheet_20: -6319398730857531117
+      ElementalToolsFullSheet_21: 5935433242302678442
+      ElementalToolsFullSheet_22: 7668824311935449327
+      ElementalToolsFullSheet_23: 3939805790061514572
+      ElementalToolsFullSheet_24: 9208956697236299888
+      ElementalToolsFullSheet_25: -2675592264369180543
+      ElementalToolsFullSheet_26: 7873409698122546078
+      ElementalToolsFullSheet_27: -1529001218651549866
+      ElementalToolsFullSheet_28: 8495733715973701473
+      ElementalToolsFullSheet_29: -6054571250574614304
+      ElementalToolsFullSheet_3: -1300820282471786793
+      ElementalToolsFullSheet_30: 905405673877916195
+      ElementalToolsFullSheet_31: -2388430065685329387
+      ElementalToolsFullSheet_32: 3105509239616646393
+      ElementalToolsFullSheet_33: -6326033928502104367
+      ElementalToolsFullSheet_34: -2662294417339572093
+      ElementalToolsFullSheet_35: 5585130307634505671
+      ElementalToolsFullSheet_36: 954260519920919312
+      ElementalToolsFullSheet_37: -5583310589893260881
+      ElementalToolsFullSheet_38: -3577874538048595612
+      ElementalToolsFullSheet_39: -7647568513450912204
+      ElementalToolsFullSheet_4: -9124108550470797215
+      ElementalToolsFullSheet_40: 1716926622504182874
+      ElementalToolsFullSheet_41: -6932986984780892646
+      ElementalToolsFullSheet_42: -539776717219119002
+      ElementalToolsFullSheet_43: -5356316619242353086
+      ElementalToolsFullSheet_44: 2378453248429369126
+      ElementalToolsFullSheet_45: -7270595871253532824
+      ElementalToolsFullSheet_46: 2387153108485004244
+      ElementalToolsFullSheet_47: -8777044856663318985
+      ElementalToolsFullSheet_48: 6490711238993466522
+      ElementalToolsFullSheet_49: 5536118456095451109
+      ElementalToolsFullSheet_5: 1592959119729109906
+      ElementalToolsFullSheet_50: -8623089593353082136
+      ElementalToolsFullSheet_51: -4783107613871238816
+      ElementalToolsFullSheet_52: -7432888624959511890
+      ElementalToolsFullSheet_53: -8855194646961541911
+      ElementalToolsFullSheet_54: -6637458995247342066
+      ElementalToolsFullSheet_55: 887991116288065840
+      ElementalToolsFullSheet_56: -6685842467321355529
+      ElementalToolsFullSheet_57: -3994938817606530379
+      ElementalToolsFullSheet_58: -3426620035919243688
+      ElementalToolsFullSheet_59: 6788702820190850866
+      ElementalToolsFullSheet_6: -3881837487025172962
+      ElementalToolsFullSheet_60: -3028607903533858429
+      ElementalToolsFullSheet_61: 7899267067251879456
+      ElementalToolsFullSheet_62: -7232245761609967225
+      ElementalToolsFullSheet_63: -4822570672678157977
+      ElementalToolsFullSheet_7: 2763809348662348948
+      ElementalToolsFullSheet_8: -3382378522499711460
+      ElementalToolsFullSheet_9: 5115232471890465870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

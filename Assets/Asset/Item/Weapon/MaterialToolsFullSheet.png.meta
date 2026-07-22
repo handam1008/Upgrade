@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: e76bb1b90abc6f645a2f308b22d3ee0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4324134564689926922
+    second: MaterialToolsFullSheet_0
+  - first:
+      213: 5535868591816241826
+    second: MaterialToolsFullSheet_1
+  - first:
+      213: -4267975031359629398
+    second: MaterialToolsFullSheet_2
+  - first:
+      213: 611828842092330316
+    second: MaterialToolsFullSheet_3
+  - first:
+      213: 3195526048285972921
+    second: MaterialToolsFullSheet_4
+  - first:
+      213: 2228265692104634211
+    second: MaterialToolsFullSheet_5
+  - first:
+      213: -4034897440636538098
+    second: MaterialToolsFullSheet_6
+  - first:
+      213: 5111078258897518612
+    second: MaterialToolsFullSheet_7
+  - first:
+      213: -2079083055091815691
+    second: MaterialToolsFullSheet_8
+  - first:
+      213: -7969732850094600984
+    second: MaterialToolsFullSheet_9
+  - first:
+      213: 3924719798936222477
+    second: MaterialToolsFullSheet_10
+  - first:
+      213: 5380419648064852792
+    second: MaterialToolsFullSheet_11
+  - first:
+      213: -1179171239584382937
+    second: MaterialToolsFullSheet_12
+  - first:
+      213: -8892791005421182977
+    second: MaterialToolsFullSheet_13
+  - first:
+      213: 5681839420624878819
+    second: MaterialToolsFullSheet_14
+  - first:
+      213: -2742777666028303434
+    second: MaterialToolsFullSheet_15
+  - first:
+      213: -6852364875181216004
+    second: MaterialToolsFullSheet_16
+  - first:
+      213: 7948799795439415615
+    second: MaterialToolsFullSheet_17
+  - first:
+      213: -1595148384838714879
+    second: MaterialToolsFullSheet_18
+  - first:
+      213: -3233886234596477847
+    second: MaterialToolsFullSheet_19
+  - first:
+      213: -1716498413863114902
+    second: MaterialToolsFullSheet_20
+  - first:
+      213: -8466514572764108262
+    second: MaterialToolsFullSheet_21
+  - first:
+      213: 9108876363432279422
+    second: MaterialToolsFullSheet_22
+  - first:
+      213: -8597969923197914356
+    second: MaterialToolsFullSheet_23
+  - first:
+      213: -7888084268153151013
+    second: MaterialToolsFullSheet_24
+  - first:
+      213: -794181544949524136
+    second: MaterialToolsFullSheet_25
+  - first:
+      213: 2493730253896010714
+    second: MaterialToolsFullSheet_26
+  - first:
+      213: -6453741459963834059
+    second: MaterialToolsFullSheet_27
+  - first:
+      213: 1104860538273303358
+    second: MaterialToolsFullSheet_28
+  - first:
+      213: -4791356328978384035
+    second: MaterialToolsFullSheet_29
+  - first:
+      213: -1633715692758723657
+    second: MaterialToolsFullSheet_30
+  - first:
+      213: 3555292277419643166
+    second: MaterialToolsFullSheet_31
+  - first:
+      213: -6730598583918272338
+    second: MaterialToolsFullSheet_32
+  - first:
+      213: 3465762440833437657
+    second: MaterialToolsFullSheet_33
+  - first:
+      213: -5345128315890355578
+    second: MaterialToolsFullSheet_34
+  - first:
+      213: -1694693088117779897
+    second: MaterialToolsFullSheet_35
+  - first:
+      213: 4726239812580490339
+    second: MaterialToolsFullSheet_36
+  - first:
+      213: 4930721330527558212
+    second: MaterialToolsFullSheet_37
+  - first:
+      213: 515586806517516397
+    second: MaterialToolsFullSheet_38
+  - first:
+      213: -1467802684663290241
+    second: MaterialToolsFullSheet_39
+  - first:
+      213: -2646251856149507012
+    second: MaterialToolsFullSheet_40
+  - first:
+      213: 4023620017211097453
+    second: MaterialToolsFullSheet_41
+  - first:
+      213: -1707308185658942015
+    second: MaterialToolsFullSheet_42
+  - first:
+      213: -5483521679057548090
+    second: MaterialToolsFullSheet_43
+  - first:
+      213: 7572817104607858422
+    second: MaterialToolsFullSheet_44
+  - first:
+      213: -6422548793446469135
+    second: MaterialToolsFullSheet_45
+  - first:
+      213: -3864720583945089799
+    second: MaterialToolsFullSheet_46
+  - first:
+      213: -6212387042658212636
+    second: MaterialToolsFullSheet_47
+  - first:
+      213: -3874177439102393793
+    second: MaterialToolsFullSheet_48
+  - first:
+      213: -3200884377840275883
+    second: MaterialToolsFullSheet_49
+  - first:
+      213: 3472250561875579630
+    second: MaterialToolsFullSheet_50
+  - first:
+      213: -7355793597510578271
+    second: MaterialToolsFullSheet_51
+  - first:
+      213: 2956305172354734170
+    second: MaterialToolsFullSheet_52
+  - first:
+      213: 1234914635628771785
+    second: MaterialToolsFullSheet_53
+  - first:
+      213: 6223951653412800354
+    second: MaterialToolsFullSheet_54
+  - first:
+      213: -508778912602719746
+    second: MaterialToolsFullSheet_55
+  - first:
+      213: 4335956362253652158
+    second: MaterialToolsFullSheet_56
+  - first:
+      213: -5724883837394449559
+    second: MaterialToolsFullSheet_57
+  - first:
+      213: 1121968819555649396
+    second: MaterialToolsFullSheet_58
+  - first:
+      213: 6387935037177680296
+    second: MaterialToolsFullSheet_59
+  - first:
+      213: -2874033830388974950
+    second: MaterialToolsFullSheet_60
+  - first:
+      213: -3182376062947412262
+    second: MaterialToolsFullSheet_61
+  - first:
+      213: 3923728346797307006
+    second: MaterialToolsFullSheet_62
+  - first:
+      213: -4098574920412463892
+    second: MaterialToolsFullSheet_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bd451f979620c30800000000000000
+      internalID: 4324134564689926922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 639
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2f27a672b53dc40800000000000000
+      internalID: 5535868591816241826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 639
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa79299525b15c4c0800000000000000
+      internalID: -4267975031359629398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 639
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d704c1717ad7800800000000000000
+      internalID: 611828842092330316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 639
+        width: 152
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9d792a20ac85c20800000000000000
+      internalID: 3195526048285972921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 639
+        width: 322
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f261357d36cee10800000000000000
+      internalID: 2228265692104634211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 649
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03f9b1d72a2108c0800000000000000
+      internalID: -4034897440636538098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 659
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4100fc8c8923ee640800000000000000
+      internalID: 5111078258897518612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 659
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae7b21afc9523e0800000000000000
+      internalID: -2079083055091815691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 639
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec8953c232d56190800000000000000
+      internalID: -7969732850094600984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 659
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b3982fcd7677630800000000000000
+      internalID: 3924719798936222477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 639
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8331079c9271baa40800000000000000
+      internalID: 5380419648064852792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 0
+        width: 142
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720473f410eb2afe0800000000000000
+      internalID: -1179171239584382937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 659
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffd41452b5769480800000000000000
+      internalID: -8892791005421182977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec382179d2f9de40800000000000000
+      internalID: 5681839420624878819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 479
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb028e9e32bfe9d0800000000000000
+      internalID: -2742777666028303434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 479
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfea57f837287e0a0800000000000000
+      internalID: -6852364875181216004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 479
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f313dd5ac4fcf4e60800000000000000
+      internalID: 7948799795439415615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_18
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 479
+        width: 152
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a76a5def4ecd9e0800000000000000
+      internalID: -1595148384838714879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_19
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 479
+        width: 312
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964f9de7a9dee13d0800000000000000
+      internalID: -3233886234596477847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 489
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67ea2879c5cd28e0800000000000000
+      internalID: -1716498413863114902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 499
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a2ab48ad5e08a80800000000000000
+      internalID: -8466514572764108262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 489
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d3559aaca396e70800000000000000
+      internalID: 9108876363432279422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 479
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03bb4aa8efdda880800000000000000
+      internalID: -8597969923197914356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 499
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd16266a625e78290800000000000000
+      internalID: -7888084268153151013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 489
+        width: 162
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859dc16b7108af4f0800000000000000
+      internalID: -794181544949524136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 499
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbcd1d14728b9220800000000000000
+      internalID: 2493730253896010714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53115a6e554bf66a0800000000000000
+      internalID: -6453741459963834059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 319
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b80264ec0455f00800000000000000
+      internalID: 1104860538273303358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 319
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b7ce2fdcea18db0800000000000000
+      internalID: -4791356328978384035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_30
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 319
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b39225bb30e359e0800000000000000
+      internalID: -1633715692758723657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_31
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 319
+        width: 152
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1199445d7fe65130800000000000000
+      internalID: 3555292277419643166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_32
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 319
+        width: 312
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0edc78f3c1892a0800000000000000
+      internalID: -6730598583918272338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 0
+        width: 142
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df84c9d39cd81030800000000000000
+      internalID: 3465762440833437657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 339
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682397ccd1a42d5b0800000000000000
+      internalID: -5345128315890355578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 329
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7421e6f7d9d3b78e0800000000000000
+      internalID: -1694693088117779897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 319
+        width: 122
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c3b20a11af69140800000000000000
+      internalID: 4726239812580490339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 339
+        width: 162
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a59801de07d6440800000000000000
+      internalID: 4930721330527558212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 329
+        width: 162
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68ca55087bb72700800000000000000
+      internalID: 515586806517516397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_39
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 339
+        width: 112
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76a74c2c3151abe0800000000000000
+      internalID: -1467802684663290241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c349dff05ff964bd0800000000000000
+      internalID: -2646251856149507012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61c40d6615c6d730800000000000000
+      internalID: 4023620017211097453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 159
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd9ea7304c6e48e0800000000000000
+      internalID: -1707308185658942015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_43
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 159
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc0f99f51e96e3b0800000000000000
+      internalID: -5483521679057548090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_44
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 159
+        width: 152
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe472db80d081960800000000000000
+      internalID: 7572817104607858422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_45
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 159
+        width: 322
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1720686e58ed6a0800000000000000
+      internalID: -6422548793446469135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 169
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc00d5ea11cd5ac0800000000000000
+      internalID: -3864720583945089799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 169
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e42e1b36ea29c9a0800000000000000
+      internalID: -6212387042658212636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 169
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32287935282c3ac0800000000000000
+      internalID: -3874177439102393793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 179
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eabbb0e9c2493d0800000000000000
+      internalID: -3200884377840275883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 169
+        width: 162
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee29ebf3d79ef2030800000000000000
+      internalID: 3472250561875579630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_51
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 179
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0a4b12b8fae990800000000000000
+      internalID: -7355793597510578271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a589add14e7e60920800000000000000
+      internalID: 2956305172354734170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c97598715c432110800000000000000
+      internalID: 1234914635628771785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26700e88d0bef5650800000000000000
+      internalID: 6223951653412800354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_55
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9fa1d464470f8f0800000000000000
+      internalID: -508778912602719746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_56
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 152
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb059bda6596c2c30800000000000000
+      internalID: 4335956362253652158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_57
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 322
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b8abb4b702d80b0800000000000000
+      internalID: -5724883837394449559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 9
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477cdaa62b8029f00800000000000000
+      internalID: 1121968819555649396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 9
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a15f33521186a850800000000000000
+      internalID: 6387935037177680296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_60
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 9
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ab53365716d18d0800000000000000
+      internalID: -2874033830388974950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_61
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 9
+        width: 122
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6305ae4dde5d3d0800000000000000
+      internalID: -3182376062947412262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_62
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 9
+        width: 162
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74fbf18422e37630800000000000000
+      internalID: 3923728346797307006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaterialToolsFullSheet_63
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 19
+        width: 112
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec7d7733dfee17c0800000000000000
+      internalID: -4098574920412463892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MaterialToolsFullSheet_0: 4324134564689926922
+      MaterialToolsFullSheet_1: 5535868591816241826
+      MaterialToolsFullSheet_10: 3924719798936222477
+      MaterialToolsFullSheet_11: 5380419648064852792
+      MaterialToolsFullSheet_12: -1179171239584382937
+      MaterialToolsFullSheet_13: -8892791005421182977
+      MaterialToolsFullSheet_14: 5681839420624878819
+      MaterialToolsFullSheet_15: -2742777666028303434
+      MaterialToolsFullSheet_16: -6852364875181216004
+      MaterialToolsFullSheet_17: 7948799795439415615
+      MaterialToolsFullSheet_18: -1595148384838714879
+      MaterialToolsFullSheet_19: -3233886234596477847
+      MaterialToolsFullSheet_2: -4267975031359629398
+      MaterialToolsFullSheet_20: -1716498413863114902
+      MaterialToolsFullSheet_21: -8466514572764108262
+      MaterialToolsFullSheet_22: 9108876363432279422
+      MaterialToolsFullSheet_23: -8597969923197914356
+      MaterialToolsFullSheet_24: -7888084268153151013
+      MaterialToolsFullSheet_25: -794181544949524136
+      MaterialToolsFullSheet_26: 2493730253896010714
+      MaterialToolsFullSheet_27: -6453741459963834059
+      MaterialToolsFullSheet_28: 1104860538273303358
+      MaterialToolsFullSheet_29: -4791356328978384035
+      MaterialToolsFullSheet_3: 611828842092330316
+      MaterialToolsFullSheet_30: -1633715692758723657
+      MaterialToolsFullSheet_31: 3555292277419643166
+      MaterialToolsFullSheet_32: -6730598583918272338
+      MaterialToolsFullSheet_33: 3465762440833437657
+      MaterialToolsFullSheet_34: -5345128315890355578
+      MaterialToolsFullSheet_35: -1694693088117779897
+      MaterialToolsFullSheet_36: 4726239812580490339
+      MaterialToolsFullSheet_37: 4930721330527558212
+      MaterialToolsFullSheet_38: 515586806517516397
+      MaterialToolsFullSheet_39: -1467802684663290241
+      MaterialToolsFullSheet_4: 3195526048285972921
+      MaterialToolsFullSheet_40: -2646251856149507012
+      MaterialToolsFullSheet_41: 4023620017211097453
+      MaterialToolsFullSheet_42: -1707308185658942015
+      MaterialToolsFullSheet_43: -5483521679057548090
+      MaterialToolsFullSheet_44: 7572817104607858422
+      MaterialToolsFullSheet_45: -6422548793446469135
+      MaterialToolsFullSheet_46: -3864720583945089799
+      MaterialToolsFullSheet_47: -6212387042658212636
+      MaterialToolsFullSheet_48: -3874177439102393793
+      MaterialToolsFullSheet_49: -3200884377840275883
+      MaterialToolsFullSheet_5: 2228265692104634211
+      MaterialToolsFullSheet_50: 3472250561875579630
+      MaterialToolsFullSheet_51: -7355793597510578271
+      MaterialToolsFullSheet_52: 2956305172354734170
+      MaterialToolsFullSheet_53: 1234914635628771785
+      MaterialToolsFullSheet_54: 6223951653412800354
+      MaterialToolsFullSheet_55: -508778912602719746
+      MaterialToolsFullSheet_56: 4335956362253652158
+      MaterialToolsFullSheet_57: -5724883837394449559
+      MaterialToolsFullSheet_58: 1121968819555649396
+      MaterialToolsFullSheet_59: 6387935037177680296
+      MaterialToolsFullSheet_6: -4034897440636538098
+      MaterialToolsFullSheet_60: -2874033830388974950
+      MaterialToolsFullSheet_61: -3182376062947412262
+      MaterialToolsFullSheet_62: 3923728346797307006
+      MaterialToolsFullSheet_63: -4098574920412463892
+      MaterialToolsFullSheet_7: 5111078258897518612
+      MaterialToolsFullSheet_8: -2079083055091815691
+      MaterialToolsFullSheet_9: -7969732850094600984
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

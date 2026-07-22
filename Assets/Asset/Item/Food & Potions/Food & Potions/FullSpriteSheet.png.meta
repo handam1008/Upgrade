@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 78154f7c94dc5294595e1fea36e14719
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3465488435725591619
+    second: FullSpriteSheet_0
+  - first:
+      213: -4774308597150799306
+    second: FullSpriteSheet_1
+  - first:
+      213: 2610823063370250894
+    second: FullSpriteSheet_2
+  - first:
+      213: 2746082762418773511
+    second: FullSpriteSheet_3
+  - first:
+      213: 3852824680099810936
+    second: FullSpriteSheet_4
+  - first:
+      213: 7151773538753535400
+    second: FullSpriteSheet_5
+  - first:
+      213: -5693569495917782281
+    second: FullSpriteSheet_6
+  - first:
+      213: -772291135863061511
+    second: FullSpriteSheet_7
+  - first:
+      213: 1269064897693259028
+    second: FullSpriteSheet_8
+  - first:
+      213: 974946974588169181
+    second: FullSpriteSheet_9
+  - first:
+      213: 3647462669712087753
+    second: FullSpriteSheet_10
+  - first:
+      213: 3739739977367968775
+    second: FullSpriteSheet_11
+  - first:
+      213: -1580513349153797524
+    second: FullSpriteSheet_12
+  - first:
+      213: 5157990717649421451
+    second: FullSpriteSheet_13
+  - first:
+      213: 989515975034595548
+    second: FullSpriteSheet_14
+  - first:
+      213: -1270079394410470635
+    second: FullSpriteSheet_15
+  - first:
+      213: -4924433296040080302
+    second: FullSpriteSheet_16
+  - first:
+      213: -5481093966326595649
+    second: FullSpriteSheet_17
+  - first:
+      213: 7480135712348287999
+    second: FullSpriteSheet_18
+  - first:
+      213: 2083661468250298007
+    second: FullSpriteSheet_19
+  - first:
+      213: 3210537849115182826
+    second: FullSpriteSheet_20
+  - first:
+      213: 3283947643160143016
+    second: FullSpriteSheet_21
+  - first:
+      213: 4510260968091034605
+    second: FullSpriteSheet_22
+  - first:
+      213: 4786561193282692722
+    second: FullSpriteSheet_23
+  - first:
+      213: -4011003597211907464
+    second: FullSpriteSheet_24
+  - first:
+      213: 4232717040801699449
+    second: FullSpriteSheet_25
+  - first:
+      213: 519816269722005861
+    second: FullSpriteSheet_26
+  - first:
+      213: 6964273515435269353
+    second: FullSpriteSheet_27
+  - first:
+      213: -1814919973149604167
+    second: FullSpriteSheet_28
+  - first:
+      213: 2419275401865437209
+    second: FullSpriteSheet_29
+  - first:
+      213: -7999061900255478670
+    second: FullSpriteSheet_30
+  - first:
+      213: -501060505072882736
+    second: FullSpriteSheet_31
+  - first:
+      213: -323221960881604372
+    second: FullSpriteSheet_32
+  - first:
+      213: -5883033897701490184
+    second: FullSpriteSheet_33
+  - first:
+      213: -9025388385602148660
+    second: FullSpriteSheet_34
+  - first:
+      213: 1188436742196914845
+    second: FullSpriteSheet_35
+  - first:
+      213: 3291665388439255836
+    second: FullSpriteSheet_36
+  - first:
+      213: 4890519754117010337
+    second: FullSpriteSheet_37
+  - first:
+      213: 2576243425042452212
+    second: FullSpriteSheet_38
+  - first:
+      213: 30956787631909094
+    second: FullSpriteSheet_39
+  - first:
+      213: 2421417026525266802
+    second: FullSpriteSheet_40
+  - first:
+      213: -9030939649535160986
+    second: FullSpriteSheet_41
+  - first:
+      213: 1343292560564894816
+    second: FullSpriteSheet_42
+  - first:
+      213: -8797753281681942516
+    second: FullSpriteSheet_43
+  - first:
+      213: -1514241929623102
+    second: FullSpriteSheet_44
+  - first:
+      213: -5058524557986402681
+    second: FullSpriteSheet_45
+  - first:
+      213: -6993008500886328401
+    second: FullSpriteSheet_46
+  - first:
+      213: 1345769488634124335
+    second: FullSpriteSheet_47
+  - first:
+      213: 4172841152255626293
+    second: FullSpriteSheet_48
+  - first:
+      213: -3905068489668454202
+    second: FullSpriteSheet_49
+  - first:
+      213: 6569495663254307952
+    second: FullSpriteSheet_50
+  - first:
+      213: 8416829551022123975
+    second: FullSpriteSheet_51
+  - first:
+      213: 1946207832299502302
+    second: FullSpriteSheet_52
+  - first:
+      213: 1257442856087107173
+    second: FullSpriteSheet_53
+  - first:
+      213: 8211892832760054798
+    second: FullSpriteSheet_54
+  - first:
+      213: 3401474058198697122
+    second: FullSpriteSheet_55
+  - first:
+      213: 5328156463643220681
+    second: FullSpriteSheet_56
+  - first:
+      213: 5909283518747568210
+    second: FullSpriteSheet_57
+  - first:
+      213: 7532712586621949063
+    second: FullSpriteSheet_58
+  - first:
+      213: 8091666911305235544
+    second: FullSpriteSheet_59
+  - first:
+      213: 6613560325553119173
+    second: FullSpriteSheet_60
+  - first:
+      213: 3979254896098162487
+    second: FullSpriteSheet_61
+  - first:
+      213: 6880204625874847325
+    second: FullSpriteSheet_62
+  - first:
+      213: 6477428380656682766
+    second: FullSpriteSheet_63
+  - first:
+      213: 7670675210322351924
+    second: FullSpriteSheet_64
+  - first:
+      213: 1934698216654398725
+    second: FullSpriteSheet_65
+  - first:
+      213: 1389441239989319858
+    second: FullSpriteSheet_66
+  - first:
+      213: -4274310132879242762
+    second: FullSpriteSheet_67
+  - first:
+      213: 4637986432105340484
+    second: FullSpriteSheet_68
+  - first:
+      213: -966506679885927851
+    second: FullSpriteSheet_69
+  - first:
+      213: 1291885454218481646
+    second: FullSpriteSheet_70
+  - first:
+      213: 5105985588335775575
+    second: FullSpriteSheet_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FullSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb1a5fe0ac18efc0800000000000000
+      internalID: -3465488435725591619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 639
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aabb250af3ebdb0800000000000000
+      internalID: -4774308597150799306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 639
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ab49f4eb18b3420800000000000000
+      internalID: 2610823063370250894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 639
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e5bc919bb0c1620800000000000000
+      internalID: 2746082762418773511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 649
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e053722abf77530800000000000000
+      internalID: 3852824680099810936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 639
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad517b4424304360800000000000000
+      internalID: 7151773538753535400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 649
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa12d395b06cf0b0800000000000000
+      internalID: -5693569495917782281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 659
+        width: 142
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f303bfbd454845f0800000000000000
+      internalID: -772291135863061511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 639
+        width: 142
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4159ce7fccf9c9110800000000000000
+      internalID: 1269064897693259028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 659
+        width: 132
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb6b2f9b15b78d00800000000000000
+      internalID: 974946974588169181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 639
+        width: 122
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cadfa719f36e9230800000000000000
+      internalID: 3647462669712087753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 649
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c585702b936e330800000000000000
+      internalID: 3739739977367968775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 639
+        width: 112
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6accec9b73e01ae0800000000000000
+      internalID: -1580513349153797524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 639
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b848140ca3dd49740800000000000000
+      internalID: 5157990717649421451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 649
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8e28f59877bbd00800000000000000
+      internalID: 989515975034595548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 479
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513ee9b1585cf5ee0800000000000000
+      internalID: -1270079394410470635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 479
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ccc6d0206e8abb0800000000000000
+      internalID: -4924433296040080302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 479
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbff094e31e3fe3b0800000000000000
+      internalID: -5481093966326595649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 489
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3bb368cc7cec760800000000000000
+      internalID: 7480135712348287999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 489
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7965a3fc017aaec10800000000000000
+      internalID: 2083661468250298007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 489
+        width: 642
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae60572e92f1e8c20800000000000000
+      internalID: 3210537849115182826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 509
+        width: 162
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4aa8b7bfce29d20800000000000000
+      internalID: 3283947643160143016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 509
+        width: 142
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3206f347aa79e30800000000000000
+      internalID: 4510260968091034605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 479
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276e8458b084d6240800000000000000
+      internalID: 4786561193282692722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 489
+        width: 162
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ace53ca7d0658c0800000000000000
+      internalID: -4011003597211907464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 489
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9765ab309b1adba30800000000000000
+      internalID: 4232717040801699449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 499
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561bf39a422c63700800000000000000
+      internalID: 519816269722005861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec1e2e2dd116a060800000000000000
+      internalID: 6964273515435269353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 319
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b608a876eb10d6e0800000000000000
+      internalID: -1814919973149604167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 329
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a70ef82ef29120800000000000000
+      internalID: 2419275401865437209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 329
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c39e2259f9df090800000000000000
+      internalID: -7999061900255478670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 329
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db27281020eb09f0800000000000000
+      internalID: -501060505072882736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 329
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8fb0ec65fa38bf0800000000000000
+      internalID: -323221960881604372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 329
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1cbe5f6d34b5ea0800000000000000
+      internalID: -5883033897701490184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 329
+        width: 82
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc66f34f4116fb280800000000000000
+      internalID: -9025388385602148660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 319
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a6ba0abec2e7010800000000000000
+      internalID: 1188436742196914845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 339
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bbe551b385ead20800000000000000
+      internalID: 3291665388439255836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 339
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3dc272ecd9ed340800000000000000
+      internalID: 4890519754117010337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 339
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe479cdeb7a0c320800000000000000
+      internalID: 2576243425042452212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 329
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8ef2ac80bfd6000800000000000000
+      internalID: 30956787631909094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 329
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2730f17d4f99a9120800000000000000
+      internalID: 2421417026525266802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 329
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d47799c38aba280800000000000000
+      internalID: -9030939649535160986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c35ed777554a210800000000000000
+      internalID: 1343292560564894816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 159
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0812d7b00a18e580800000000000000
+      internalID: -8797753281681942516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 169
+        width: 142
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c94ea31ece9afff0800000000000000
+      internalID: -1514241929623102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 169
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e61a937b28cc9b0800000000000000
+      internalID: -5058524557986402681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 169
+        width: 142
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab2269a1d7d3fe90800000000000000
+      internalID: -6993008500886328401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 169
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28989f38322da210800000000000000
+      internalID: 1345769488634124335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 159
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c04585be8e8e930800000000000000
+      internalID: 4172841152255626293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 179
+        width: 142
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c89db906e86ec9c0800000000000000
+      internalID: -3905068489668454202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 159
+        width: 122
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0740eb1cf798b2b50800000000000000
+      internalID: 6569495663254307952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 179
+        width: 142
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb2fa3e1e59ec470800000000000000
+      internalID: 8416829551022123975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 179
+        width: 142
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda7b4746b1520b10800000000000000
+      internalID: 1946207832299502302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 189
+        width: 142
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566bc6a8d95537110800000000000000
+      internalID: 1257442856087107173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 179
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e044d3ed50186f170800000000000000
+      internalID: 8211892832760054798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 179
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4c3a752a6743f20800000000000000
+      internalID: 3401474058198697122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 179
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cad72be21a61f940800000000000000
+      internalID: 5328156463643220681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258e4043d0ef10250800000000000000
+      internalID: 5909283518747568210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 142
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78417b00032998860800000000000000
+      internalID: 7532712586621949063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 72
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c71213f206b4070800000000000000
+      internalID: 8091666911305235544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 0
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfd531731618cb50800000000000000
+      internalID: 6613560325553119173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7373aa8be37293730800000000000000
+      internalID: 3979254896098162487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 9
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56054387a56b7f50800000000000000
+      internalID: 6880204625874847325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0743171bc274e950800000000000000
+      internalID: 6477428380656682766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 9
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43798aa7676b37a60800000000000000
+      internalID: 7670675210322351924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 0
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505644f07cd69da10800000000000000
+      internalID: 1934698216654398725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 9
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b877d93279484310800000000000000
+      internalID: 1389441239989319858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 0
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f941e594999ea4c0800000000000000
+      internalID: -4274310132879242762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 9
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e58be36107d5040800000000000000
+      internalID: 4637986432105340484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 0
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a6b50ab474692f0800000000000000
+      internalID: -966506679885927851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 9
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefcf25d9f2bde110800000000000000
+      internalID: 1291885454218481646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 0
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f840507da1cd640800000000000000
+      internalID: 5105985588335775575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FullSpriteSheet_0: -3465488435725591619
+      FullSpriteSheet_1: -4774308597150799306
+      FullSpriteSheet_10: 3647462669712087753
+      FullSpriteSheet_11: 3739739977367968775
+      FullSpriteSheet_12: -1580513349153797524
+      FullSpriteSheet_13: 5157990717649421451
+      FullSpriteSheet_14: 989515975034595548
+      FullSpriteSheet_15: -1270079394410470635
+      FullSpriteSheet_16: -4924433296040080302
+      FullSpriteSheet_17: -5481093966326595649
+      FullSpriteSheet_18: 7480135712348287999
+      FullSpriteSheet_19: 2083661468250298007
+      FullSpriteSheet_2: 2610823063370250894
+      FullSpriteSheet_20: 3210537849115182826
+      FullSpriteSheet_21: 3283947643160143016
+      FullSpriteSheet_22: 4510260968091034605
+      FullSpriteSheet_23: 4786561193282692722
+      FullSpriteSheet_24: -4011003597211907464
+      FullSpriteSheet_25: 4232717040801699449
+      FullSpriteSheet_26: 519816269722005861
+      FullSpriteSheet_27: 6964273515435269353
+      FullSpriteSheet_28: -1814919973149604167
+      FullSpriteSheet_29: 2419275401865437209
+      FullSpriteSheet_3: 2746082762418773511
+      FullSpriteSheet_30: -7999061900255478670
+      FullSpriteSheet_31: -501060505072882736
+      FullSpriteSheet_32: -323221960881604372
+      FullSpriteSheet_33: -5883033897701490184
+      FullSpriteSheet_34: -9025388385602148660
+      FullSpriteSheet_35: 1188436742196914845
+      FullSpriteSheet_36: 3291665388439255836
+      FullSpriteSheet_37: 4890519754117010337
+      FullSpriteSheet_38: 2576243425042452212
+      FullSpriteSheet_39: 30956787631909094
+      FullSpriteSheet_4: 3852824680099810936
+      FullSpriteSheet_40: 2421417026525266802
+      FullSpriteSheet_41: -9030939649535160986
+      FullSpriteSheet_42: 1343292560564894816
+      FullSpriteSheet_43: -8797753281681942516
+      FullSpriteSheet_44: -1514241929623102
+      FullSpriteSheet_45: -5058524557986402681
+      FullSpriteSheet_46: -6993008500886328401
+      FullSpriteSheet_47: 1345769488634124335
+      FullSpriteSheet_48: 4172841152255626293
+      FullSpriteSheet_49: -3905068489668454202
+      FullSpriteSheet_5: 7151773538753535400
+      FullSpriteSheet_50: 6569495663254307952
+      FullSpriteSheet_51: 8416829551022123975
+      FullSpriteSheet_52: 1946207832299502302
+      FullSpriteSheet_53: 1257442856087107173
+      FullSpriteSheet_54: 8211892832760054798
+      FullSpriteSheet_55: 3401474058198697122
+      FullSpriteSheet_56: 5328156463643220681
+      FullSpriteSheet_57: 5909283518747568210
+      FullSpriteSheet_58: 7532712586621949063
+      FullSpriteSheet_59: 8091666911305235544
+      FullSpriteSheet_6: -5693569495917782281
+      FullSpriteSheet_60: 6613560325553119173
+      FullSpriteSheet_61: 3979254896098162487
+      FullSpriteSheet_62: 6880204625874847325
+      FullSpriteSheet_63: 6477428380656682766
+      FullSpriteSheet_64: 7670675210322351924
+      FullSpriteSheet_65: 1934698216654398725
+      FullSpriteSheet_66: 1389441239989319858
+      FullSpriteSheet_67: -4274310132879242762
+      FullSpriteSheet_68: 4637986432105340484
+      FullSpriteSheet_69: -966506679885927851
+      FullSpriteSheet_7: -772291135863061511
+      FullSpriteSheet_70: 1291885454218481646
+      FullSpriteSheet_71: 5105985588335775575
+      FullSpriteSheet_8: 1269064897693259028
+      FullSpriteSheet_9: 974946974588169181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

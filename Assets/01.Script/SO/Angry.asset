@@ -16,4 +16,4 @@ MonoBehaviour:
   squareName: "\uD654\uB09C \uB124\uBAA8"
   upgradePrice: 20
   sellCoin: 20
-  upgradePercent: 0
+  upgradePercent: 95

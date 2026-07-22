@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 56ebb78c138915c46a8c411ba82c53b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2115429990245680329
+    second: Animation_Rock_Brown_0
+  - first:
+      213: -8235647315347225239
+    second: Animation_Rock_Brown_1
+  - first:
+      213: -1160243628284884379
+    second: Animation_Rock_Brown_2
+  - first:
+      213: 2304852774653421331
+    second: Animation_Rock_Brown_3
+  - first:
+      213: -2044461194078792107
+    second: Animation_Rock_Brown_4
+  - first:
+      213: -3340268104027889696
+    second: Animation_Rock_Brown_5
+  - first:
+      213: -7797890321901631101
+    second: Animation_Rock_Brown_6
+  - first:
+      213: -5707538920946829381
+    second: Animation_Rock_Brown_7
+  - first:
+      213: -8230519649626848730
+    second: Animation_Rock_Brown_8
+  - first:
+      213: -2503101798567437710
+    second: Animation_Rock_Brown_9
+  - first:
+      213: -4877089654988377680
+    second: Animation_Rock_Brown_10
+  - first:
+      213: 4774611476928407080
+    second: Animation_Rock_Brown_11
+  - first:
+      213: 3902668095777413093
+    second: Animation_Rock_Brown_12
+  - first:
+      213: -8094132074643500788
+    second: Animation_Rock_Brown_13
+  - first:
+      213: -7662192464493776876
+    second: Animation_Rock_Brown_14
+  - first:
+      213: 3558828762433640582
+    second: Animation_Rock_Brown_15
+  - first:
+      213: 2258406216748532268
+    second: Animation_Rock_Brown_16
+  - first:
+      213: 6127371806084503696
+    second: Animation_Rock_Brown_17
+  - first:
+      213: -6964590800273037872
+    second: Animation_Rock_Brown_18
+  - first:
+      213: 2292095987224296873
+    second: Animation_Rock_Brown_19
+  - first:
+      213: -287371189135908448
+    second: Animation_Rock_Brown_20
+  - first:
+      213: -4227543508400825771
+    second: Animation_Rock_Brown_21
+  - first:
+      213: 5641725481558328540
+    second: Animation_Rock_Brown_22
+  - first:
+      213: -1171568337933160032
+    second: Animation_Rock_Brown_23
+  - first:
+      213: -1329838482861214323
+    second: Animation_Rock_Brown_24
+  - first:
+      213: -9166678287016206802
+    second: Animation_Rock_Brown_25
+  - first:
+      213: 7243071732815924943
+    second: Animation_Rock_Brown_26
+  - first:
+      213: 1188641334229336288
+    second: Animation_Rock_Brown_27
+  - first:
+      213: -7925449206878642704
+    second: Animation_Rock_Brown_28
+  - first:
+      213: 1506892504726254716
+    second: Animation_Rock_Brown_29
+  - first:
+      213: -2087658975998817839
+    second: Animation_Rock_Brown_30
+  - first:
+      213: 2199106447027008868
+    second: Animation_Rock_Brown_31
+  - first:
+      213: 8442536111064620569
+    second: Animation_Rock_Brown_32
+  - first:
+      213: 8144583862289661989
+    second: Animation_Rock_Brown_33
+  - first:
+      213: 4775914584324994636
+    second: Animation_Rock_Brown_34
+  - first:
+      213: -4044850415292891282
+    second: Animation_Rock_Brown_35
+  - first:
+      213: 9154956844662684103
+    second: Animation_Rock_Brown_36
+  - first:
+      213: 7407867774046906265
+    second: Animation_Rock_Brown_37
+  - first:
+      213: 8692924386331621629
+    second: Animation_Rock_Brown_38
+  - first:
+      213: 798247016016990174
+    second: Animation_Rock_Brown_39
+  - first:
+      213: -1509480303808824332
+    second: Animation_Rock_Brown_40
+  - first:
+      213: 827546478468462138
+    second: Animation_Rock_Brown_41
+  - first:
+      213: -4504915541315129182
+    second: Animation_Rock_Brown_42
+  - first:
+      213: 3762801604945072838
+    second: Animation_Rock_Brown_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c44dcb3e548b5d10800000000000000
+      internalID: 2115429990245680329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 301
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9654459a66a15bd80800000000000000
+      internalID: -8235647315347225239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a4b2b319cf5efe0800000000000000
+      internalID: -1160243628284884379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3176acc036b7cff10800000000000000
+      internalID: 2304852774653421331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556dcd1406d90a3e0800000000000000
+      internalID: -2044461194078792107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 301
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef99dc5bdbf4a1d0800000000000000
+      internalID: -3340268104027889696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389c895311458c390800000000000000
+      internalID: -7797890321901631101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 289
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb77f3b579fbac0b0800000000000000
+      internalID: -5707538920946829381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6228e1f5cf157cd80800000000000000
+      internalID: -8230519649626848730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 289
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a1fbb1d22334dd0800000000000000
+      internalID: -2503101798567437710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 302
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b17fa87cc8115cb0800000000000000
+      internalID: -4877089654988377680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 289
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82622de57d3d24240800000000000000
+      internalID: 4774611476928407080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 289
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e71015b4ff092630800000000000000
+      internalID: 3902668095777413093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0157cd33cddbaf80800000000000000
+      internalID: -8094132074643500788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4107c21bc8c6aa590800000000000000
+      internalID: -7662192464493776876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688dc4967ef736130800000000000000
+      internalID: 3558828762433640582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2284d31d78775f10800000000000000
+      internalID: 2258406216748532268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0981964813cc80550800000000000000
+      internalID: 6127371806084503696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a5cf219dc85f90800000000000000
+      internalID: -6964590800273037872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad3a9508292fcf10800000000000000
+      internalID: 2292095987224296873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a16fd01d6d030cf0800000000000000
+      internalID: -287371189135908448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a924dd39fb455c0800000000000000
+      internalID: -4227543508400825771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4cd803f6f6b4e40800000000000000
+      internalID: 5641725481558328540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1366bcdc0cdbfe0800000000000000
+      internalID: -1171568337933160032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 161
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85b96412f67b8de0800000000000000
+      internalID: -1329838482861214323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2edc144aaa69c080800000000000000
+      internalID: -9166678287016206802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce8a259d5f848460800000000000000
+      internalID: 7243071732815924943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0061ceef6ee7010800000000000000
+      internalID: 1188641334229336288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdd89aefe5230290800000000000000
+      internalID: -7925449206878642704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7438eacfbe89e410800000000000000
+      internalID: 1506892504726254716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 113
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d94f63e8352703e0800000000000000
+      internalID: -2087658975998817839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465f05689abc48e10800000000000000
+      internalID: 2199106447027008868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e1a6fccd9e92570800000000000000
+      internalID: 8442536111064620569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5208723fedf570170800000000000000
+      internalID: 8144583862289661989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c467c44b205774240800000000000000
+      internalID: 4775914584324994636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f30e25afdcdd7c0800000000000000
+      internalID: -4044850415292891282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c97624ceb0fc0f70800000000000000
+      internalID: 9154956844662684103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 49
+        width: 98
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997212fed780ec660800000000000000
+      internalID: 7407867774046906265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df870aa1ca873a870800000000000000
+      internalID: 8692924386331621629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf45b88e61f31b00800000000000000
+      internalID: 798247016016990174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbb60849af3d0be0800000000000000
+      internalID: -1509480303808824332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36fc3c33290c7b00800000000000000
+      internalID: 827546478468462138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a076c8ee235b71c0800000000000000
+      internalID: -4504915541315129182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Rock_Brown_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2550f9f18283430800000000000000
+      internalID: 3762801604945072838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animation_Rock_Brown_0: 2115429990245680329
+      Animation_Rock_Brown_1: -8235647315347225239
+      Animation_Rock_Brown_10: -4877089654988377680
+      Animation_Rock_Brown_11: 4774611476928407080
+      Animation_Rock_Brown_12: 3902668095777413093
+      Animation_Rock_Brown_13: -8094132074643500788
+      Animation_Rock_Brown_14: -7662192464493776876
+      Animation_Rock_Brown_15: 3558828762433640582
+      Animation_Rock_Brown_16: 2258406216748532268
+      Animation_Rock_Brown_17: 6127371806084503696
+      Animation_Rock_Brown_18: -6964590800273037872
+      Animation_Rock_Brown_19: 2292095987224296873
+      Animation_Rock_Brown_2: -1160243628284884379
+      Animation_Rock_Brown_20: -287371189135908448
+      Animation_Rock_Brown_21: -4227543508400825771
+      Animation_Rock_Brown_22: 5641725481558328540
+      Animation_Rock_Brown_23: -1171568337933160032
+      Animation_Rock_Brown_24: -1329838482861214323
+      Animation_Rock_Brown_25: -9166678287016206802
+      Animation_Rock_Brown_26: 7243071732815924943
+      Animation_Rock_Brown_27: 1188641334229336288
+      Animation_Rock_Brown_28: -7925449206878642704
+      Animation_Rock_Brown_29: 1506892504726254716
+      Animation_Rock_Brown_3: 2304852774653421331
+      Animation_Rock_Brown_30: -2087658975998817839
+      Animation_Rock_Brown_31: 2199106447027008868
+      Animation_Rock_Brown_32: 8442536111064620569
+      Animation_Rock_Brown_33: 8144583862289661989
+      Animation_Rock_Brown_34: 4775914584324994636
+      Animation_Rock_Brown_35: -4044850415292891282
+      Animation_Rock_Brown_36: 9154956844662684103
+      Animation_Rock_Brown_37: 7407867774046906265
+      Animation_Rock_Brown_38: 8692924386331621629
+      Animation_Rock_Brown_39: 798247016016990174
+      Animation_Rock_Brown_4: -2044461194078792107
+      Animation_Rock_Brown_40: -1509480303808824332
+      Animation_Rock_Brown_41: 827546478468462138
+      Animation_Rock_Brown_42: -4504915541315129182
+      Animation_Rock_Brown_43: 3762801604945072838
+      Animation_Rock_Brown_5: -3340268104027889696
+      Animation_Rock_Brown_6: -7797890321901631101
+      Animation_Rock_Brown_7: -5707538920946829381
+      Animation_Rock_Brown_8: -8230519649626848730
+      Animation_Rock_Brown_9: -2503101798567437710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
