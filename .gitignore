@@ -104,3 +104,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# 용량이 큰 에셋스토어 사운드팩 (1.1GB) — 필요 시 에셋스토어에서 다시 임포트
+/[Aa]ssets/Universal Sound FX/
+/[Aa]ssets/Universal Sound FX.meta

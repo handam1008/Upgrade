@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc6384b8cb604e3381a74572bf7b9c2a, type: 3}
+  m_Name: Player FSM
+  m_EditorClassIdentifier: FsmSystem_assembly::DevLib.FsmSystem.Runtime.StateListSO
+  generatePath: C:/Users/handa/Upgrade/Assets/Scripts/Agents/Player/FSM
+  enumName: PlayerState
+  states:
+  - {fileID: 11400000, guid: 29587d6deb1dd5e47820fb9d120fa104, type: 2}
+  - {fileID: 11400000, guid: 639cb87de4b91ff469f5132929ac3277, type: 2}
+  - {fileID: 11400000, guid: 575f0b423b6e3dd449ad737a45c94b11, type: 2}
+  - {fileID: 11400000, guid: 73f1bfe18663e6f45ba8dbaa10d4b096, type: 2}

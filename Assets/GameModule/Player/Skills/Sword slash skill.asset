@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95da87d999f14df78cb2ae195b0cf828, type: 3}
+  m_Name: Sword slash skill
+  m_EditorClassIdentifier: Assembly-CSharp::SkillSystem.SkillDataSO
+  skillIdHash: 1247318428
+  skillName: Sword slash
+  icon: {fileID: 3314199582904601300, guid: 5b47cb0f1b030ae4ab51913cb8c5b649, type: 3}
+  category: 0
+  type: 0
+  directionType: 1
+  maxRange: 1.5
+  defaultAnimation: {fileID: 11400000, guid: bc7abc9cca01bf9498a95f878853e745, type: 2}
+  damageMultiplier: 1
+  baseSkillDamage: 3
+  kbForce: 0
+  cooldownTime: 0

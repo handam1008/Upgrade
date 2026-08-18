@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95da87d999f14df78cb2ae195b0cf828, type: 3}
+  m_Name: Dash skill
+  m_EditorClassIdentifier: Assembly-CSharp::SkillSystem.SkillDataSO
+  skillIdHash: 995914302
+  skillName: Dash
+  icon: {fileID: 3351795759992977672, guid: ba45cf2fcf208ed48a519122419d2161, type: 3}
+  category: 2
+  type: 0
+  directionType: 0
+  maxRange: 1
+  defaultAnimation: {fileID: 11400000, guid: e05ec9b0d4d3cfc4c983fd812ccf8ed9, type: 2}
+  damageMultiplier: 0
+  baseSkillDamage: 0
+  kbForce: 0
+  cooldownTime: 0.8
