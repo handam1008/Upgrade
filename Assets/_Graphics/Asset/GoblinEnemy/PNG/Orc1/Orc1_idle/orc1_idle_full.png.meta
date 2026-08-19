@@ -171,353 +171,353 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: orc1_idle_full_0
+      name: Idle_front_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 209
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b97e06e3c78c20030800000000000000
-      internalID: 3459547899722000283
+      spriteID: 01be6632fc8daa8478dbe27d6dc33f3e
+      internalID: 668546898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_1
+      name: Idle_front_1
       rect:
         serializedVersion: 2
-        x: 71
-        y: 209
-        width: 39
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08c02792043695100800000000000000
-      internalID: 97217994189573248
+      spriteID: 08c5abaf9a990854f82d836600614afe
+      internalID: 489251410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_2
+      name: Idle_front_2
       rect:
         serializedVersion: 2
-        x: 134
-        y: 209
-        width: 40
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2f88976abf78d23a0800000000000000
-      internalID: -6688540356675794702
+      spriteID: a34cbff3e2ae83749bee56da93f90898
+      internalID: -1633086936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_3
+      name: Idle_front_3
       rect:
         serializedVersion: 2
-        x: 199
-        y: 209
-        width: 39
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d731983ef2b795580800000000000000
-      internalID: -8837897348126796931
+      spriteID: 2fd020570eea05f46bdf8a66e16d6d2f
+      internalID: 1187416346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_4
+      name: Idle_back_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 145
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9dfcc189a585782c0800000000000000
-      internalID: -4429474562373267495
+      spriteID: 25f7cda1fff682c46a5996ecfcdc8a0d
+      internalID: 1089966276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_5
+      name: Idle_back_1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 145
-        width: 39
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4ef392aab4386eeb0800000000000000
-      internalID: -4690917600859176988
+      spriteID: 9becf7ca95aee1c43b460eb5e226e046
+      internalID: -2122938211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_6
+      name: Idle_back_2
       rect:
         serializedVersion: 2
-        x: 145
-        y: 145
-        width: 40
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f1e7677a267264890800000000000000
-      internalID: -7474243226904920545
+      spriteID: 1524c7a154cb0d44883251de295cca44
+      internalID: -1291848158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_7
+      name: Idle_back_3
       rect:
         serializedVersion: 2
-        x: 209
-        y: 145
-        width: 39
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fa70058db9dab94d0800000000000000
-      internalID: -3126714631418017873
+      spriteID: e6944b65de834c14d906d0da922cbaa9
+      internalID: -704070765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_8
+      name: Idle_left_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 81
-        width: 22
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eb5cb7c6c06d5d230800000000000000
-      internalID: 3663069220783769022
+      spriteID: c87559020fecbc34dbb49d6122516345
+      internalID: 2108861935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_9
+      name: Idle_left_1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 81
-        width: 23
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1083f68f25fb77a10800000000000000
-      internalID: 1907203330290956289
+      spriteID: 34bb5147997649240834decfe710c5ce
+      internalID: -499983664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_10
+      name: Idle_left_2
       rect:
         serializedVersion: 2
-        x: 147
-        y: 81
-        width: 24
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3f4763a48f439cb20800000000000000
-      internalID: 3155111254951359731
+      spriteID: 0d5174af07e3d4247b5daaafd5b080bb
+      internalID: -1608498890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_11
+      name: Idle_left_3
       rect:
         serializedVersion: 2
-        x: 211
-        y: 81
-        width: 23
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cd892ad165af09270800000000000000
-      internalID: 8255373364741445852
+      spriteID: 2bbdb2cd65faac14e8b289abd5389718
+      internalID: 1881527015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_12
+      name: Idle_right_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 17
-        width: 22
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 22a8233733c5270c0800000000000000
-      internalID: -4579496495036593630
+      spriteID: a41e7663881e3744fa51b4b3c208e76d
+      internalID: 2134069797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_13
+      name: Idle_right_1
       rect:
         serializedVersion: 2
-        x: 85
-        y: 17
-        width: 22
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9c5db2ca334b25440800000000000000
-      internalID: 4923195476694259145
+      spriteID: d32a375a6a04e3546b470c63df25da44
+      internalID: -1392934340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_14
+      name: Idle_right_2
       rect:
         serializedVersion: 2
-        x: 149
-        y: 17
-        width: 22
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6665f871126d7e310800000000000000
-      internalID: 1434350443958326886
+      spriteID: 3a9b2633e05b72449be5c9e104078f62
+      internalID: 1116865500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_idle_full_15
+      name: Idle_right_3
       rect:
         serializedVersion: 2
-        x: 213
-        y: 17
-        width: 22
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9086bccdbd81bd520800000000000000
-      internalID: 2727801331884189705
+      spriteID: 263f6732925a5ee40b48ddf9572582ce
+      internalID: -561354450
       vertices: []
       indices: 
       edges: []
@@ -526,7 +526,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 143d5f0cccf8ddd4f89da427c5ec1927
     internalID: 0
     vertices: []
     indices: 
@@ -536,22 +536,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      orc1_idle_full_0: 3459547899722000283
-      orc1_idle_full_1: 97217994189573248
-      orc1_idle_full_10: 3155111254951359731
-      orc1_idle_full_11: 8255373364741445852
-      orc1_idle_full_12: -4579496495036593630
-      orc1_idle_full_13: 4923195476694259145
-      orc1_idle_full_14: 1434350443958326886
-      orc1_idle_full_15: 2727801331884189705
-      orc1_idle_full_2: -6688540356675794702
-      orc1_idle_full_3: -8837897348126796931
-      orc1_idle_full_4: -4429474562373267495
-      orc1_idle_full_5: -4690917600859176988
-      orc1_idle_full_6: -7474243226904920545
-      orc1_idle_full_7: -3126714631418017873
-      orc1_idle_full_8: 3663069220783769022
-      orc1_idle_full_9: 1907203330290956289
+      Idle_back_0: 1089966276
+      Idle_back_1: -2122938211
+      Idle_back_2: -1291848158
+      Idle_back_3: -704070765
+      Idle_front_0: 668546898
+      Idle_front_1: 489251410
+      Idle_front_2: -1633086936
+      Idle_front_3: 1187416346
+      Idle_left_0: 2108861935
+      Idle_left_1: -499983664
+      Idle_left_2: -1608498890
+      Idle_left_3: 1881527015
+      Idle_right_0: 2134069797
+      Idle_right_1: -1392934340
+      Idle_right_2: 1116865500
+      Idle_right_3: -561354450
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

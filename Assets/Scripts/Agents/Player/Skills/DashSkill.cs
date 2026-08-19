@@ -16,9 +16,9 @@ namespace Agents.Player.Skills
         
         public bool IsInvincible {get; private set;}
 
-        public override void InitalizeSkill(ISkillModule skillModule)
+        public override void InitializeSkill(ISkillModule skillModule)
         {
-            base.InitalizeSkill(skillModule);
+            base.InitializeSkill(skillModule);
             _mover = skillModule.Owner.GetModule<ITopDownMover>();
             _renderer = skillModule.Owner.GetModule<IAnimateRenderer>();
             Debug.Assert(_mover != null, "Mover is null");

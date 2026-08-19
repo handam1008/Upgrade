@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -213,661 +213,529 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_0
+      name: Walk_front_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 209
-        width: 39
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a425aa8770d36c670800000000000000
-      internalID: 8558595244162699850
+      spriteID: 50b3cbd9ec5c73b499e44e7877a899f8
+      internalID: -820983707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_1
+      name: Walk_front_1
       rect:
         serializedVersion: 2
-        x: 63
-        y: 203
-        width: 52
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 159505b5c7f156c00800000000000000
-      internalID: 893154720071309649
+      spriteID: c40a907d5d11ffd448c76c00ff7b8c31
+      internalID: 2099085250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_2
+      name: Walk_front_2
       rect:
         serializedVersion: 2
         x: 128
-        y: 198
-        width: 57
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a006efc7d30d8ce10800000000000000
-      internalID: 2218251778988597258
+      spriteID: 5e225e3647716e54dafdd5d114a890dd
+      internalID: 1458264077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_3
+      name: Walk_front_3
       rect:
         serializedVersion: 2
-        x: 202
-        y: 198
-        width: 47
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 24eb9867c7af08bf0800000000000000
-      internalID: -323983760699048382
+      spriteID: 94e0861b3fb6453459283e6dd1827929
+      internalID: -1111838398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_4
+      name: Walk_front_4
       rect:
         serializedVersion: 2
-        x: 213
-        y: 208
-        width: 35
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ebbec0671b13da290800000000000000
-      internalID: -7877585534941598786
+      spriteID: 2e8ac5fbe61f0ef4b854f5cd1284c815
+      internalID: -117577502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_5
+      name: Walk_front_5
       rect:
         serializedVersion: 2
-        x: 274
-        y: 200
-        width: 33
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cd4f92058e8c4bf80800000000000000
-      internalID: -8091621730375043876
+      spriteID: 6d07358c20d94a14f873d10fe7826b48
+      internalID: -1721562951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_6
+      name: Walk_back_0
       rect:
         serializedVersion: 2
-        x: 277
-        y: 209
-        width: 26
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cf41c2d8fd5f82520800000000000000
-      internalID: 2677660318966748412
+      spriteID: d58f5d6c537b53441acc6520c868fda4
+      internalID: -796805867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_7
+      name: Walk_back_1
       rect:
         serializedVersion: 2
-        x: 334
-        y: 209
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 775e44696bdd03550800000000000000
-      internalID: 6138650068380870007
+      spriteID: f9a6d89c1a4d41846b1f0e9d3d72edf8
+      internalID: -1633340705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_8
+      name: Walk_back_2
       rect:
         serializedVersion: 2
-        x: 19
-        y: 145
-        width: 41
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f1bc9f32076245780800000000000000
-      internalID: -8695282717463819489
+      spriteID: a050eec7e02b6a44a87be5e5fc0a3cbf
+      internalID: 110320721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_9
+      name: Walk_back_3
       rect:
         serializedVersion: 2
-        x: 77
-        y: 145
-        width: 52
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2b59819a8df9dc6b0800000000000000
-      internalID: -5274383835682269774
+      spriteID: 5869730e137f29b4e9bcccf0d43535cc
+      internalID: -445075173
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_10
+      name: Walk_back_4
       rect:
         serializedVersion: 2
-        x: 137
-        y: 145
-        width: 55
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bc41e1297563dcd70800000000000000
-      internalID: 9064961374708176075
+      spriteID: 6d87e65d32e4bbf41ba3fd6d88015d1b
+      internalID: -202357184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_11
+      name: Walk_back_5
       rect:
         serializedVersion: 2
-        x: 201
-        y: 162
-        width: 45
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dcafe528bdd6caf30800000000000000
-      internalID: 4588162909936220877
+      spriteID: 68f5600770dc02a4d8960adbf52a2a74
+      internalID: -1891872889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_12
+      name: Walk_left_0
       rect:
         serializedVersion: 2
-        x: 202
-        y: 145
-        width: 32
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c5deb4b2c90244540800000000000000
-      internalID: 4991150142146735452
+      spriteID: 2ca4e48a957dd0f468cdd8300553b910
+      internalID: -950681347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_13
+      name: Walk_left_1
       rect:
         serializedVersion: 2
-        x: 269
-        y: 145
-        width: 33
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 46c2a5df7caf4f260800000000000000
-      internalID: 7130599846890318948
+      spriteID: 1af56e6f469e0f24e81ddd29a865a28f
+      internalID: -1522776331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_14
+      name: Walk_left_2
       rect:
         serializedVersion: 2
-        x: 339
-        y: 145
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 84a9209a671a2f560800000000000000
-      internalID: 7346111473208433224
+      spriteID: 1688143b82170e747b51151787daeb3d
+      internalID: 1389343814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_15
+      name: Walk_left_3
       rect:
         serializedVersion: 2
-        x: 19
-        y: 81
-        width: 29
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4f757e3fa94f100d0800000000000000
-      internalID: -3458214092489664524
+      spriteID: 71708b9757d6afb4b9b86b1f048ca3c1
+      internalID: -1881505031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_16
+      name: Walk_left_4
       rect:
         serializedVersion: 2
-        x: 70
-        y: 77
-        width: 49
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f6bd42f74d2db0d00800000000000000
-      internalID: 940076757344901999
+      spriteID: 87d49340e084e8544a5fa7de1a00e2e1
+      internalID: -1024215853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_17
+      name: Walk_left_5
       rect:
         serializedVersion: 2
-        x: 132
-        y: 74
-        width: 47
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e635a6be0fd99b890800000000000000
-      internalID: -7441743251185708178
+      spriteID: 514fdb9760092204d812ce1df8cb4c19
+      internalID: -818497311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_18
+      name: Walk_right_0
       rect:
         serializedVersion: 2
-        x: 197
-        y: 73
-        width: 33
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a112385b94e398e50800000000000000
-      internalID: 6812044397673390362
+      spriteID: 1d95926c30aa5f94dad532a55e6259db
+      internalID: -1835094966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_19
+      name: Walk_right_1
       rect:
         serializedVersion: 2
-        x: 203
-        y: 81
-        width: 31
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 46fe1b5b393b2c410800000000000000
-      internalID: 1495955473230327652
+      spriteID: e90a07b35cd42e441a6cbb6caea227a5
+      internalID: 124729828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_20
+      name: Walk_right_2
       rect:
         serializedVersion: 2
-        x: 257
-        y: 74
-        width: 19
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: db66b789399e3dd20800000000000000
-      internalID: 3302239771920393917
+      spriteID: ee7ce75ed1dd3254494a7880c2d6324a
+      internalID: -433741965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_21
+      name: Walk_right_3
       rect:
         serializedVersion: 2
-        x: 265
-        y: 81
-        width: 33
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 14a8a8cb1f6fabc40800000000000000
-      internalID: 5529003010661452353
+      spriteID: 4f08e4d811ff2f5488f90b65c151c4c0
+      internalID: -274349511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_22
+      name: Walk_right_4
       rect:
         serializedVersion: 2
-        x: 335
-        y: 81
-        width: 27
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e549c9dca28e92d50800000000000000
-      internalID: 6713151990108296286
+      spriteID: ba018c08eb2008f4da18798bf4809000
+      internalID: -1438540801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orc1_walk_attack_front _full_23
+      name: Walk_right_5
       rect:
         serializedVersion: 2
-        x: 11
-        y: 17
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3700df78fa52cabd0800000000000000
-      internalID: -2617675847578091405
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: orc1_walk_attack_front _full_24
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 15
-        width: 49
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c6db0737a88fab90800000000000000
-      internalID: -7228408625141918010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: orc1_walk_attack_front _full_25
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 13
-        width: 47
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d60ece8517101a60800000000000000
-      internalID: 7642633949005350609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: orc1_walk_attack_front _full_26
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 12
-        width: 39
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 668f10f2816f6e110800000000000000
-      internalID: 1289988927016532070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: orc1_walk_attack_front _full_27
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 17
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1337ba39f72043e0800000000000000
-      internalID: -2071611877205003490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: orc1_walk_attack_front _full_28
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 13
-        width: 19
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5dbcde5c95b7fa160800000000000000
-      internalID: 7038980368106376149
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: orc1_walk_attack_front _full_29
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 17
-        width: 32
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc52d37e8c499e500800000000000000
-      internalID: 426035230357136845
+      spriteID: 34fbb543fe9840f44a96e77fa90e81e2
+      internalID: -762904890
       vertices: []
       indices: 
       edges: []
@@ -876,7 +744,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b410abfa336631c4babf394d9f003983
     internalID: 0
     vertices: []
     indices: 
@@ -886,36 +754,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      orc1_walk_attack_front _full_0: 8558595244162699850
-      orc1_walk_attack_front _full_1: 893154720071309649
-      orc1_walk_attack_front _full_10: 9064961374708176075
-      orc1_walk_attack_front _full_11: 4588162909936220877
-      orc1_walk_attack_front _full_12: 4991150142146735452
-      orc1_walk_attack_front _full_13: 7130599846890318948
-      orc1_walk_attack_front _full_14: 7346111473208433224
-      orc1_walk_attack_front _full_15: -3458214092489664524
-      orc1_walk_attack_front _full_16: 940076757344901999
-      orc1_walk_attack_front _full_17: -7441743251185708178
-      orc1_walk_attack_front _full_18: 6812044397673390362
-      orc1_walk_attack_front _full_19: 1495955473230327652
-      orc1_walk_attack_front _full_2: 2218251778988597258
-      orc1_walk_attack_front _full_20: 3302239771920393917
-      orc1_walk_attack_front _full_21: 5529003010661452353
-      orc1_walk_attack_front _full_22: 6713151990108296286
-      orc1_walk_attack_front _full_23: -2617675847578091405
-      orc1_walk_attack_front _full_24: -7228408625141918010
-      orc1_walk_attack_front _full_25: 7642633949005350609
-      orc1_walk_attack_front _full_26: 1289988927016532070
-      orc1_walk_attack_front _full_27: -2071611877205003490
-      orc1_walk_attack_front _full_28: 7038980368106376149
-      orc1_walk_attack_front _full_29: 426035230357136845
-      orc1_walk_attack_front _full_3: -323983760699048382
-      orc1_walk_attack_front _full_4: -7877585534941598786
-      orc1_walk_attack_front _full_5: -8091621730375043876
-      orc1_walk_attack_front _full_6: 2677660318966748412
-      orc1_walk_attack_front _full_7: 6138650068380870007
-      orc1_walk_attack_front _full_8: -8695282717463819489
-      orc1_walk_attack_front _full_9: -5274383835682269774
+      Walk_back_0: -796805867
+      Walk_back_1: -1633340705
+      Walk_back_2: 110320721
+      Walk_back_3: -445075173
+      Walk_back_4: -202357184
+      Walk_back_5: -1891872889
+      Walk_front_0: -820983707
+      Walk_front_1: 2099085250
+      Walk_front_2: 1458264077
+      Walk_front_3: -1111838398
+      Walk_front_4: -117577502
+      Walk_front_5: -1721562951
+      Walk_left_0: -950681347
+      Walk_left_1: -1522776331
+      Walk_left_2: 1389343814
+      Walk_left_3: -1881505031
+      Walk_left_4: -1024215853
+      Walk_left_5: -818497311
+      Walk_right_0: -1835094966
+      Walk_right_1: 124729828
+      Walk_right_2: -433741965
+      Walk_right_3: -274349511
+      Walk_right_4: -1438540801
+      Walk_right_5: -762904890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

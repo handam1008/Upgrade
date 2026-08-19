@@ -8,6 +8,7 @@ namespace SkillSystem
     {
         event Action<int> OnSkillEnd;
         ModuleOwner Owner { get; }  
+        ISkill CurrentSkill { get; }
         
         bool CanUseSkill(int skillId, GameObject target = null);
         void UseSkill(int skillId, GameObject target = null);

@@ -23,7 +23,7 @@ namespace SkillSystem
         public bool IsUsing { get; private set; }
         public bool CanInterrupt => false;
         
-        public virtual void InitalizeSkill(ISkillModule skillModule)
+        public virtual void InitializeSkill(ISkillModule skillModule)
         {
             _skillModule = skillModule;
             

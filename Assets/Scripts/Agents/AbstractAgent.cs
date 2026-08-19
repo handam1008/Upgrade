@@ -23,6 +23,22 @@ namespace Agents
             Debug.Assert(Renderer != null, "Renderer != null");
             
         }
+
+        protected override void AfterInitializeModules()
+        {
+            base.AfterInitializeModules();
+            OnHit ??= new UnityEvent();
+            OnHit.AddListener(HandleHit);
+        }
+
+        private void OnDestroy()
+        {
+            OnHit?.RemoveListener(HandleHit);
+        }
+
+        //피격 반응. 기본은 아무것도 하지 않고, 필요한 에이전트만 재정의한다.
+        protected virtual void HandleHit() { }
+
         protected virtual void HandleDead()
         {
             IsDead = true;

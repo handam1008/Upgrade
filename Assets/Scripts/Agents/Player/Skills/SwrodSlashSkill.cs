@@ -16,9 +16,9 @@ namespace Agents.Player.Skills
         private IAnimatorTrigger _trigger;
         private float _endTime;
 
-        public override void InitalizeSkill(ISkillModule skillModule)
+        public override void InitializeSkill(ISkillModule skillModule)
         {
-            base.InitalizeSkill(skillModule);
+            base.InitializeSkill(skillModule);
             _renderer = skillModule.Owner.GetModule<IAnimateRenderer>();
             _trigger = skillModule.Owner.GetModule<IAnimatorTrigger>();
             Debug.Assert(_renderer != null , "Renderer is null");

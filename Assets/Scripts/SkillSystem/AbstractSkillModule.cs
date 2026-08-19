@@ -21,7 +21,7 @@ namespace SkillSystem
                 .ToDictionary(s => s.SkillData.skillIdHash);
             
             foreach(ISkill skill in _skillDict.Values)
-                skill.InitalizeSkill(this);
+                skill.InitializeSkill(this);
         }
 
 

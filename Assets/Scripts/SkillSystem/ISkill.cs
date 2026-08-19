@@ -11,7 +11,7 @@ namespace SkillSystem
         bool IsUsing { get; }
         bool CanInterrupt { get; } //캔슬가능한 스킬이냐?
         
-        void InitalizeSkill(ISkillModule skillModule);
+        void InitializeSkill(ISkillModule skillModule);
         bool CanUseSkill(GameObject target = null);
         void UseSkill(GameObject target = null);
 
