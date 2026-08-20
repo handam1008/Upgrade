@@ -34,7 +34,16 @@ namespace Agents.Enemies
         protected override void HandleHit()
         {
             if (IsDead) return;
-            _stateChannel.SendEventMessage(EnemyState.HIT);
+            //돌진처럼 이미 발동된 스킬은 피격으로 끊지 않는다. 경고 단계에서는 CanInterrupt가 true라 그대로 통과한다.
+            if (SkillModule?.CurrentSkill is { IsUsing: true, CanInterrupt: false }) return;
+            //블랙보드에 StateChannel이 없으면 Start에서 null로 남는다. 첫 피격에 터지지 않게 방어.
+            _stateChannel?.SendEventMessage(EnemyState.HIT);
+        }
+
+        protected override void HandleDead()
+        {
+            base.HandleDead();
+            _stateChannel?.SendEventMessage(EnemyState.DEAD);
         }
 
         private void Start()

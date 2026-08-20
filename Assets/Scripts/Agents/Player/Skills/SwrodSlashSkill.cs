@@ -1,4 +1,5 @@
-﻿using DevLib.ServiceLocator;
+﻿using CombatSystem;
+using DevLib.ServiceLocator;
 using DevLib.SoundSystem.Runtime;
 using SkillSystem;
 using UnityEngine;
@@ -14,6 +15,7 @@ namespace Agents.Player.Skills
 
         private IAnimateRenderer _renderer;
         private IAnimatorTrigger _trigger;
+        private AbstractDamageCaster _damageCaster;
         private float _endTime;
 
         public override void InitializeSkill(ISkillModule skillModule)
@@ -21,8 +23,11 @@ namespace Agents.Player.Skills
             base.InitializeSkill(skillModule);
             _renderer = skillModule.Owner.GetModule<IAnimateRenderer>();
             _trigger = skillModule.Owner.GetModule<IAnimatorTrigger>();
+            _damageCaster = GetComponentInChildren<AbstractDamageCaster>();
+            _damageCaster?.InitCaster(skillModule.Owner);
             Debug.Assert(_renderer != null , "Renderer is null");
             Debug.Assert(_trigger != null, "Trigger is null");
+            Debug.Assert(_damageCaster != null, "DamageCaster is null");
         }
 
         public override bool CanUseSkill(GameObject target = null)
@@ -34,6 +39,7 @@ namespace Agents.Player.Skills
         {
             base.UseSkill(target);
             _trigger.OnAnimationEnd += HandleAnimationEnd;
+            _trigger.OnDamageCast += HandleDamageCast;
             _renderer.RenderClip(SkillData.defaultAnimation.HashValue);
             ServiceLocator.Get<IAudioService>()?.PlaySfx(slashSound);
             _endTime = Time.time + fallbackDuration;
@@ -51,9 +57,24 @@ namespace Agents.Player.Skills
             StopSkill();
         }
 
+        //클립에 박아둔 DamageCastTrigger 시점에 호출된다.
+        private void HandleDamageCast()
+        {
+            if (_damageCaster == null) return;
+
+            //바라보는 방향은 FSM이 시전 직전에 맞춰준다. 히트박스를 그쪽으로 반칸 밀어서 판정한다.
+            Vector2 direction = _renderer.FacingDirection;
+            _damageCaster.transform.position =
+                transform.position + (Vector3)direction * (SkillData.maxRange * 0.5f);
+
+            float damage = _skillModule.GetBaseDamage(SkillData);
+            _damageCaster.CastDamage(damage, direction, SkillData.kbForce);
+        }
+
         public override void CleanUpSkillData()
         {
             _trigger.OnAnimationEnd -= HandleAnimationEnd;
+            _trigger.OnDamageCast -= HandleDamageCast;
             base.CleanUpSkillData();
         }
     }

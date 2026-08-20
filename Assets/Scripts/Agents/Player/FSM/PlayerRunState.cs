@@ -11,7 +11,6 @@ namespace Agents.Player.FSM
         
         protected override bool OnUpdate()
         {
-            Debug.Log("런");
             Vector2 inputDirection = _player.playerInput.InputDirection;
             if (inputDirection.sqrMagnitude < MOVE_THRESHOLD)
             {

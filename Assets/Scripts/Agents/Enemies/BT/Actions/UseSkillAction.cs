@@ -39,6 +39,8 @@ namespace Agents.Enemies.BT.Actions
 
         protected override Status OnUpdate()
         {
+            //적 스킬을 매 프레임 굴려주는 곳은 여기뿐이다. 플레이어는 FSM 상태가 같은 역할을 한다.
+            _skillModule?.CurrentSkill?.OnUpdateSkill();
             return _skillComplete ? Status.Success : Status.Running;
         }
 

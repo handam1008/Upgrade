@@ -21,7 +21,7 @@ namespace SkillSystem
         }
         
         public bool IsUsing { get; private set; }
-        public bool CanInterrupt => false;
+        public virtual bool CanInterrupt => false;
         
         public virtual void InitializeSkill(ISkillModule skillModule)
         {

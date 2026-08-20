@@ -52,7 +52,7 @@ public partial class ReturnToOriginAction : Action
             _detectTimer = DetectInterval;
         }
         
-        Vector3 toOrigin = OriginPosition.Value - _targetTrm.position;
+        Vector3 toOrigin = OriginPosition.Value - _enemy.transform.position;
         toOrigin.z = 0f;
         if (toOrigin.sqrMagnitude < ArriveDistance * ArriveDistance)
         {

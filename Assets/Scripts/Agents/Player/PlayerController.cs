@@ -1,9 +1,9 @@
-﻿using System;
-using Agents;
+﻿using Agents;
 using Agents.Player.FSM;
 using DevLib.FsmSystem.Runtime;
 using GameSystem;
 using UnityEngine;
+using UnityEngine.Rendering.VirtualTexturing;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : AbstractAgent
@@ -32,7 +32,20 @@ public class PlayerController : AbstractAgent
    }
    
    public void ChangeState(PlayerState newState)=> _stateMachine?.ChangeState((int)newState);
-   
+
+   protected override void HandleHit()
+   {
+      base.HandleHit();
+      if (IsDead) return;
+      ChangeState(PlayerState.HIT);
+   }
+
+   protected override void HandleDead()
+   {
+      base.HandleDead();
+      ChangeState(PlayerState.DEAD);
+   }
+
 
    private void OnDestroy()
    {
@@ -43,6 +56,7 @@ public class PlayerController : AbstractAgent
    private void Update()
    {
       _stateMachine?.UpdateMachine();
+      
       
    }
 }

@@ -216,7 +216,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -229,7 +229,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -243,7 +243,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -267,7 +267,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -318,1431 +318,1409 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Goblin_Maceman_0
+      name: Goblin_Maceman_Idle_Down_0
       rect:
         serializedVersion: 2
-        x: 6
+        x: 0
         y: 391
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2ffdda214a55ae030800000000000000
-      internalID: 3524723821547216882
+      spriteID: d43c8b1294f00764cb72cd1d69806bf4
+      internalID: 422707697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_1
+      name: Goblin_Maceman_Idle_Down_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 390
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87bbd0573f36c1de0800000000000000
-      internalID: -1361103090080695432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_2
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 390
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 187b687a323959780800000000000000
-      internalID: -8676867325715630207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_3
-      rect:
-        serializedVersion: 2
-        x: 102
+        x: 32
         y: 391
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8de039d6212de0400800000000000000
-      internalID: 292402002415259352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_4
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 359
-        width: 17
+        width: 32
         height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 89583c4ae16f23760800000000000000
-      internalID: 7436276546215839128
+      spriteID: 829254b2b6ad1e747a00bd975b224d44
+      internalID: -646951624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_5
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 358
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09ca575820d7633b0800000000000000
-      internalID: -5533097642395587440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_6
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 358
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a25da8f236f59da30800000000000000
-      internalID: 4240525403750061354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_7
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 359
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfeafa2e4d5418f30800000000000000
-      internalID: 4576015477023682301
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_8
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 327
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b21bb36545805bc0800000000000000
-      internalID: -3796387952800886096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_9
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 326
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97730c154657b7290800000000000000
-      internalID: -7891584848307931271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_10
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 326
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0bec3cc7d000bbc0800000000000000
-      internalID: -3769511961264592114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_11
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 327
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b0bf7d40c6a8b5ce0800000000000000
-      internalID: -1415385461335524597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_12
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 295
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc8712ea9066b5780800000000000000
-      internalID: -8693242463946442547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_13
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 295
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b0ff8946d70c59350800000000000000
-      internalID: 6022931721469099787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_14
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 294
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50f8bbe76311a4010800000000000000
-      internalID: 1173769578635562757
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_15
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 295
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6fe9482b8328c200800000000000000
-      internalID: 200449264001347436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_16
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 295
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f40e838503f2ca100800000000000000
-      internalID: 120523174717218895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_17
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 294
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f728025f640666ef0800000000000000
-      internalID: -115298882574843265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_18
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 263
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5526b0797ce8302e0800000000000000
-      internalID: -2160726408323964331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_19
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 263
-        width: 17
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c20f576d5f44503c0800000000000000
-      internalID: -4394030038774321108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_20
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 263
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ca39d47cc806dfd0800000000000000
-      internalID: -2317655284008797502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_21
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 263
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad28388d430971cd0800000000000000
-      internalID: -2587440904255864102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_22
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 263
-        width: 17
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66ff7af732a70b140800000000000000
-      internalID: 4733417501250551654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_23
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 263
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eebb25607c3bcc3d0800000000000000
-      internalID: -3184973169071834130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_24
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 231
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d310117a122887f70800000000000000
-      internalID: 9185234521070567741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_25
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 231
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a88a5b21b9284a00800000000000000
-      internalID: 740887979615750304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_26
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 231
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c55db8ae3bfd2060800000000000000
-      internalID: 6930471648130586057
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_27
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 231
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c65d4c4b5355e5e20800000000000000
-      internalID: 3341201662709912940
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_28
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 231
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c92a6f953beab680800000000000000
-      internalID: -8738413511418697280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_29
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 231
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a1c510964855b6370800000000000000
-      internalID: 8316835164055493658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_30
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 199
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed2fcd20e56e8aa20800000000000000
-      internalID: 3073960037129712350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_31
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 199
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c8a6d8cfc5203360800000000000000
-      internalID: 7147254182994946244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_32
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 191
-        width: 31
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57cea13db45129040800000000000000
-      internalID: 4652804780435631221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_33
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 199
-        width: 23
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c7fe5ee17ecda820800000000000000
-      internalID: 2931225921213888453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_34
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 193
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5e7027495ef0d020800000000000000
-      internalID: 2364669463768366683
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_35
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 199
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66251403a015b0770800000000000000
-      internalID: 8578039019458351718
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_36
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 199
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63a0dd4ee8a02adf0800000000000000
-      internalID: -170562227045332426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_37
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 167
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d34e9a5c164076b0800000000000000
-      internalID: -5300659673821723689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_38
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 167
-        width: 24
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df54c1e5bdb9d9030800000000000000
-      internalID: 3503127451643168253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_39
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 163
-        width: 54
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 91815386421c58340800000000000000
-      internalID: 4865507334554982425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_40
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 163
-        width: 21
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f86cbc1f5282218b0800000000000000
-      internalID: -5183036077714454897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_41
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 167
-        width: 19
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51ac25bbfa9dbf400800000000000000
-      internalID: 359119944091355669
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_42
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 167
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb93444713e5a3a60800000000000000
-      internalID: 7654534083166615999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_43
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 135
-        width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1b5cd69b14cf98c0800000000000000
-      internalID: -3990255122052785381
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_44
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 135
-        width: 25
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8f9e750cd3920a50800000000000000
-      internalID: 6485908986561208204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Maceman_45
+      name: Goblin_Maceman_Idle_Down_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 135
-        width: 31
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 391
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6ff63e1a95404d310800000000000000
-      internalID: 1428771764797927414
+      spriteID: 1f1cfc7a41526e44db4a12f460041ff4
+      internalID: 1658413054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_46
+      name: Goblin_Maceman_Idle_Down_3
       rect:
         serializedVersion: 2
         x: 96
-        y: 129
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 391
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 82453e93a8cfbdf30800000000000000
-      internalID: 4601549114895979560
+      spriteID: 11a35f2ac59b37f4b807110822808435
+      internalID: -948832976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_47
+      name: Goblin_Maceman_Idle_Side_0
       rect:
         serializedVersion: 2
-        x: 136
-        y: 135
-        width: 16
+        x: 0
+        y: 359
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b6752abf7b1cb42a38482899bc5d61
+      internalID: 1878340718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Idle_Side_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 359
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b74c7c902a0c0649847c847c27b60ad
+      internalID: -1848139029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Idle_Side_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 359
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0284f7c0ae875a449ec7891c042655b
+      internalID: 338488744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Idle_Side_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 359
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bb8ee0acbd1ce4f8b6a98c85496896
+      internalID: -609264329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Idle_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ac6b0afdcbdc344999139f0933ed82
+      internalID: 655268949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Idle_Up_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 327
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c851ff87cc6040b4a816b200ac786b7c
+      internalID: 323759746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Idle_Up_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 327
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8e7b142255829449e4f50524775ff4
+      internalID: -338261764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Idle_Up_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 327
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b67b7e8a95f3b943864122d819807fe
+      internalID: 1408967592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 32
         height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fb51f65e7596887d0800000000000000
-      internalID: -2915964932490062401
+      spriteID: e497f49b075d51b42ba59fd55f6a4879
+      internalID: 233338761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_48
+      name: Goblin_Maceman_Run_Down_1
       rect:
         serializedVersion: 2
-        x: 168
-        y: 135
-        width: 18
+        x: 32
+        y: 295
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631efe31364c6444da5fc4fed68e63dc
+      internalID: -118231232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Down_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb68a12b97ba854aa54dd0b45077747
+      internalID: -2092414831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Down_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e87cf80e11dc4db50132a4cb4986d
+      internalID: -1785989253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Down_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 295
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbe580f423998542b2c69ec82b91f27
+      internalID: -1011164169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Down_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 295
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675a42a1ddce6064cb61799312fbc837
+      internalID: 1274948218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 32
         height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5cb599b875abd3b70800000000000000
-      internalID: 8880458925411490757
+      spriteID: 967ea8816ddb3024fb11f7b41e116530
+      internalID: 2134694039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_49
+      name: Goblin_Maceman_Run_Side_1
       rect:
         serializedVersion: 2
-        x: 9
-        y: 103
-        width: 15
+        x: 32
+        y: 264
+        width: 32
         height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f509975ba13b4e790800000000000000
-      internalID: -7501674151997239201
+      spriteID: ee615827ec9652142b3b144c1ac67268
+      internalID: 1549507738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_50
+      name: Goblin_Maceman_Run_Side_2
       rect:
         serializedVersion: 2
-        x: 41
-        y: 103
-        width: 17
+        x: 64
+        y: 264
+        width: 32
         height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ef6803b9abcb33400800000000000000
-      internalID: 302793109617542910
+      spriteID: 32bbd27f9b8ddb44db8e796fdb6d850f
+      internalID: 870293032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_51
+      name: Goblin_Maceman_Run_Side_3
       rect:
         serializedVersion: 2
-        x: 73
-        y: 103
-        width: 19
+        x: 96
+        y: 264
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220c8f884977be94088ca91128e1268e
+      internalID: 84551096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Side_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5486f712b6e6f44aa8f7ecc48c05c55
+      internalID: -1034628554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Side_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 264
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44cc2e44e7e1b44ab1ae548c823505
+      internalID: -1983246591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f66f64db16287438c6aef5ea619087
+      internalID: -1596481311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Up_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7cf042ec0837b469fa6b9c25e793c2
+      internalID: -944387558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Up_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187da8ac50a45c949a2a7a2aac59a1a8
+      internalID: -272557576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Up_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 232
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07222e5115c2e44a89be4c35b3668d6
+      internalID: -814575130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Up_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106018e916c413d489b467922b0de66e
+      internalID: 774891688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Run_Up_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e975d486a04a4ab49a58dd327b07eb3e
+      internalID: 883716069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a069edc57e9d745b900ce3b4a21b98
+      internalID: -1702050504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Down_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2677e35501294e439bae280c0a9b4ed
+      internalID: -317415005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Down_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b862bbf7005d2c469432fc4a943b09c
+      internalID: 257820358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Down_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49334b1d9bb92b408a1c35362543bb9
+      internalID: 1248390634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Down_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097a270b39f9a5c4ab08847787eea851
+      internalID: -1324474036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Down_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a02bdfc6f436441b6c60758cf1b771
+      internalID: 1508113983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2c8047eff28e4399f5aa4777bbf1a
+      internalID: 614002474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Side_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 164
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a848e2ded575f4d89b857b8a236854
+      internalID: 131509101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Side_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 164
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca04ab1b7fd67d4393d765175708e1d
+      internalID: 1349789911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Side_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 164
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60292010f1eada447b2e9c661338cdcc
+      internalID: -1194903490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Side_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 164
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573a70d8f2afef428458f87fc4df78b
+      internalID: 708330821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Side_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 164
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48d24ca8cd2ff346818d71e3f8e06ae
+      internalID: -177473449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58027683a96fc074c97cfa1a42784bf0
+      internalID: 263376326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Up_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3bceea2ce431e4491af1045595eeea
+      internalID: 1240816594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Up_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec80dbaaccbebe648acad14c45de5086
+      internalID: 1371286246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Up_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb3f7d6efe5ef24a9822f8d98c42d5b
+      internalID: 554564881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Up_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c662bb64ba51dac488dc389e6c683eb8
+      internalID: 1956392542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Attack_Up_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 130
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b775ba24afee840a69dc93177620c6
+      internalID: -322815691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 32
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 76f01aeb1f1eb2410800000000000000
-      internalID: 1453503733158711143
+      spriteID: 8aaeed4ca279a694f9c428c1e952f4f0
+      internalID: -2003760558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_52
+      name: Goblin_Maceman_Death_1
       rect:
         serializedVersion: 2
-        x: 105
-        y: 103
-        width: 22
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 32
+        y: 104
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 41d760b4b4c0460d0800000000000000
-      internalID: -3430603498628678380
+      spriteID: 6bf97dee4e192794cb84ac1089a3fde5
+      internalID: 127632952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_53
+      name: Goblin_Maceman_Death_2
       rect:
         serializedVersion: 2
-        x: 6
-        y: 71
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 104
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 435c3f1590cc3ca90800000000000000
-      internalID: -7294762631008369356
+      spriteID: 97d2ce1f5940d934095f497e33db0cd8
+      internalID: 1820105508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_54
+      name: Goblin_Maceman_Death_3
       rect:
         serializedVersion: 2
-        x: 38
-        y: 71
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 104
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8b8fcbf760eb033e0800000000000000
-      internalID: -2075950493095626568
+      spriteID: 35a73c785436b404281a09dd633403a5
+      internalID: -524303034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_55
+      name: Goblin_Maceman_Hurt_Down_0
       rect:
         serializedVersion: 2
-        x: 70
-        y: 71
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 72
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6a21641fe65660170800000000000000
-      internalID: 8144308503314829990
+      spriteID: 7518248177f7e774a903f7f712f95f68
+      internalID: 2078992916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_56
+      name: Goblin_Maceman_Hurt_Down_1
       rect:
         serializedVersion: 2
-        x: 102
-        y: 71
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 32
+        y: 72
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4d2aff7eee22da870800000000000000
-      internalID: 8695644865012146900
+      spriteID: 5209635ac4970094c851b0df3d2bc2cf
+      internalID: 1122828446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_57
+      name: Goblin_Maceman_Hurt_Down_2
       rect:
         serializedVersion: 2
-        x: 7
-        y: 39
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 72
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3aba0d8575aafd5f0800000000000000
-      internalID: -729677322481783901
+      spriteID: 2b7231da6994f1f4da796d04a1b02e45
+      internalID: -1494578272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_58
+      name: Goblin_Maceman_Hurt_Down_3
       rect:
         serializedVersion: 2
-        x: 39
-        y: 39
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 72
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cc44c5f9b964b18b0800000000000000
-      internalID: -5180469312152124212
+      spriteID: e2b5d49d1cfc58942bb734dfa54069dc
+      internalID: 1950766186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_59
+      name: Goblin_Maceman_Hurt_Side_0
       rect:
         serializedVersion: 2
-        x: 71
-        y: 39
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 40
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2d074f9360ff8c5a0800000000000000
-      internalID: -6500665659902103342
+      spriteID: 684f6319ba992be448867c9f03ac1cb2
+      internalID: -1573163266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_60
+      name: Goblin_Maceman_Hurt_Side_1
       rect:
         serializedVersion: 2
-        x: 103
-        y: 39
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 32
+        y: 40
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0082aa330ec030f30800000000000000
-      internalID: 4540487006398588928
+      spriteID: 1ddc4a98cbb11b1489451ae9cad2f7a8
+      internalID: 1026730017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_61
+      name: Goblin_Maceman_Hurt_Side_2
       rect:
         serializedVersion: 2
-        x: 8
-        y: 7
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 40
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 83732e2f418c477d0800000000000000
-      internalID: -2921490265956796616
+      spriteID: 04235493f75383a4fb8330a93b8b686e
+      internalID: 676023623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_62
+      name: Goblin_Maceman_Hurt_Side_3
       rect:
         serializedVersion: 2
-        x: 40
-        y: 7
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 40
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 21c3a47539e4aae80800000000000000
-      internalID: -8166628579551331310
+      spriteID: baa8c462dbfc65142ba1ce8b70601920
+      internalID: -1210057813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_63
+      name: Goblin_Maceman_Hurt_Up_0
       rect:
         serializedVersion: 2
-        x: 72
-        y: 7
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 8
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0647ca68c17a4d2a0800000000000000
-      internalID: -6713557403542195104
+      spriteID: 91c68bdf2aa15ad4a861943cc33b6850
+      internalID: -529153183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Maceman_64
+      name: Goblin_Maceman_Hurt_Up_1
       rect:
         serializedVersion: 2
-        x: 104
-        y: 7
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 32
+        y: 8
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 50a0f551f19e558a0800000000000000
-      internalID: -6316886582605444603
+      spriteID: b7798bd01ccbd9944847ac8961b753cc
+      internalID: 272828878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Hurt_Up_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030ec684f6d60aa48a535a49c0aa2d46
+      internalID: -950310466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Maceman_Hurt_Up_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8ca07465494ad479acd1ebe7aca8e5
+      internalID: 1240688025
       vertices: []
       indices: 
       edges: []
@@ -1751,7 +1729,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fb198020cb9fb44448777f114f498b04
     internalID: 0
     vertices: []
     indices: 
@@ -1761,71 +1739,70 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Goblin_Maceman_0: 3524723821547216882
-      Goblin_Maceman_1: -1361103090080695432
-      Goblin_Maceman_10: -3769511961264592114
-      Goblin_Maceman_11: -1415385461335524597
-      Goblin_Maceman_12: -8693242463946442547
-      Goblin_Maceman_13: 6022931721469099787
-      Goblin_Maceman_14: 1173769578635562757
-      Goblin_Maceman_15: 200449264001347436
-      Goblin_Maceman_16: 120523174717218895
-      Goblin_Maceman_17: -115298882574843265
-      Goblin_Maceman_18: -2160726408323964331
-      Goblin_Maceman_19: -4394030038774321108
-      Goblin_Maceman_2: -8676867325715630207
-      Goblin_Maceman_20: -2317655284008797502
-      Goblin_Maceman_21: -2587440904255864102
-      Goblin_Maceman_22: 4733417501250551654
-      Goblin_Maceman_23: -3184973169071834130
-      Goblin_Maceman_24: 9185234521070567741
-      Goblin_Maceman_25: 740887979615750304
-      Goblin_Maceman_26: 6930471648130586057
-      Goblin_Maceman_27: 3341201662709912940
-      Goblin_Maceman_28: -8738413511418697280
-      Goblin_Maceman_29: 8316835164055493658
-      Goblin_Maceman_3: 292402002415259352
-      Goblin_Maceman_30: 3073960037129712350
-      Goblin_Maceman_31: 7147254182994946244
-      Goblin_Maceman_32: 4652804780435631221
-      Goblin_Maceman_33: 2931225921213888453
-      Goblin_Maceman_34: 2364669463768366683
-      Goblin_Maceman_35: 8578039019458351718
-      Goblin_Maceman_36: -170562227045332426
-      Goblin_Maceman_37: -5300659673821723689
-      Goblin_Maceman_38: 3503127451643168253
-      Goblin_Maceman_39: 4865507334554982425
-      Goblin_Maceman_4: 7436276546215839128
-      Goblin_Maceman_40: -5183036077714454897
-      Goblin_Maceman_41: 359119944091355669
-      Goblin_Maceman_42: 7654534083166615999
-      Goblin_Maceman_43: -3990255122052785381
-      Goblin_Maceman_44: 6485908986561208204
-      Goblin_Maceman_45: 1428771764797927414
-      Goblin_Maceman_46: 4601549114895979560
-      Goblin_Maceman_47: -2915964932490062401
-      Goblin_Maceman_48: 8880458925411490757
-      Goblin_Maceman_49: -7501674151997239201
-      Goblin_Maceman_5: -5533097642395587440
-      Goblin_Maceman_50: 302793109617542910
-      Goblin_Maceman_51: 1453503733158711143
-      Goblin_Maceman_52: -3430603498628678380
-      Goblin_Maceman_53: -7294762631008369356
-      Goblin_Maceman_54: -2075950493095626568
-      Goblin_Maceman_55: 8144308503314829990
-      Goblin_Maceman_56: 8695644865012146900
-      Goblin_Maceman_57: -729677322481783901
-      Goblin_Maceman_58: -5180469312152124212
-      Goblin_Maceman_59: -6500665659902103342
-      Goblin_Maceman_6: 4240525403750061354
-      Goblin_Maceman_60: 4540487006398588928
-      Goblin_Maceman_61: -2921490265956796616
-      Goblin_Maceman_62: -8166628579551331310
-      Goblin_Maceman_63: -6713557403542195104
-      Goblin_Maceman_64: -6316886582605444603
-      Goblin_Maceman_7: 4576015477023682301
-      Goblin_Maceman_8: -3796387952800886096
-      Goblin_Maceman_9: -7891584848307931271
+      Goblin_Maceman_Attack_Down_0: -1702050504
+      Goblin_Maceman_Attack_Down_1: -317415005
+      Goblin_Maceman_Attack_Down_2: 257820358
+      Goblin_Maceman_Attack_Down_3: 1248390634
+      Goblin_Maceman_Attack_Down_4: -1324474036
+      Goblin_Maceman_Attack_Down_5: 1508113983
+      Goblin_Maceman_Attack_Side_0: 614002474
+      Goblin_Maceman_Attack_Side_1: 131509101
+      Goblin_Maceman_Attack_Side_2: 1349789911
+      Goblin_Maceman_Attack_Side_3: -1194903490
+      Goblin_Maceman_Attack_Side_4: 708330821
+      Goblin_Maceman_Attack_Side_5: -177473449
+      Goblin_Maceman_Attack_Up_0: 263376326
+      Goblin_Maceman_Attack_Up_1: 1240816594
+      Goblin_Maceman_Attack_Up_2: 1371286246
+      Goblin_Maceman_Attack_Up_3: 554564881
+      Goblin_Maceman_Attack_Up_4: 1956392542
+      Goblin_Maceman_Attack_Up_5: -322815691
+      Goblin_Maceman_Death_0: -2003760558
+      Goblin_Maceman_Death_1: 127632952
+      Goblin_Maceman_Death_2: 1820105508
+      Goblin_Maceman_Death_3: -524303034
+      Goblin_Maceman_Hurt_Down_0: 2078992916
+      Goblin_Maceman_Hurt_Down_1: 1122828446
+      Goblin_Maceman_Hurt_Down_2: -1494578272
+      Goblin_Maceman_Hurt_Down_3: 1950766186
+      Goblin_Maceman_Hurt_Side_0: -1573163266
+      Goblin_Maceman_Hurt_Side_1: 1026730017
+      Goblin_Maceman_Hurt_Side_2: 676023623
+      Goblin_Maceman_Hurt_Side_3: -1210057813
+      Goblin_Maceman_Hurt_Up_0: -529153183
+      Goblin_Maceman_Hurt_Up_1: 272828878
+      Goblin_Maceman_Hurt_Up_2: -950310466
+      Goblin_Maceman_Hurt_Up_3: 1240688025
+      Goblin_Maceman_Idle_Down_0: 422707697
+      Goblin_Maceman_Idle_Down_1: -646951624
+      Goblin_Maceman_Idle_Down_2: 1658413054
+      Goblin_Maceman_Idle_Down_3: -948832976
+      Goblin_Maceman_Idle_Side_0: 1878340718
+      Goblin_Maceman_Idle_Side_1: -1848139029
+      Goblin_Maceman_Idle_Side_2: 338488744
+      Goblin_Maceman_Idle_Side_3: -609264329
+      Goblin_Maceman_Idle_Up_0: 655268949
+      Goblin_Maceman_Idle_Up_1: 323759746
+      Goblin_Maceman_Idle_Up_2: -338261764
+      Goblin_Maceman_Idle_Up_3: 1408967592
+      Goblin_Maceman_Run_Down_0: 233338761
+      Goblin_Maceman_Run_Down_1: -118231232
+      Goblin_Maceman_Run_Down_2: -2092414831
+      Goblin_Maceman_Run_Down_3: -1785989253
+      Goblin_Maceman_Run_Down_4: -1011164169
+      Goblin_Maceman_Run_Down_5: 1274948218
+      Goblin_Maceman_Run_Side_0: 2134694039
+      Goblin_Maceman_Run_Side_1: 1549507738
+      Goblin_Maceman_Run_Side_2: 870293032
+      Goblin_Maceman_Run_Side_3: 84551096
+      Goblin_Maceman_Run_Side_4: -1034628554
+      Goblin_Maceman_Run_Side_5: -1983246591
+      Goblin_Maceman_Run_Up_0: -1596481311
+      Goblin_Maceman_Run_Up_1: -944387558
+      Goblin_Maceman_Run_Up_2: -272557576
+      Goblin_Maceman_Run_Up_3: -814575130
+      Goblin_Maceman_Run_Up_4: 774891688
+      Goblin_Maceman_Run_Up_5: 883716069
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

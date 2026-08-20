@@ -213,7 +213,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -226,7 +226,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -240,7 +240,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -264,7 +264,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -315,1409 +315,1409 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Orc_Archer_0
+      name: Orc_Archer_Idle_Down_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 582
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 93476e49612112ee0800000000000000
-      internalID: -1287728130254539719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_1
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 582
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 52efbb451e6fc83a0800000000000000
-      internalID: -6661678301138125275
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_2
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 582
-        width: 24
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc7a6a874b2053d60800000000000000
-      internalID: 7869198898041366477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_3
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 582
-        width: 24
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee173b9d491d37800800000000000000
-      internalID: 609060811862929902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_4
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 582
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2417f6dd543295660800000000000000
-      internalID: 7374964647770681666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_5
-      rect:
-        serializedVersion: 2
-        x: 251
-        y: 582
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed7dd32f06d347030800000000000000
-      internalID: 3491483097709271006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_6
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 534
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a157adabe02a42f0800000000000000
-      internalID: -987940971651575385
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_7
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 534
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fbfc82ae068c1dac0800000000000000
-      internalID: -3832061489344622657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_8
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 534
-        width: 21
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f37fe053016d31e0800000000000000
-      internalID: -2216508774725749775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_9
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 534
-        width: 21
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d09d1a49d9a8cf10800000000000000
-      internalID: 2290267161234346199
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_10
-      rect:
-        serializedVersion: 2
-        x: 205
-        y: 534
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 730be50ce16fec7a0800000000000000
-      internalID: -6354871412236308425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_11
-      rect:
-        serializedVersion: 2
-        x: 253
-        y: 534
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f155458ad278a7c40800000000000000
-      internalID: 5510865724208600351
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_12
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 486
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7ae1fc3a8a7059980800000000000000
-      internalID: -8532905498099376473
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_13
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 486
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1db662f9c9dbfa80800000000000000
-      internalID: -8431906415942648546
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_14
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 486
-        width: 24
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39a4bb670864949a0800000000000000
-      internalID: -6248385490438108525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_15
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 486
-        width: 24
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b86bf0cb22756bef0800000000000000
-      internalID: -92790935618865525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_16
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 486
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 242940bbb10104c70800000000000000
-      internalID: 8953173770500346434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_17
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 486
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c85f1a4530b6a730800000000000000
-      internalID: 4010086261143328969
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_18
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 438
-        width: 22
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ceb233f39b8ed170800000000000000
-      internalID: 8205149038672264898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_19
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 438
-        width: 22
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 835bebd02247d2d80800000000000000
-      internalID: -8273829250801421000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_20
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 438
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 635d0a25c709358f0800000000000000
-      internalID: -552939465599822538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_21
-      rect:
-        serializedVersion: 2
-        x: 155
-        y: 438
-        width: 22
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfd9cd8ab4ca891b0800000000000000
-      internalID: -5649576291580731909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_22
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 438
-        width: 22
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d98d4a86fb404b620800000000000000
-      internalID: 2788859289390078109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_23
-      rect:
-        serializedVersion: 2
-        x: 251
-        y: 438
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c4a9e4b103200950800000000000000
-      internalID: 6413164359612736706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_24
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 390
-        width: 20
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1fe32b0d431b80830800000000000000
-      internalID: 4037671906335407857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_25
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 390
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3843c22b7ce040d30800000000000000
-      internalID: 4396655387070968963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_26
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 390
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd56993799a044bb0800000000000000
-      internalID: -4952822036014996005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_27
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 390
-        width: 20
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b327a6c1fbe981bb0800000000000000
-      internalID: -4965044045523291589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_28
-      rect:
-        serializedVersion: 2
-        x: 205
-        y: 390
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb4c22af855eb0870800000000000000
-      internalID: 8650259679611634875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_29
-      rect:
-        serializedVersion: 2
-        x: 253
-        y: 390
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4df1a6fbed48fa80800000000000000
-      internalID: -8432904626400789169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_30
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 342
-        width: 22
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c48cb7657d2bda40800000000000000
-      internalID: 5393954960981132487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_31
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 342
-        width: 22
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 33ad5ac6d889aeb70800000000000000
-      internalID: 8929116944396048947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_32
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 342
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d241696b8d04fe160800000000000000
-      internalID: 7056930440633259053
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_33
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 342
-        width: 23
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8eead4d71ea82d30800000000000000
-      internalID: 4406963652760628876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_34
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 342
-        width: 22
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6a1787f76200e520800000000000000
-      internalID: 2729184019744234093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_35
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 342
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b62bc72c67eceaaf0800000000000000
-      internalID: -383141908815498645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_36
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 287
-        width: 20
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df4b8675c3bfcc510800000000000000
-      internalID: 1570906606628549885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_37
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 292
-        width: 19
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08bf708c764ba40c0800000000000000
-      internalID: -4590658512320201856
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_38
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 293
-        width: 19
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25114568c7eedbde0800000000000000
-      internalID: -1315633297525305006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_39
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 293
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f7bcaf507af26de0800000000000000
-      internalID: -1341234378454550542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_40
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 293
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f7da6945b00ad05c0800000000000000
-      internalID: -4247562903016264321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_41
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 293
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 132fb3463a54ea1c0800000000000000
-      internalID: -4490575210378169807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_42
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 246
-        width: 30
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa4cd10840e911160800000000000000
-      internalID: 6994545438449583279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_43
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 246
-        width: 25
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 807c416c9c8bb3f30800000000000000
-      internalID: 4556438624766576392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_44
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 246
-        width: 24
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d296ec2a30fc7d90800000000000000
-      internalID: -7098534779990666543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_45
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 246
-        width: 24
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f417898135036ab60800000000000000
-      internalID: 7756940541645320527
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_46
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 246
-        width: 24
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0abfd2de3fbe85ff0800000000000000
-      internalID: -47028363198596192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_47
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 246
-        width: 24
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c76d04940cb142260800000000000000
-      internalID: 7071807827555178108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_48
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 198
-        width: 20
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1540a68f779c18150800000000000000
-      internalID: 5873196906173826129
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_49
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 198
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39965e1ba06883c70800000000000000
-      internalID: 8951051639891257747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_50
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 198
-        width: 19
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a98205a816efdced0800000000000000
-      internalID: -2391976132178073446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_51
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 198
-        width: 20
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39349a35d191c9c80800000000000000
-      internalID: -8314743198284430445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_52
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 198
-        width: 20
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb63a6b42d296c4b0800000000000000
-      internalID: -5420483669587773762
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_53
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 198
-        width: 20
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62c56559ae3dde1c0800000000000000
-      internalID: -4472685850427761626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_54
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 149
-        width: 19
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f71b50b336ac60c0800000000000000
-      internalID: -4581103980010334217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Archer_55
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 150
-        width: 21
+        x: 0
+        y: 583
+        width: 48
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a54f83f02a3a9a510800000000000000
-      internalID: 1560958662296007770
+      spriteID: d31237370c9e5984a8fc0eac35b9c925
+      internalID: 1422818345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Archer_56
+      name: Orc_Archer_Idle_Down_1
       rect:
         serializedVersion: 2
-        x: 110
+        x: 48
+        y: 583
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c558d98e7ba97e4fa7d700e3e7537bd
+      internalID: -873916676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Down_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 583
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23bf6f87e1d7e04892cdc3c7dca4746
+      internalID: 895025102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Down_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 583
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5e54a698393a2488dcc80985cbd7c9
+      internalID: 1058019352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Down_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 583
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658458e9fbd3b4942a8db4ce93868601
+      internalID: -1316091202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Down_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 583
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30531cca7b719a4caccecf214aa7cac
+      internalID: 126731363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c6004444ee23140812cb75570ea1f5
+      internalID: 560355031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Side_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 535
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d9d2d521d95641acc6c1320457c3d
+      internalID: -457345077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Side_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 535
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a48884bb9f087428bb397f131aa831
+      internalID: -974919459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Side_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 535
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf8b5ce7e3923e4a97dbd59b5927664
+      internalID: -736193108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Side_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 535
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cebaa35b6198df458c710e6ce32e0e5
+      internalID: 2079627727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Side_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 535
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1affb3cae3299cc47a8db1c54c70f043
+      internalID: 1987313883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c576d748900028d48a9b48d8823f4b54
+      internalID: 1504924718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Up_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 487
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b332871cbfc37a4fa44cd520543a366
+      internalID: -746201210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Up_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 487
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d78bba9e948734458cd63795b76f55d
+      internalID: -260150557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Up_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 487
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92504e1461f88aa41bf61bc2b406cae0
+      internalID: -708588294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Up_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 487
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9656f896e6ad57b47ae3a2a4432834ba
+      internalID: -376762986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Idle_Up_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 487
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46be22edc4a608b439de12f6ce177196
+      internalID: 79900601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74bf3225a66804f8d6a4eeea6c2af2
+      internalID: -1240341576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Down_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 439
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00050124500b9042ad4e3a12150bee3
+      internalID: 324077883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Down_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 439
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d1cf7ed39669947af583fb5b0f3152
+      internalID: 651198107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Down_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 439
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76dbc93467c0744a1f07fa71670fd7
+      internalID: -541685485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Down_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 439
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce9b5bd669364e4484096621b9bfbc2
+      internalID: -1921726221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Down_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 439
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06e1dfd0c405d241b5315b8896f2dec
+      internalID: 1008445718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5568e88cecd31114f82023501dfdab11
+      internalID: 575110002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Side_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 391
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec38caec96aa894fbccfb76dff2c367
+      internalID: -1640235947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Side_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47a269bee04ba44996f3ead3927770
+      internalID: 1577055956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Side_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 391
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c606fbc5f1291fb4e9fee687d14dde04
+      internalID: -1460331941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Side_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569dd43a67a0d84bac45acece457737
+      internalID: 1457027395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Side_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 391
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570c8d952a59f1d47b2f8028b67fbc60
+      internalID: -1069338416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b76367a76128684fac6bc9409a73e36
+      internalID: -1389832031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Up_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 343
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026537e884c563441b00544dca77765d
+      internalID: 1293263279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Up_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 343
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31a804a0edd1f74cacc84ac87922994
+      internalID: -1957011671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Up_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 343
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c82f6ae04169214185fe0edb73b47c2
+      internalID: -681688848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Up_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 343
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bcc56fa0037d0448f8359b8167b516
+      internalID: 898316343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Run_Up_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 343
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d4a857bbdf47346bd3f1928ded0486
+      internalID: 1561428997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0d0bd83c3d8af4ba576e6086b6f292
+      internalID: 1383983679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Down_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682639e17e80caa479003162803d0d4e
+      internalID: -650640821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Down_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbf70ebe9bfec94995ef82f7fce1849
+      internalID: -1270253999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Down_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61bdc1a517193542ac7e568131d6e16
+      internalID: -613095794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Down_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7e400e1de2f7541909c12ee7590fff
+      internalID: 305101881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Down_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f25219f8906645a383f81a892a1f3
+      internalID: -937451485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd589da18639f2e468116860713a1d12
+      internalID: -1602626356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Side_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 247
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3087fd193380e9b41a338540f5b3d6d1
+      internalID: -1667437787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Side_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 247
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc2de4cd04be564eb9987619817a5b3
+      internalID: -186534997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Side_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 247
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bac3929df5ae8479710b4282023cfb
+      internalID: 1550033672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Side_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 247
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f0a18b26b032a44b89e4106cd77185
+      internalID: 870060999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Side_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 247
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a7d9315c084c489a4484d8c9572cc
+      internalID: 480812643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da22f8e522aefce4fb15d43390f18807
+      internalID: 1035930992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Up_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 199
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fde96f865da824c9b60b05465611f3
+      internalID: 408034216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Up_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 199
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dd95ee34c4efa43949651b256ed440
+      internalID: -1513664672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Up_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 199
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaeb036201b8e9469cb3a5fc85503e3
+      internalID: 1062866121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Up_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aed99270c9fbf4d99a15c204e2f59b
+      internalID: -1255549175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Attack_Up_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 199
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c873698d82c4419cbe03064b1f303
+      internalID: -1736347910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 150
-        width: 24
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2765a10c1bcc77f70800000000000000
-      internalID: 9185035028849645170
+      spriteID: 88e6631e1ba811c4e8d53306631046f0
+      internalID: 2125017762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Archer_57
+      name: Orc_Archer_Death_1
       rect:
         serializedVersion: 2
-        x: 158
+        x: 48
         y: 150
-        width: 25
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 74958cd28905d79c0800000000000000
-      internalID: -3927894685463848633
+      spriteID: da79e17f80c6c144ca9910c5b2ee8e95
+      internalID: 1325431901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Archer_58
+      name: Orc_Archer_Death_2
       rect:
         serializedVersion: 2
-        x: 11
-        y: 102
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 150
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de1a2dcccb70ff6d0800000000000000
-      internalID: -2954634323060153875
+      spriteID: 94ce2c9d6bbe4fc409d0d1fa5c8ac11b
+      internalID: -1934674162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Archer_59
+      name: Orc_Archer_Death_3
       rect:
         serializedVersion: 2
-        x: 59
-        y: 102
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 144
+        y: 150
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: af78b707c7abc4e80800000000000000
-      internalID: -8192968578467919878
+      spriteID: 369730d0099d82849bbda162bec2827b
+      internalID: -434540543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Archer_60
+      name: Orc_Archer_Hurt_Down_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 54
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 103
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de57e49733e3c30a0800000000000000
-      internalID: -6900572138239003155
+      spriteID: 9f51f0e8b966687449832b1af8ebcb3d
+      internalID: -2023249635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Archer_61
+      name: Orc_Archer_Hurt_Down_1
       rect:
         serializedVersion: 2
-        x: 61
-        y: 54
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 103
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bfa67b3491cdc8460800000000000000
-      internalID: 7245407901600672507
+      spriteID: f05a91e1e0db81441a10d489b12a1af6
+      internalID: 638312071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Archer_62
+      name: Orc_Archer_Hurt_Side_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 6
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 55
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d7a7956989d9fd8c0800000000000000
-      internalID: -3972283067634451843
+      spriteID: 18360f86a79e40b429a26ce57f70d7e2
+      internalID: 1632789456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Archer_63
+      name: Orc_Archer_Hurt_Side_1
       rect:
         serializedVersion: 2
-        x: 62
-        y: 6
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 55
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 940e3e73ac7246500800000000000000
-      internalID: 388479217335263305
+      spriteID: c7178d8971ba1264faf683025e441322
+      internalID: 409058900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Hurt_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea4d0da24fa2c640a94f7749cbb5dfc
+      internalID: 1409756448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Archer_Hurt_Up_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8440d43c337c5e74984b86cb5d135e8d
+      internalID: 1909867974
       vertices: []
       indices: 
       edges: []
@@ -1726,7 +1726,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2841b490115883043af80b1cde13d5d5
     internalID: 0
     vertices: []
     indices: 
@@ -1736,70 +1736,70 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Orc_Archer_0: -1287728130254539719
-      Orc_Archer_1: -6661678301138125275
-      Orc_Archer_10: -6354871412236308425
-      Orc_Archer_11: 5510865724208600351
-      Orc_Archer_12: -8532905498099376473
-      Orc_Archer_13: -8431906415942648546
-      Orc_Archer_14: -6248385490438108525
-      Orc_Archer_15: -92790935618865525
-      Orc_Archer_16: 8953173770500346434
-      Orc_Archer_17: 4010086261143328969
-      Orc_Archer_18: 8205149038672264898
-      Orc_Archer_19: -8273829250801421000
-      Orc_Archer_2: 7869198898041366477
-      Orc_Archer_20: -552939465599822538
-      Orc_Archer_21: -5649576291580731909
-      Orc_Archer_22: 2788859289390078109
-      Orc_Archer_23: 6413164359612736706
-      Orc_Archer_24: 4037671906335407857
-      Orc_Archer_25: 4396655387070968963
-      Orc_Archer_26: -4952822036014996005
-      Orc_Archer_27: -4965044045523291589
-      Orc_Archer_28: 8650259679611634875
-      Orc_Archer_29: -8432904626400789169
-      Orc_Archer_3: 609060811862929902
-      Orc_Archer_30: 5393954960981132487
-      Orc_Archer_31: 8929116944396048947
-      Orc_Archer_32: 7056930440633259053
-      Orc_Archer_33: 4406963652760628876
-      Orc_Archer_34: 2729184019744234093
-      Orc_Archer_35: -383141908815498645
-      Orc_Archer_36: 1570906606628549885
-      Orc_Archer_37: -4590658512320201856
-      Orc_Archer_38: -1315633297525305006
-      Orc_Archer_39: -1341234378454550542
-      Orc_Archer_4: 7374964647770681666
-      Orc_Archer_40: -4247562903016264321
-      Orc_Archer_41: -4490575210378169807
-      Orc_Archer_42: 6994545438449583279
-      Orc_Archer_43: 4556438624766576392
-      Orc_Archer_44: -7098534779990666543
-      Orc_Archer_45: 7756940541645320527
-      Orc_Archer_46: -47028363198596192
-      Orc_Archer_47: 7071807827555178108
-      Orc_Archer_48: 5873196906173826129
-      Orc_Archer_49: 8951051639891257747
-      Orc_Archer_5: 3491483097709271006
-      Orc_Archer_50: -2391976132178073446
-      Orc_Archer_51: -8314743198284430445
-      Orc_Archer_52: -5420483669587773762
-      Orc_Archer_53: -4472685850427761626
-      Orc_Archer_54: -4581103980010334217
-      Orc_Archer_55: 1560958662296007770
-      Orc_Archer_56: 9185035028849645170
-      Orc_Archer_57: -3927894685463848633
-      Orc_Archer_58: -2954634323060153875
-      Orc_Archer_59: -8192968578467919878
-      Orc_Archer_6: -987940971651575385
-      Orc_Archer_60: -6900572138239003155
-      Orc_Archer_61: 7245407901600672507
-      Orc_Archer_62: -3972283067634451843
-      Orc_Archer_63: 388479217335263305
-      Orc_Archer_7: -3832061489344622657
-      Orc_Archer_8: -2216508774725749775
-      Orc_Archer_9: 2290267161234346199
+      Orc_Archer_Attack_Down_0: 1383983679
+      Orc_Archer_Attack_Down_1: -650640821
+      Orc_Archer_Attack_Down_2: -1270253999
+      Orc_Archer_Attack_Down_3: -613095794
+      Orc_Archer_Attack_Down_4: 305101881
+      Orc_Archer_Attack_Down_5: -937451485
+      Orc_Archer_Attack_Side_0: -1602626356
+      Orc_Archer_Attack_Side_1: -1667437787
+      Orc_Archer_Attack_Side_2: -186534997
+      Orc_Archer_Attack_Side_3: 1550033672
+      Orc_Archer_Attack_Side_4: 870060999
+      Orc_Archer_Attack_Side_5: 480812643
+      Orc_Archer_Attack_Up_0: 1035930992
+      Orc_Archer_Attack_Up_1: 408034216
+      Orc_Archer_Attack_Up_2: -1513664672
+      Orc_Archer_Attack_Up_3: 1062866121
+      Orc_Archer_Attack_Up_4: -1255549175
+      Orc_Archer_Attack_Up_5: -1736347910
+      Orc_Archer_Death_0: 2125017762
+      Orc_Archer_Death_1: 1325431901
+      Orc_Archer_Death_2: -1934674162
+      Orc_Archer_Death_3: -434540543
+      Orc_Archer_Hurt_Down_0: -2023249635
+      Orc_Archer_Hurt_Down_1: 638312071
+      Orc_Archer_Hurt_Side_0: 1632789456
+      Orc_Archer_Hurt_Side_1: 409058900
+      Orc_Archer_Hurt_Up_0: 1409756448
+      Orc_Archer_Hurt_Up_1: 1909867974
+      Orc_Archer_Idle_Down_0: 1422818345
+      Orc_Archer_Idle_Down_1: -873916676
+      Orc_Archer_Idle_Down_2: 895025102
+      Orc_Archer_Idle_Down_3: 1058019352
+      Orc_Archer_Idle_Down_4: -1316091202
+      Orc_Archer_Idle_Down_5: 126731363
+      Orc_Archer_Idle_Side_0: 560355031
+      Orc_Archer_Idle_Side_1: -457345077
+      Orc_Archer_Idle_Side_2: -974919459
+      Orc_Archer_Idle_Side_3: -736193108
+      Orc_Archer_Idle_Side_4: 2079627727
+      Orc_Archer_Idle_Side_5: 1987313883
+      Orc_Archer_Idle_Up_0: 1504924718
+      Orc_Archer_Idle_Up_1: -746201210
+      Orc_Archer_Idle_Up_2: -260150557
+      Orc_Archer_Idle_Up_3: -708588294
+      Orc_Archer_Idle_Up_4: -376762986
+      Orc_Archer_Idle_Up_5: 79900601
+      Orc_Archer_Run_Down_0: -1240341576
+      Orc_Archer_Run_Down_1: 324077883
+      Orc_Archer_Run_Down_2: 651198107
+      Orc_Archer_Run_Down_3: -541685485
+      Orc_Archer_Run_Down_4: -1921726221
+      Orc_Archer_Run_Down_5: 1008445718
+      Orc_Archer_Run_Side_0: 575110002
+      Orc_Archer_Run_Side_1: -1640235947
+      Orc_Archer_Run_Side_2: 1577055956
+      Orc_Archer_Run_Side_3: -1460331941
+      Orc_Archer_Run_Side_4: 1457027395
+      Orc_Archer_Run_Side_5: -1069338416
+      Orc_Archer_Run_Up_0: -1389832031
+      Orc_Archer_Run_Up_1: 1293263279
+      Orc_Archer_Run_Up_2: -1957011671
+      Orc_Archer_Run_Up_3: -681688848
+      Orc_Archer_Run_Up_4: 898316343
+      Orc_Archer_Run_Up_5: 1561428997
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

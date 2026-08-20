@@ -216,7 +216,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -229,7 +229,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -243,7 +243,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -267,7 +267,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -318,1431 +318,1409 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Spearman_0
+      name: Spearman_Idle_Down_0
       rect:
         serializedVersion: 2
-        x: 14
+        x: 0
         y: 591
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 602e10d9f35052730800000000000000
-      internalID: 3973588016999555590
+      spriteID: 7e32879df88bc034ea22ced59aec7eb8
+      internalID: -930352079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_1
+      name: Spearman_Idle_Down_1
       rect:
         serializedVersion: 2
-        x: 62
-        y: 590
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea3844a8a8a021b00800000000000000
-      internalID: 797711674139509678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_2
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 590
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a59e98153b8dd4c60800000000000000
-      internalID: 7804131993981675866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_3
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 590
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d67ebd627be0ab090800000000000000
-      internalID: -8018080006785996947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_4
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 590
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98184730526e038a0800000000000000
-      internalID: -6327304429809401463
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_5
-      rect:
-        serializedVersion: 2
-        x: 254
+        x: 48
         y: 591
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 66d05cd09616814b0800000000000000
-      internalID: -5469514643610989210
+      spriteID: 0acf6b3f24b93c144ad26b96dea79fe4
+      internalID: 109751282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_6
+      name: Spearman_Idle_Down_2
       rect:
         serializedVersion: 2
-        x: 15
+        x: 96
+        y: 591
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074ceb624641e9b4ca1952fd840f985c
+      internalID: -1625733897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Idle_Down_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 591
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75951985bb394e840853f8208e5f0988
+      internalID: 616025600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Idle_Down_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 591
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa16ceedf4bffe46b6402c2e5ebe1b0
+      internalID: 1554589727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Idle_Down_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 591
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445e9fe2381c4484bb05acf3e84c6ea7
+      internalID: -124684473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Idle_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 543
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7410e87af42206600800000000000000
-      internalID: 459404887500652871
+      spriteID: ecbe4ba68d6b5fd42ae253b830cdf9c5
+      internalID: 1308905330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_7
+      name: Spearman_Idle_Side_1
       rect:
         serializedVersion: 2
-        x: 63
-        y: 542
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c4b01f5a03876cc0800000000000000
-      internalID: -3717858886803213111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_8
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 542
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85be828574f3d8f30800000000000000
-      internalID: 4579385971759967064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_9
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 542
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62d1a510783c7eed0800000000000000
-      internalID: -2384722493058704090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_10
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 542
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c49ad036d5c626f0800000000000000
-      internalID: -709662367530969920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_11
-      rect:
-        serializedVersion: 2
-        x: 255
+        x: 48
         y: 543
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 55310eeade6bc5d60800000000000000
-      internalID: 7880374579948950357
+      spriteID: 2f1610e1fc70d5846ae4892933e4e03d
+      internalID: -768696404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_12
+      name: Spearman_Idle_Side_2
       rect:
         serializedVersion: 2
-        x: 16
+        x: 96
+        y: 543
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbd51cc25e4639459526b9d9ecf3222
+      internalID: -1599691591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Idle_Side_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 543
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec60d74cd2445f94d971a25670e79ebb
+      internalID: -617388309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Idle_Side_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 543
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692c82a39b67125439ebf3acffce31a5
+      internalID: 493645774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Idle_Side_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 543
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4acee57d5ac244191ab225df80b470
+      internalID: 1746444223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Idle_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 495
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 93edf0839142e0c90800000000000000
-      internalID: -7201779063385498055
+      spriteID: c3ad5835b91499e4a9fa0b0ce8d4c248
+      internalID: -842072243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_13
+      name: Spearman_Idle_Up_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 494
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b952e0e291d12960800000000000000
-      internalID: 7575566476982245813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_14
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 494
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6484bdcdeb5384e00800000000000000
-      internalID: 1029131608719575110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_15
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 494
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc1e86863e59ffef0800000000000000
-      internalID: -72174265072819765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_16
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 494
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb69066e77a315ef0800000000000000
-      internalID: -121251428321683780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_17
-      rect:
-        serializedVersion: 2
-        x: 256
+        x: 48
         y: 495
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f675649d7ddf0ff30800000000000000
-      internalID: 4607461522305079151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_18
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 447
-        width: 17
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 611927429c8002db0800000000000000
-      internalID: -4818841941293493994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_19
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 447
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f0c6506091caf010800000000000000
-      internalID: 1223503074620260598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_20
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 447
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ac9e54e300dc66e0800000000000000
-      internalID: -1842869432366490460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_21
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 447
-        width: 17
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a0ed8f6d60bdb1d0800000000000000
-      internalID: -3333314165114806108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_22
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 447
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70a20d5c6ec355de0800000000000000
-      internalID: -1345101951841326585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_23
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 447
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3e78dbe36a2e5f8c0800000000000000
-      internalID: -3966014693184796701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_24
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 399
-        width: 16
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ec45972ba95f8bf0800000000000000
-      internalID: -319938456881640222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_25
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 399
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c314b88e2888051a0800000000000000
-      internalID: -6822803339637735108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_26
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 399
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9e40ff79d7311380800000000000000
-      internalID: -9002352772843024741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_27
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 399
-        width: 16
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a1c8426cd7199de0800000000000000
-      internalID: -1326002379974721119
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_28
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 399
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ea986b76ac49c520800000000000000
-      internalID: 2722791727640910569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_29
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 399
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2e3808fc7e282fb0800000000000000
-      internalID: -4672433499124777429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_30
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 351
-        width: 18
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 271cb1107d9f792c0800000000000000
-      internalID: -4424793407036341902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_31
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 351
-        width: 18
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 574997ec11a2aa370800000000000000
-      internalID: 8334520316369409141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_32
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 351
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fc8256a0371039070800000000000000
-      internalID: 8111828947431663823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_33
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 351
-        width: 18
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 352f4b2c9bda41540800000000000000
-      internalID: 4977794501498434131
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_34
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 351
-        width: 18
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4bb703e8d24325920800000000000000
-      internalID: 2977499673909033908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_35
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 351
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55cd3a6bf2223f8f0800000000000000
-      internalID: -508024744639734699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_36
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 303
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d0b2a83acbc3440c0800000000000000
-      internalID: -4592478939115803891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_37
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 302
-        width: 19
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4b9e4903ca90b8e0800000000000000
-      internalID: -1679672498543748273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_38
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 292
-        width: 19
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3931ed5ac1a746ca0800000000000000
-      internalID: -6024556138054413421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_39
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 292
-        width: 19
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70e3fbb4855dbc5b0800000000000000
-      internalID: -5346945557367669241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_40
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 294
-        width: 19
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1f13d49e14e01e60800000000000000
-      internalID: 7931089763796459291
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_41
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 303
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 67122f02365082990800000000000000
-      internalID: -7410667263525510794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_42
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 255
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2eb285b9c50690e10800000000000000
-      internalID: 2164367046787738594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_43
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 255
-        width: 18
+        width: 48
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3c4df3caeaa3b2020800000000000000
-      internalID: 2318010955100837059
+      spriteID: 9043b0bef2bb30b40bb720642660993d
+      internalID: 897932389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_44
+      name: Spearman_Idle_Up_2
       rect:
         serializedVersion: 2
-        x: 113
-        y: 255
-        width: 31
+        x: 96
+        y: 495
+        width: 48
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0751bb2a5f3e24780800000000000000
-      internalID: -8700140885989714576
+      spriteID: 1ba9ee7c8ebe0a64a8c635d77b8131b5
+      internalID: -1866904954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_45
+      name: Spearman_Idle_Up_3
       rect:
         serializedVersion: 2
-        x: 161
-        y: 255
-        width: 32
+        x: 144
+        y: 495
+        width: 48
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5d525f540a065b1e0800000000000000
-      internalID: -2182732202906409515
+      spriteID: 795ddfdc3801e154dadd74ddd140adf3
+      internalID: 724497693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_46
+      name: Spearman_Idle_Up_4
       rect:
         serializedVersion: 2
-        x: 205
-        y: 255
-        width: 20
+        x: 192
+        y: 495
+        width: 48
         height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08929385b9e56ba60800000000000000
-      internalID: 7689437435074783616
+      spriteID: 054122689c066e34ba15bf266c6ab373
+      internalID: 1494216038
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_47
+      name: Spearman_Idle_Up_5
       rect:
         serializedVersion: 2
-        x: 223
+        x: 240
+        y: 495
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c431c0a21a7199f4a84474bea42b9e09
+      internalID: -292805752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8a34f65feec9b4f912b5d785a217c8
+      internalID: 894023594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Down_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5e9b9d588857740b74a1e54e8e8058
+      internalID: -1985105303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Down_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648c0bf7c04f63d49bebfe52c3a0ee9f
+      internalID: 519341373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Down_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b160a2924a27db44bb8661e84061a92
+      internalID: -990500775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Down_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5331f278ff99e4998f302c62468737
+      internalID: 2076188759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Down_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 448
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b369267724d08a4084631563a4f3f06
+      internalID: 1593368449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d26f4c85ba53ed4ba1aa909b9666238
+      internalID: 1438300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Side_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659c6bc77e818a44a28893fd6d2a861
+      internalID: 143077058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Side_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf02e110c2cd51640879ccbbc59f830b
+      internalID: 764479774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Side_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc101ed83ea62af4a964df529145d1ca
+      internalID: -216156088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Side_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd7076bcf58e7943b2fdc53b5c5952d
+      internalID: 1646453610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Side_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e26ebc2896d384f844a2ee7877d108
+      internalID: -2044864740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6323e0268d2ffa04eb383aa4bf402852
+      internalID: 1492709116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Up_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c1548c223a35840baf1fd7ed444ee0
+      internalID: -1596578328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Up_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e7bf03d300013408ce16cb743a498f
+      internalID: -406893908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Up_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc30a195ac9a35d4f991acde2e8c57ca
+      internalID: 1471610202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Up_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002606ea8f001a9469f2d2016ca2442c
+      internalID: -1942614566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Run_Up_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 352
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb3877879344af46a7a52ae87909809
+      internalID: -956059870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Attack_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70428243d1c724aa8f2f4b0de462b0
+      internalID: 1893394206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Attack_Down_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 293
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a2fc008d8596c49a9b3698f2f9f5b8
+      internalID: -369775423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Attack_Down_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 293
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee878eb33468b6f4ba665bdae13d4047
+      internalID: -757066308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Attack_Down_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 293
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de686604d681c74cb428327c9f49cc9
+      internalID: -1461119985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Attack_Down_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 293
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258dc81823465784da68d6c3d971536a
+      internalID: -1618282981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Attack_Down_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 293
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448dcc4f337d1324196a6c1df12f4df8
+      internalID: -1344712740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Attack_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 256
-        width: 16
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b2dec85c72ef1510800000000000000
-      internalID: 1522184222768288440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_48
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 255
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e83e1d94444e2410800000000000000
-      internalID: 1454174791171717351
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_49
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 207
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d54df62aae144e510800000000000000
-      internalID: 1577458245489906781
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_50
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 206
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0016a1218deab6380800000000000000
-      internalID: -8976889189193064192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_51
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 207
-        width: 18
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 775281731cd03ec00800000000000000
-      internalID: 928601071672632695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_52
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 207
-        width: 18
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab5fa9fb167fcaa80800000000000000
-      internalID: -8454110401282771526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_53
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 206
-        width: 18
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfb93ad05b7031810800000000000000
-      internalID: 1734738755667074044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_54
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 207
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8a070b3640b18f830800000000000000
-      internalID: 4105060766014533800
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_55
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 159
-        width: 14
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac8614b46eedce5d0800000000000000
-      internalID: -3031803368440764214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spearman_56
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 159
-        width: 16
+        width: 48
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 47238fc824f7a78d0800000000000000
-      internalID: -2847823890548772236
+      spriteID: 73bed6ff86eca7e4d8e03a151b6c4134
+      internalID: 382292744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_57
+      name: Spearman_Attack_Side_1
       rect:
         serializedVersion: 2
-        x: 113
-        y: 159
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 256
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b91f45cd13d195870800000000000000
-      internalID: 8671994657465758107
+      spriteID: 711ad496d925d444ea46fd9d1bddb131
+      internalID: 948656360
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_58
+      name: Spearman_Attack_Side_2
       rect:
         serializedVersion: 2
-        x: 161
-        y: 159
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 256
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8ac98c501a7ee4c80800000000000000
-      internalID: -8336471181443425112
+      spriteID: b41d97dab47a6d24aaa890ff37eb1a8d
+      internalID: 1939568203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_59
+      name: Spearman_Attack_Side_3
       rect:
         serializedVersion: 2
-        x: 14
-        y: 111
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 144
+        y: 256
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b163beabed2eafe40800000000000000
-      internalID: 5691110525382637083
+      spriteID: d464b2e69aed2814f9dc7626b0ea927e
+      internalID: -1699739679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_60
+      name: Spearman_Attack_Side_4
       rect:
         serializedVersion: 2
-        x: 62
-        y: 111
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 256
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5f6c1bc3a0b5d1ff0800000000000000
-      internalID: -63794720187234571
+      spriteID: abdb27c7f550b3e45a326c2b3d7a535d
+      internalID: -589837170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_61
+      name: Spearman_Attack_Side_5
       rect:
         serializedVersion: 2
-        x: 15
-        y: 63
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 240
+        y: 256
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3de0563f0dd2e7720800000000000000
-      internalID: 2845762390004666067
+      spriteID: 13feea477472c03428af8ac481d162ff
+      internalID: 309946212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_62
+      name: Spearman_Attack_Up_0
       rect:
         serializedVersion: 2
-        x: 63
-        y: 63
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 207
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6155a60f1d484bf00800000000000000
-      internalID: 1131675443593368854
+      spriteID: fe45e8bb64c388f489b181cded621217
+      internalID: 2099916473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_63
+      name: Spearman_Attack_Up_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 15
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 207
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5e2e6c5f6bdd803d0800000000000000
-      internalID: -3240096154015833371
+      spriteID: e9b07109ab3914e48b1af4d49abef489
+      internalID: 1557067118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spearman_64
+      name: Spearman_Attack_Up_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 15
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 207
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a65c423e0c4c7f3a0800000000000000
-      internalID: -6631615593556163222
+      spriteID: 43116cf910633e74ea912b8ed8432184
+      internalID: 1474824451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Attack_Up_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 207
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341d35a8dd13b4a46aca7213dee520cc
+      internalID: -695192354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Attack_Up_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 207
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3895a5643476d4199c086ccd737c3f
+      internalID: 2002594830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Attack_Up_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 207
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c1aea7cac6b354883d42c7140097c1
+      internalID: -1970940723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac26ff56f3aca0f43aefd6d86ef3a1a9
+      internalID: -1765400724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Death_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dc8c2be5e7f8544aadfbcc9fd45b20
+      internalID: 731162366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Death_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e72cd7e4c00d64ca07decf37c456c2
+      internalID: 713568701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Death_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcee8d5ee36387346a6c0dd3a1157477
+      internalID: -1855122189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Hurt_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaad65bc03bb44f47ab24be8e04d345d
+      internalID: 2030800885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Hurt_Down_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5978b96b4031db74a80ec4592283a43f
+      internalID: 792664077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Hurt_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb633b22ad493004aadb45c146c0bfcb
+      internalID: -904090041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Hurt_Side_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec934f129051304da4ed2d3303857ce
+      internalID: 1615311901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Hurt_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b716a998d8daca64a80e9816e3df7a72
+      internalID: 1424284374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearman_Hurt_Up_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8b72aea77f0524ea4841c0fce8ca45
+      internalID: -865102550
       vertices: []
       indices: 
       edges: []
@@ -1751,7 +1729,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 43b80feb47a4b464eb2aefc968c9a758
     internalID: 0
     vertices: []
     indices: 
@@ -1761,71 +1739,70 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Spearman_0: 3973588016999555590
-      Spearman_1: 797711674139509678
-      Spearman_10: -709662367530969920
-      Spearman_11: 7880374579948950357
-      Spearman_12: -7201779063385498055
-      Spearman_13: 7575566476982245813
-      Spearman_14: 1029131608719575110
-      Spearman_15: -72174265072819765
-      Spearman_16: -121251428321683780
-      Spearman_17: 4607461522305079151
-      Spearman_18: -4818841941293493994
-      Spearman_19: 1223503074620260598
-      Spearman_2: 7804131993981675866
-      Spearman_20: -1842869432366490460
-      Spearman_21: -3333314165114806108
-      Spearman_22: -1345101951841326585
-      Spearman_23: -3966014693184796701
-      Spearman_24: -319938456881640222
-      Spearman_25: -6822803339637735108
-      Spearman_26: -9002352772843024741
-      Spearman_27: -1326002379974721119
-      Spearman_28: 2722791727640910569
-      Spearman_29: -4672433499124777429
-      Spearman_3: -8018080006785996947
-      Spearman_30: -4424793407036341902
-      Spearman_31: 8334520316369409141
-      Spearman_32: 8111828947431663823
-      Spearman_33: 4977794501498434131
-      Spearman_34: 2977499673909033908
-      Spearman_35: -508024744639734699
-      Spearman_36: -4592478939115803891
-      Spearman_37: -1679672498543748273
-      Spearman_38: -6024556138054413421
-      Spearman_39: -5346945557367669241
-      Spearman_4: -6327304429809401463
-      Spearman_40: 7931089763796459291
-      Spearman_41: -7410667263525510794
-      Spearman_42: 2164367046787738594
-      Spearman_43: 2318010955100837059
-      Spearman_44: -8700140885989714576
-      Spearman_45: -2182732202906409515
-      Spearman_46: 7689437435074783616
-      Spearman_47: 1522184222768288440
-      Spearman_48: 1454174791171717351
-      Spearman_49: 1577458245489906781
-      Spearman_5: -5469514643610989210
-      Spearman_50: -8976889189193064192
-      Spearman_51: 928601071672632695
-      Spearman_52: -8454110401282771526
-      Spearman_53: 1734738755667074044
-      Spearman_54: 4105060766014533800
-      Spearman_55: -3031803368440764214
-      Spearman_56: -2847823890548772236
-      Spearman_57: 8671994657465758107
-      Spearman_58: -8336471181443425112
-      Spearman_59: 5691110525382637083
-      Spearman_6: 459404887500652871
-      Spearman_60: -63794720187234571
-      Spearman_61: 2845762390004666067
-      Spearman_62: 1131675443593368854
-      Spearman_63: -3240096154015833371
-      Spearman_64: -6631615593556163222
-      Spearman_7: -3717858886803213111
-      Spearman_8: 4579385971759967064
-      Spearman_9: -2384722493058704090
+      Spearman_Attack_Down_0: 1893394206
+      Spearman_Attack_Down_1: -369775423
+      Spearman_Attack_Down_2: -757066308
+      Spearman_Attack_Down_3: -1461119985
+      Spearman_Attack_Down_4: -1618282981
+      Spearman_Attack_Down_5: -1344712740
+      Spearman_Attack_Side_0: 382292744
+      Spearman_Attack_Side_1: 948656360
+      Spearman_Attack_Side_2: 1939568203
+      Spearman_Attack_Side_3: -1699739679
+      Spearman_Attack_Side_4: -589837170
+      Spearman_Attack_Side_5: 309946212
+      Spearman_Attack_Up_0: 2099916473
+      Spearman_Attack_Up_1: 1557067118
+      Spearman_Attack_Up_2: 1474824451
+      Spearman_Attack_Up_3: -695192354
+      Spearman_Attack_Up_4: 2002594830
+      Spearman_Attack_Up_5: -1970940723
+      Spearman_Death_0: -1765400724
+      Spearman_Death_1: 731162366
+      Spearman_Death_2: 713568701
+      Spearman_Death_3: -1855122189
+      Spearman_Hurt_Down_0: 2030800885
+      Spearman_Hurt_Down_1: 792664077
+      Spearman_Hurt_Side_0: -904090041
+      Spearman_Hurt_Side_1: 1615311901
+      Spearman_Hurt_Up_0: 1424284374
+      Spearman_Hurt_Up_1: -865102550
+      Spearman_Idle_Down_0: -930352079
+      Spearman_Idle_Down_1: 109751282
+      Spearman_Idle_Down_2: -1625733897
+      Spearman_Idle_Down_3: 616025600
+      Spearman_Idle_Down_4: 1554589727
+      Spearman_Idle_Down_5: -124684473
+      Spearman_Idle_Side_0: 1308905330
+      Spearman_Idle_Side_1: -768696404
+      Spearman_Idle_Side_2: -1599691591
+      Spearman_Idle_Side_3: -617388309
+      Spearman_Idle_Side_4: 493645774
+      Spearman_Idle_Side_5: 1746444223
+      Spearman_Idle_Up_0: -842072243
+      Spearman_Idle_Up_1: 897932389
+      Spearman_Idle_Up_2: -1866904954
+      Spearman_Idle_Up_3: 724497693
+      Spearman_Idle_Up_4: 1494216038
+      Spearman_Idle_Up_5: -292805752
+      Spearman_Run_Down_0: 894023594
+      Spearman_Run_Down_1: -1985105303
+      Spearman_Run_Down_2: 519341373
+      Spearman_Run_Down_3: -990500775
+      Spearman_Run_Down_4: 2076188759
+      Spearman_Run_Down_5: 1593368449
+      Spearman_Run_Side_0: 1438300430
+      Spearman_Run_Side_1: 143077058
+      Spearman_Run_Side_2: 764479774
+      Spearman_Run_Side_3: -216156088
+      Spearman_Run_Side_4: 1646453610
+      Spearman_Run_Side_5: -2044864740
+      Spearman_Run_Up_0: 1492709116
+      Spearman_Run_Up_1: -1596578328
+      Spearman_Run_Up_2: -406893908
+      Spearman_Run_Up_3: 1471610202
+      Spearman_Run_Up_4: -1942614566
+      Spearman_Run_Up_5: -956059870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

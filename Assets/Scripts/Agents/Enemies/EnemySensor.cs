@@ -71,10 +71,8 @@ namespace Agents.Enemies
             for (int i = 0; i < count; i++)
             {
                 GameObject candidate = ColliderResults[i].gameObject;
-                
-                float distance = Vector2.Distance(candidate.transform.position, transform.position);
 
-                if (IsTargetVisible(candidate, distance))
+                if (IsTargetVisible(candidate))
                 {
                     target = candidate;
                     return true;
@@ -85,14 +83,12 @@ namespace Agents.Enemies
         }
 
         // 타겟까지 obstacle에 해당하는 장애물이 있는지 체크하는거
-        private bool IsTargetVisible(GameObject target, float distance)
+        private bool IsTargetVisible(GameObject target)
         {
             if (target == null) return false;
             Vector2 origin = transform.position;
             Vector2 targetPosition = target.transform.position;
-            
-            if((targetPosition - origin).sqrMagnitude > distance * distance) return false;
-            
+
             RaycastHit2D hit = Physics2D.Linecast(origin, targetPosition, obstacleMask);
             return !hit;
         }

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1541836770821894584}
   - component: {fileID: 5886200294357669578}
-  - component: {fileID: 937482534919331791}
+  - component: {fileID: 5763194854957729635}
   m_Layer: 0
   m_Name: AgentMover
   m_TagString: Untagged
@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::_01.Script.Agents.AgentMover
   moveSpeed: 10
---- !u!70 &937482534919331791
+--- !u!70 &5763194854957729635
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -81,5 +81,5 @@ CapsuleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.4, y: 0.2}
+  m_Size: {x: 0.4, y: 0.13}
   m_Direction: 1

@@ -195,7 +195,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -208,7 +208,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -222,7 +222,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -246,7 +246,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -297,1277 +297,1277 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Goblin_Spearman_0
+      name: Goblin_Spearman_Idle_Down_0
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 589
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e9c59e50e6a663c00800000000000000
-      internalID: 880007797975637150
+      spriteID: c9338284946b90f4bad56731e54b608c
+      internalID: 1243134780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_1
+      name: Goblin_Spearman_Idle_Down_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 588
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cffe2410233464240800000000000000
-      internalID: 4775578336921579516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_2
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 588
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 156a4bccbe480b170800000000000000
-      internalID: 8192193870473504337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_3
-      rect:
-        serializedVersion: 2
-        x: 160
+        x: 48
         y: 589
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8a50c8d1bfbc17400800000000000000
-      internalID: 320261327912961448
+      spriteID: 1de7f15802c1c4b4abe69db186728479
+      internalID: 568877974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_4
+      name: Goblin_Spearman_Idle_Down_2
       rect:
         serializedVersion: 2
-        x: 17
+        x: 96
+        y: 589
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ffd4b8c02a82947bfbab19f928e88e
+      internalID: 737505451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Idle_Down_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 589
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1289ea5bfb23746afba62c82be0e21
+      internalID: 354223518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Idle_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 541
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 79d9e33c73a2b4d70800000000000000
-      internalID: 9028356296981519767
+      spriteID: 5dbdb86e3fbccaa4b9127b63821a5445
+      internalID: 1583747071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_5
+      name: Goblin_Spearman_Idle_Side_1
       rect:
         serializedVersion: 2
-        x: 65
-        y: 540
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e05d8b32c799b8d70800000000000000
-      internalID: 9046493034958083342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_6
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 540
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58d00a5e2b6c34b20800000000000000
-      internalID: 3117553838729465221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_7
-      rect:
-        serializedVersion: 2
-        x: 161
+        x: 48
         y: 541
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7df1e48f2cae5add0800000000000000
-      internalID: -2475314297059794985
+      spriteID: d935f97527800ac42a4082696d44d7fc
+      internalID: 163882863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_8
+      name: Goblin_Spearman_Idle_Side_2
       rect:
         serializedVersion: 2
-        x: 16
+        x: 96
+        y: 541
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f551d048672ffa44b271345bf9582bc
+      internalID: 1103416591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Idle_Side_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 541
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd1aa94837a70946bad1c44fd1420a2
+      internalID: -373040408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Idle_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 493
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 52f269117aaee7b30800000000000000
-      internalID: 4287121898578784037
+      spriteID: 0de86837cce09ec4189d886d70066877
+      internalID: 500063906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_9
+      name: Goblin_Spearman_Idle_Up_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 492
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5b188fae604a4bc0800000000000000
-      internalID: -3798152491598079137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_10
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 492
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ea700d24089310f0800000000000000
-      internalID: -1147406336347047197
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_11
-      rect:
-        serializedVersion: 2
-        x: 160
+        x: 48
         y: 493
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 355231011ad288d70800000000000000
-      internalID: 9045530021356315987
+      spriteID: 6e8500fe3b500fb4fa8ab9da47a271a1
+      internalID: 1010900537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_12
+      name: Goblin_Spearman_Idle_Up_2
       rect:
         serializedVersion: 2
-        x: 16
-        y: 447
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 493
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cc978e61a6d72d3a0800000000000000
-      internalID: -6642108605813720628
+      spriteID: 90a1fed6534a9cd41809b1981a546b19
+      internalID: 1519438649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_13
+      name: Goblin_Spearman_Idle_Up_3
       rect:
         serializedVersion: 2
-        x: 64
-        y: 446
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 144
+        y: 493
+        width: 48
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5b4142d0b2141fe10800000000000000
-      internalID: 2229634943684973749
+      spriteID: 9e2780ebd5b21dc4d9b51cef5055fa29
+      internalID: -1035848798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_14
+      name: Goblin_Spearman_Run_Down_0
       rect:
         serializedVersion: 2
-        x: 112
-        y: 444
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7dcf53f0ce2f6cd40800000000000000
-      internalID: 5604433881990560983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_15
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 447
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b9e71fea39ae8a70800000000000000
-      internalID: 8831181989904640440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_16
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 446
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50e591628debaa7d0800000000000000
-      internalID: -2906300773952823803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_17
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 444
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37c5a39eb55146110800000000000000
-      internalID: 1253150080814963827
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_18
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 399
-        width: 15
+        x: 0
+        y: 445
+        width: 48
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3322f87e817fbe100800000000000000
-      internalID: 138475899901125171
+      spriteID: 4e6a779e3b9ed334c9d371ac39531b8d
+      internalID: -393684575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_19
+      name: Goblin_Spearman_Run_Down_1
       rect:
         serializedVersion: 2
-        x: 65
-        y: 399
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 130cf5d3513174f90800000000000000
-      internalID: -6969580916387626959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_20
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 397
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4cf448fec66a4d8c0800000000000000
-      internalID: -3975369584256200764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_21
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 399
-        width: 15
+        x: 48
+        y: 445
+        width: 48
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8d19e52325dc4e640800000000000000
-      internalID: 5108433630261055960
+      spriteID: 2e18247e4e61a0641849dc8f3b36c8f1
+      internalID: -503748728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_22
+      name: Goblin_Spearman_Run_Down_2
       rect:
         serializedVersion: 2
-        x: 209
-        y: 399
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37a92b33158151140800000000000000
-      internalID: 4689681324015000179
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_23
-      rect:
-        serializedVersion: 2
-        x: 257
-        y: 397
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae0251b5a43feb440800000000000000
-      internalID: 4953664140835365098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_24
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 351
-        width: 16
+        x: 96
+        y: 445
+        width: 48
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 182dbd758a43796d0800000000000000
-      internalID: -2983858330476490111
+      spriteID: 3a98e3e650ee8ad4dae876bfa8c61c6a
+      internalID: 1543412339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_25
+      name: Goblin_Spearman_Run_Down_3
       rect:
         serializedVersion: 2
-        x: 64
+        x: 144
+        y: 445
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b2329ab823984dbaa9172fb53439c
+      internalID: -974233736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Run_Down_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 445
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebccd7a919ab8b439ae0472852d447d
+      internalID: -503551494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Run_Down_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 445
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c581ee0ff60aa3f48869f385d2795456
+      internalID: -1096893755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Run_Side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7d2fca1e9a56f41bcb88d64fa2635d
+      internalID: 47221486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Run_Side_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 398
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd2bc1ecdf090349bdf9ed82ec3e1ac
+      internalID: -763412562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Run_Side_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 398
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf78aaffb5e924428023beda4aa80dd
+      internalID: 1658645125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Run_Side_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 398
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd18e3ec11882e742ba7c56e9647437f
+      internalID: -2119632675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Run_Side_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 398
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a7696a98e2fff4c9dc91fda942ccc8
+      internalID: 2070511176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Run_Side_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 398
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21aaa2876dfd4849a41782ca4a64b26
+      internalID: -1073187835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Run_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 350
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e717f0e470b5fcd0800000000000000
-      internalID: -2524918000034310169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_26
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 349
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 187ff089f6144dbb0800000000000000
-      internalID: -4912229346006009983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_Spearman_27
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 351
-        width: 16
+        width: 48
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1d96e314b97e412e0800000000000000
-      internalID: -2155843667603068463
+      spriteID: c47f85a4b9ebf6a419dad9846b9f814d
+      internalID: -1076994522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_28
+      name: Goblin_Spearman_Run_Up_1
       rect:
         serializedVersion: 2
-        x: 208
+        x: 48
         y: 350
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b044148faf8f6ebb0800000000000000
-      internalID: -4906960987183037429
+      spriteID: e1acdbedb688e644490ef58a0cb12ecc
+      internalID: -1194297323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_29
+      name: Goblin_Spearman_Run_Up_2
       rect:
         serializedVersion: 2
-        x: 256
-        y: 349
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 350
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a6c21cb96ba2ecc00800000000000000
-      internalID: 922721937443073130
+      spriteID: 111fff15b58a09b4d845c4ea26083ce8
+      internalID: -811769395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_30
+      name: Goblin_Spearman_Run_Up_3
       rect:
         serializedVersion: 2
-        x: 16
-        y: 301
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 144
+        y: 350
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 34c6a81310c859b50800000000000000
-      internalID: 6599334765735341123
+      spriteID: 0e39dfe72eed95946b25921a65b6f7af
+      internalID: 1947792002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_31
+      name: Goblin_Spearman_Run_Up_4
       rect:
         serializedVersion: 2
-        x: 63
-        y: 298
-        width: 17
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 350
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 15fab7e3bb6326c80800000000000000
-      internalID: -8331036182846918831
+      spriteID: c67a954b317042b4aa5bc6c328e197bf
+      internalID: -1671153950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_32
+      name: Goblin_Spearman_Run_Up_5
       rect:
         serializedVersion: 2
-        x: 112
-        y: 290
-        width: 16
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 240
+        y: 350
+        width: 48
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c17ff86055bab2ea0800000000000000
-      internalID: -5896430905440864484
+      spriteID: 8d8f54c3b2b7da24daf69a2dcb359910
+      internalID: 90891721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_33
+      name: Goblin_Spearman_Attack_Down_0
       rect:
         serializedVersion: 2
-        x: 160
+        x: 0
         y: 291
-        width: 16
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f4bdef00817761ff0800000000000000
-      internalID: -65734199570670769
+      spriteID: 3909148e5c7e1c645b4ece907a5f99e3
+      internalID: -900074034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_34
+      name: Goblin_Spearman_Attack_Down_1
       rect:
         serializedVersion: 2
-        x: 208
+        x: 48
         y: 291
-        width: 16
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6a47f777bbec1e830800000000000000
-      internalID: 4098784440442909862
+      spriteID: 16109be15d21a09469363154237d1ad1
+      internalID: 199074138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_35
+      name: Goblin_Spearman_Attack_Down_2
       rect:
         serializedVersion: 2
-        x: 256
-        y: 301
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 291
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 352f35f7d47f63280800000000000000
-      internalID: -9063785287815794093
+      spriteID: d899c3b57ab30514085183d1fd90d6cb
+      internalID: -1603635677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_36
+      name: Goblin_Spearman_Attack_Down_3
       rect:
         serializedVersion: 2
-        x: 17
-        y: 253
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 144
+        y: 291
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2c3e80a34ef1f22e0800000000000000
-      internalID: -2148463432145771582
+      spriteID: 72a16026ce08d9e4c8c7db61bc83dfdb
+      internalID: 2045693002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_37
+      name: Goblin_Spearman_Attack_Down_4
       rect:
         serializedVersion: 2
-        x: 65
-        y: 253
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 291
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7b9258d2d670d23d0800000000000000
-      internalID: -3229917192258246217
+      spriteID: b7a5d2cbbeb706d459fa5af3bd1c6289
+      internalID: 121321956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_38
+      name: Goblin_Spearman_Attack_Down_5
       rect:
         serializedVersion: 2
-        x: 109
-        y: 255
-        width: 31
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 240
+        y: 291
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1030ecad7af617630800000000000000
-      internalID: 3923039517137568513
+      spriteID: b3de5b65d23ebdb44a009e710684bebb
+      internalID: 475631126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_39
+      name: Goblin_Spearman_Attack_Side_0
       rect:
         serializedVersion: 2
-        x: 156
-        y: 255
-        width: 31
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 254
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e05745b0a25cee40800000000000000
-      internalID: 5687011279651688678
+      spriteID: 7f8cbc0b57928604fa1aff25490e9d99
+      internalID: -480493646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_40
+      name: Goblin_Spearman_Attack_Side_1
       rect:
         serializedVersion: 2
-        x: 204
-        y: 255
-        width: 30
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 254
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2f41b2e38c12d9d90800000000000000
-      internalID: -7089473094491106062
+      spriteID: f615e5e096496824e87e0909aa784871
+      internalID: -504272621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_41
+      name: Goblin_Spearman_Attack_Side_2
       rect:
         serializedVersion: 2
-        x: 257
-        y: 253
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 254
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 993e738b12b4a98b0800000000000000
-      internalID: -5144717016120695911
+      spriteID: 02124311e599427449ca1d3e34de5871
+      internalID: 2084263479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_42
+      name: Goblin_Spearman_Attack_Side_3
       rect:
         serializedVersion: 2
-        x: 16
-        y: 205
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 144
+        y: 254
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b4e56d221786b0090800000000000000
-      internalID: -8067239472379044277
+      spriteID: 01caab621293c1345b47eeb30e1d40fb
+      internalID: -596683411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_43
+      name: Goblin_Spearman_Attack_Side_4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 203
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 254
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 386290de7ad0829e0800000000000000
-      internalID: -1646050648916416893
+      spriteID: 4613488b33b8f87458f45f762b0686f8
+      internalID: 16933338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_44
+      name: Goblin_Spearman_Attack_Side_5
       rect:
         serializedVersion: 2
-        x: 112
-        y: 206
-        width: 16
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 240
+        y: 254
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 497e3620202c472a0800000000000000
-      internalID: -6740549428380964972
+      spriteID: bc96dddcd938afd46ba9d04044a27be5
+      internalID: -641740136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_45
+      name: Goblin_Spearman_Attack_Up_0
       rect:
         serializedVersion: 2
-        x: 160
-        y: 205
-        width: 16
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 204
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 939d65a0bdf2cb400800000000000000
-      internalID: 341200289591122233
+      spriteID: eae7c7bdd11aa0e44b6495a40fdc358a
+      internalID: -1210365851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_46
+      name: Goblin_Spearman_Attack_Up_1
       rect:
         serializedVersion: 2
-        x: 208
-        y: 205
-        width: 16
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 204
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5440dac8795cc4de0800000000000000
-      internalID: -1347484933799738299
+      spriteID: a151847de1efa9049bcc24f16612250e
+      internalID: -1283611667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_47
+      name: Goblin_Spearman_Attack_Up_2
       rect:
         serializedVersion: 2
-        x: 256
-        y: 205
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 204
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3f9786c40ebecda20800000000000000
-      internalID: 3088602793056434675
+      spriteID: 6f2796f6522039241b384c5694e3ed5e
+      internalID: -683565252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_48
+      name: Goblin_Spearman_Attack_Up_3
       rect:
         serializedVersion: 2
-        x: 17
-        y: 159
-        width: 15
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 144
+        y: 204
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6af6933d929013430800000000000000
-      internalID: 3760797239073140646
+      spriteID: 9569afcee293eb045aadce259d63e8d5
+      internalID: -46195999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_49
+      name: Goblin_Spearman_Attack_Up_4
       rect:
         serializedVersion: 2
-        x: 65
-        y: 159
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 204
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 646a9959ae5430c40800000000000000
-      internalID: 5477298445647193670
+      spriteID: 6fd9dd96cf61f3347a351692d97d8203
+      internalID: 2070512791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_50
+      name: Goblin_Spearman_Attack_Up_5
       rect:
         serializedVersion: 2
-        x: 113
-        y: 159
-        width: 19
+        x: 240
+        y: 204
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef4310aa7299384ba9a17e21c62a37f
+      internalID: -1354260615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 48
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4ab5a5c4f96641de0800000000000000
-      internalID: -1363351952819594332
+      spriteID: 5ea4f986bc69d6340829249d8e598fb4
+      internalID: 1324512920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_51
+      name: Goblin_Spearman_Death_1
       rect:
         serializedVersion: 2
-        x: 161
-        y: 159
-        width: 22
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 160
+        width: 48
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7350c335bde27c250800000000000000
-      internalID: 5964787751004669239
+      spriteID: 969d6422eac98894a994185eb2edb9fe
+      internalID: -1251399974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_52
+      name: Goblin_Spearman_Death_2
       rect:
         serializedVersion: 2
-        x: 16
-        y: 109
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 96
+        y: 160
+        width: 48
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1047be8dab8a49d00800000000000000
-      internalID: 978592539502932993
+      spriteID: 9a7b5ec2822463643bc830e24a7060c0
+      internalID: 1585889670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_53
+      name: Goblin_Spearman_Death_3
       rect:
         serializedVersion: 2
-        x: 64
-        y: 109
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 144
+        y: 160
+        width: 48
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5a52d75acba0a7a60800000000000000
-      internalID: 7672456720525632933
+      spriteID: 7251d071f64e0f946afb345b15fa6338
+      internalID: 620471659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_54
+      name: Goblin_Spearman_Hurt_Down_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 61
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 110
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f0d547098088d38c0800000000000000
-      internalID: -4017905722179953393
+      spriteID: 6ca9b517b814b7142b8e956e14d85b74
+      internalID: 2129812837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_55
+      name: Goblin_Spearman_Hurt_Down_1
       rect:
         serializedVersion: 2
-        x: 65
-        y: 61
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 110
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 22eae28a4553d9f40800000000000000
-      internalID: 5736800138055036450
+      spriteID: 74e790424639fb143bd29ca822531912
+      internalID: 776969910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_56
+      name: Goblin_Spearman_Hurt_Side_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 13
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 62
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1c160a8678b7adc20800000000000000
-      internalID: 3232031504097894849
+      spriteID: 4ae02fef6e4466547874e1b8ebfca9b0
+      internalID: -1504487237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goblin_Spearman_57
+      name: Goblin_Spearman_Hurt_Side_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 13
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 62
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 058935339d0802ec0800000000000000
-      internalID: -3593730832284280752
+      spriteID: 89dac5703062b4047afb61c3a09008e8
+      internalID: 1969376849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Hurt_Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03693da4889dcd545b6a58338d939e73
+      internalID: -276571208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Spearman_Hurt_Up_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 14
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65641d7daa236b94fbbf914bd3aa2ebf
+      internalID: 1443435236
       vertices: []
       indices: 
       edges: []
@@ -1576,7 +1576,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6ba44e14b933cda4c91c0e71a9219b01
     internalID: 0
     vertices: []
     indices: 
@@ -1586,64 +1586,64 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Goblin_Spearman_0: 880007797975637150
-      Goblin_Spearman_1: 4775578336921579516
-      Goblin_Spearman_10: -1147406336347047197
-      Goblin_Spearman_11: 9045530021356315987
-      Goblin_Spearman_12: -6642108605813720628
-      Goblin_Spearman_13: 2229634943684973749
-      Goblin_Spearman_14: 5604433881990560983
-      Goblin_Spearman_15: 8831181989904640440
-      Goblin_Spearman_16: -2906300773952823803
-      Goblin_Spearman_17: 1253150080814963827
-      Goblin_Spearman_18: 138475899901125171
-      Goblin_Spearman_19: -6969580916387626959
-      Goblin_Spearman_2: 8192193870473504337
-      Goblin_Spearman_20: -3975369584256200764
-      Goblin_Spearman_21: 5108433630261055960
-      Goblin_Spearman_22: 4689681324015000179
-      Goblin_Spearman_23: 4953664140835365098
-      Goblin_Spearman_24: -2983858330476490111
-      Goblin_Spearman_25: -2524918000034310169
-      Goblin_Spearman_26: -4912229346006009983
-      Goblin_Spearman_27: -2155843667603068463
-      Goblin_Spearman_28: -4906960987183037429
-      Goblin_Spearman_29: 922721937443073130
-      Goblin_Spearman_3: 320261327912961448
-      Goblin_Spearman_30: 6599334765735341123
-      Goblin_Spearman_31: -8331036182846918831
-      Goblin_Spearman_32: -5896430905440864484
-      Goblin_Spearman_33: -65734199570670769
-      Goblin_Spearman_34: 4098784440442909862
-      Goblin_Spearman_35: -9063785287815794093
-      Goblin_Spearman_36: -2148463432145771582
-      Goblin_Spearman_37: -3229917192258246217
-      Goblin_Spearman_38: 3923039517137568513
-      Goblin_Spearman_39: 5687011279651688678
-      Goblin_Spearman_4: 9028356296981519767
-      Goblin_Spearman_40: -7089473094491106062
-      Goblin_Spearman_41: -5144717016120695911
-      Goblin_Spearman_42: -8067239472379044277
-      Goblin_Spearman_43: -1646050648916416893
-      Goblin_Spearman_44: -6740549428380964972
-      Goblin_Spearman_45: 341200289591122233
-      Goblin_Spearman_46: -1347484933799738299
-      Goblin_Spearman_47: 3088602793056434675
-      Goblin_Spearman_48: 3760797239073140646
-      Goblin_Spearman_49: 5477298445647193670
-      Goblin_Spearman_5: 9046493034958083342
-      Goblin_Spearman_50: -1363351952819594332
-      Goblin_Spearman_51: 5964787751004669239
-      Goblin_Spearman_52: 978592539502932993
-      Goblin_Spearman_53: 7672456720525632933
-      Goblin_Spearman_54: -4017905722179953393
-      Goblin_Spearman_55: 5736800138055036450
-      Goblin_Spearman_56: 3232031504097894849
-      Goblin_Spearman_57: -3593730832284280752
-      Goblin_Spearman_6: 3117553838729465221
-      Goblin_Spearman_7: -2475314297059794985
-      Goblin_Spearman_8: 4287121898578784037
-      Goblin_Spearman_9: -3798152491598079137
+      Goblin_Spearman_Attack_Down_0: -900074034
+      Goblin_Spearman_Attack_Down_1: 199074138
+      Goblin_Spearman_Attack_Down_2: -1603635677
+      Goblin_Spearman_Attack_Down_3: 2045693002
+      Goblin_Spearman_Attack_Down_4: 121321956
+      Goblin_Spearman_Attack_Down_5: 475631126
+      Goblin_Spearman_Attack_Side_0: -480493646
+      Goblin_Spearman_Attack_Side_1: -504272621
+      Goblin_Spearman_Attack_Side_2: 2084263479
+      Goblin_Spearman_Attack_Side_3: -596683411
+      Goblin_Spearman_Attack_Side_4: 16933338
+      Goblin_Spearman_Attack_Side_5: -641740136
+      Goblin_Spearman_Attack_Up_0: -1210365851
+      Goblin_Spearman_Attack_Up_1: -1283611667
+      Goblin_Spearman_Attack_Up_2: -683565252
+      Goblin_Spearman_Attack_Up_3: -46195999
+      Goblin_Spearman_Attack_Up_4: 2070512791
+      Goblin_Spearman_Attack_Up_5: -1354260615
+      Goblin_Spearman_Death_0: 1324512920
+      Goblin_Spearman_Death_1: -1251399974
+      Goblin_Spearman_Death_2: 1585889670
+      Goblin_Spearman_Death_3: 620471659
+      Goblin_Spearman_Hurt_Down_0: 2129812837
+      Goblin_Spearman_Hurt_Down_1: 776969910
+      Goblin_Spearman_Hurt_Side_0: -1504487237
+      Goblin_Spearman_Hurt_Side_1: 1969376849
+      Goblin_Spearman_Hurt_Up_0: -276571208
+      Goblin_Spearman_Hurt_Up_1: 1443435236
+      Goblin_Spearman_Idle_Down_0: 1243134780
+      Goblin_Spearman_Idle_Down_1: 568877974
+      Goblin_Spearman_Idle_Down_2: 737505451
+      Goblin_Spearman_Idle_Down_3: 354223518
+      Goblin_Spearman_Idle_Side_0: 1583747071
+      Goblin_Spearman_Idle_Side_1: 163882863
+      Goblin_Spearman_Idle_Side_2: 1103416591
+      Goblin_Spearman_Idle_Side_3: -373040408
+      Goblin_Spearman_Idle_Up_0: 500063906
+      Goblin_Spearman_Idle_Up_1: 1010900537
+      Goblin_Spearman_Idle_Up_2: 1519438649
+      Goblin_Spearman_Idle_Up_3: -1035848798
+      Goblin_Spearman_Run_Down_0: -393684575
+      Goblin_Spearman_Run_Down_1: -503748728
+      Goblin_Spearman_Run_Down_2: 1543412339
+      Goblin_Spearman_Run_Down_3: -974233736
+      Goblin_Spearman_Run_Down_4: -503551494
+      Goblin_Spearman_Run_Down_5: -1096893755
+      Goblin_Spearman_Run_Side_0: 47221486
+      Goblin_Spearman_Run_Side_1: -763412562
+      Goblin_Spearman_Run_Side_2: 1658645125
+      Goblin_Spearman_Run_Side_3: -2119632675
+      Goblin_Spearman_Run_Side_4: 2070511176
+      Goblin_Spearman_Run_Side_5: -1073187835
+      Goblin_Spearman_Run_Up_0: -1076994522
+      Goblin_Spearman_Run_Up_1: -1194297323
+      Goblin_Spearman_Run_Up_2: -811769395
+      Goblin_Spearman_Run_Up_3: 1947792002
+      Goblin_Spearman_Run_Up_4: -1671153950
+      Goblin_Spearman_Run_Up_5: 90891721
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
