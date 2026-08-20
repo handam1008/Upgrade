@@ -1,0 +1,116 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/GameModule/UI/PlayerHUD.uss" />
+
+    <ui:VisualElement name="hud-root" class="hud-root">
+
+        <!-- ===== TOP LEFT : HP / MP ===== -->
+        <ui:VisualElement name="vitals" class="vitals">
+
+            <ui:VisualElement name="hp-frame" class="frame frame--hp">
+                <ui:VisualElement name="hp-inner" class="frame__inner bar-row bar-row--hp">
+                    <ui:VisualElement name="hp-tag" class="bar-tag bar-tag--hp">
+                        <ui:Label text="HP" class="bar-tag__text bar-tag__text--hp" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="hp-track" class="bar-track bar-track--hp">
+                        <ui:VisualElement name="hp-fill" class="bar-fill bar-fill--hp">
+                            <ui:VisualElement class="bar-fill__gloss bar-fill__gloss--hp" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:VisualElement class="bar-value">
+                        <ui:Label name="hp-label" text="168/200" class="bar-value__text" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+
+            <ui:VisualElement name="mp-frame" class="frame frame--mp">
+                <ui:VisualElement name="mp-inner" class="frame__inner bar-row bar-row--mp">
+                    <ui:VisualElement name="mp-tag" class="bar-tag bar-tag--mp">
+                        <ui:Label text="MP" class="bar-tag__text bar-tag__text--mp" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="mp-track" class="bar-track bar-track--mp">
+                        <ui:VisualElement name="mp-fill" class="bar-fill bar-fill--mp">
+                            <ui:VisualElement class="bar-fill__gloss bar-fill__gloss--mp" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:VisualElement class="bar-value">
+                        <ui:Label name="mp-label" text="42/80" class="bar-value__text bar-value__text--dim" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+
+        <!-- ===== TOP RIGHT : MINIMAP ===== -->
+        <ui:VisualElement name="minimap" class="frame minimap">
+            <ui:VisualElement class="frame__inner minimap__inner">
+
+                <ui:VisualElement class="minimap__header">
+                    <ui:Label text="MINIMAP" class="minimap__title" />
+                    <ui:VisualElement class="key-cap key-cap--sm">
+                        <ui:Label text="F1" class="key-cap__text key-cap__text--sm" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+
+                <ui:VisualElement name="minimap-body" class="minimap__body">
+                    <!-- roads -->
+                    <ui:VisualElement class="mm-road mm-road--h" />
+                    <ui:VisualElement class="mm-road mm-road--v" />
+                    <ui:VisualElement class="mm-road mm-road--h-thin" />
+                    <!-- houses -->
+                    <ui:VisualElement class="mm-house mm-house--1" />
+                    <ui:VisualElement class="mm-house mm-house--2" />
+                    <ui:VisualElement class="mm-house mm-house--3" />
+                    <ui:VisualElement class="mm-house mm-house--4" />
+                    <ui:VisualElement class="mm-house mm-house--5" />
+                    <!-- market stalls -->
+                    <ui:VisualElement class="mm-stall mm-stall--1" />
+                    <ui:VisualElement class="mm-stall mm-stall--2" />
+                    <!-- river + bridge -->
+                    <ui:VisualElement class="mm-river" />
+                    <ui:VisualElement class="mm-bridge" />
+                    <!-- markers -->
+                    <ui:VisualElement name="mm-player" class="mm-player" />
+                    <ui:VisualElement class="mm-npc mm-npc--1" />
+                    <ui:VisualElement class="mm-npc mm-npc--2" />
+                    <ui:VisualElement class="mm-quest" />
+                </ui:VisualElement>
+
+                <ui:VisualElement class="minimap__footer">
+                    <ui:Label name="zone-label" text="모래꽃 마을" class="minimap__zone" />
+                    <ui:Label name="clock-label" text="08:24" class="minimap__clock" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+
+        <!-- ===== BOTTOM LEFT : PLAYER INFO BUTTON (C) ===== -->
+        <ui:Button name="info-button" class="info-button">
+            <ui:VisualElement class="info-button__slot">
+                <ui:VisualElement class="avatar">
+                    <ui:VisualElement class="avatar__head" />
+                    <ui:VisualElement class="avatar__body" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement class="key-cap key-cap--corner">
+                <ui:Label text="C" class="key-cap__text" />
+            </ui:VisualElement>
+        </ui:Button>
+
+        <!-- ===== BOTTOM BAR : EXP ===== -->
+        <ui:VisualElement name="bottom-bar" class="bottom-bar">
+            <ui:VisualElement class="bottom-bar__highlight" />
+            <ui:VisualElement class="exp-row">
+                <ui:VisualElement class="bar-tag bar-tag--exp">
+                    <ui:Label text="EXP" class="bar-tag__text bar-tag__text--exp" />
+                </ui:VisualElement>
+                <ui:VisualElement name="exp-track" class="bar-track bar-track--exp">
+                    <ui:VisualElement name="exp-fill" class="bar-fill bar-fill--exp">
+                        <ui:VisualElement class="bar-fill__gloss bar-fill__gloss--exp" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement class="exp-value">
+                    <ui:Label name="exp-label" text="Lv 12  64%" class="exp-value__text" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+
+    </ui:VisualElement>
+</ui:UXML>

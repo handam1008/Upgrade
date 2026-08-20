@@ -1,0 +1,322 @@
+/* ===========================================================
+   Pixel RPG HUD  —  UI Toolkit (USS)
+   Palette
+     wood        #4A352C   wood-light  #8A6A4A
+     ink         #241813   ink-soft    #2A1E1C
+     cream       #F4E4C8   cream-dim   #A88F6E   tan #D9B98C
+     hp          #D94F3D   hp-lo #7A2B25  hp-hi #F0917F
+     mp          #7B76B5   mp-lo #3F3A63  mp-hi #B3AEE0
+     exp         #8ED166   exp-lo #4A8F3A exp-hi #C4EDA8
+   =========================================================== */
+
+.hud-root {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    -unity-font-definition: url("project://database/Assets/_Graphics/Asset/PixelArtGUI/Fonts/VT323-Regular.ttf");
+    font-size: 12px;
+}
+
+/* ---------- shared wood frame ---------- */
+.frame {
+    background-color: #4A352C;
+    border-width: 4px;
+    border-color: #241813;
+    padding: 5px;
+}
+
+.frame__inner {
+    background-color: #2A1E1C;
+    border-width: 3px;
+    border-color: #8A6A4A;
+}
+
+/* ---------- vitals (top-left) ---------- */
+.vitals {
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    flex-direction: column;
+}
+
+.frame--hp {
+    width: 520px;
+    margin-bottom: 10px;
+}
+
+.frame--mp {
+    width: 520px;
+}
+
+.bar-row {
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+}
+
+.bar-row--hp { height: 42px; }
+.bar-row--mp { height: 36px; }
+
+.bar-tag {
+    width: 50px;
+    height: 100%;
+    border-width: 3px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+}
+
+.bar-tag--hp  { background-color: #7A2B25; border-color: #E8604F; }
+.bar-tag--mp  { background-color: #3F3A63; border-color: #8F8AC4; }
+.bar-tag--exp { background-color: #4A8F3A; border-color: #8ED166; width: 60px; height: 20px; margin-right: 10px; }
+
+.bar-tag__text          { font-size: 11px; }
+.bar-tag__text--hp      { color: #FFE6DD; }
+.bar-tag__text--mp      { color: #E2E0FF; }
+.bar-tag__text--exp     { color: #EAFFDC; font-size: 9px; }
+
+.bar-track {
+    flex-grow: 1;
+    height: 100%;
+    border-width: 3px;
+    border-color: #1A1210;
+    flex-direction: row;
+    align-items: stretch;
+    overflow: hidden;
+}
+
+.bar-track--hp  { background-color: #3A2220; }
+.bar-track--mp  { background-color: #2A2740; }
+.bar-track--exp { background-color: #1C2618; border-color: #4A352C; height: 20px; }
+
+/* width is driven from C#:  fill.style.width = Length.Percent(pct); */
+.bar-fill {
+    flex-direction: column;
+}
+
+.bar-fill--hp  { width: 84%; background-color: #D94F3D; }
+.bar-fill--mp  { width: 52%; background-color: #7B76B5; }
+.bar-fill--exp { width: 64%; background-color: #8ED166; }
+
+.bar-fill__gloss        { height: 7px; }
+.bar-fill__gloss--hp    { background-color: #F0917F; }
+.bar-fill__gloss--mp    { background-color: #B3AEE0; height: 6px; }
+.bar-fill__gloss--exp   { background-color: #C4EDA8; height: 5px; }
+
+.bar-value {
+    width: 112px;
+    height: 100%;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.bar-value__text        { color: #F4E4C8; font-size: 13px; }
+.bar-value__text--dim   { color: #CBBFA6; font-size: 12px; }
+
+/* ---------- minimap (top-right) ---------- */
+.minimap {
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    width: 316px;
+}
+
+.minimap__inner {
+    flex-direction: column;
+}
+
+.minimap__header {
+    height: 40px;
+    background-color: #8A6A4A;
+    border-bottom-width: 3px;
+    border-bottom-color: #241813;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.minimap__title { color: #2A1E1C; font-size: 12px; }
+
+.minimap__body {
+    height: 250px;
+    margin: 8px;
+    background-color: #8ED166;
+    border-width: 3px;
+    border-color: #241813;
+    overflow: hidden;
+}
+
+.minimap__footer {
+    height: 38px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-top-width: 3px;
+    border-top-color: #8A6A4A;
+}
+
+.minimap__zone  { color: #F4E4C8; font-size: 18px; }
+.minimap__clock { color: #A88F6E; font-size: 10px; }
+
+/* minimap tiles */
+.mm-road            { position: absolute; background-color: #D9B98C; }
+.mm-road--h         { left: 0; right: 0; top: 112px; height: 22px; }
+.mm-road--v         { left: 124px; top: 0; bottom: 0; width: 22px; }
+.mm-road--h-thin    { left: 0; right: 0; top: 34px; height: 10px; background-color: #C6A276; }
+
+.mm-house           { position: absolute; background-color: #D94F3D; }
+.mm-house--1        { left: 18px;  top: 12px;  width: 40px; height: 24px; }
+.mm-house--2        { left: 66px;  top: 12px;  width: 34px; height: 24px; }
+.mm-house--3        { left: 176px; top: 12px;  width: 46px; height: 24px; }
+.mm-house--4        { left: 24px;  top: 152px; width: 44px; height: 26px; }
+.mm-house--5        { left: 172px; top: 160px; width: 52px; height: 26px; }
+
+.mm-stall           { position: absolute; background-color: #F4E4C8; width: 46px; height: 12px; }
+.mm-stall--1        { left: 60px;  top: 92px; }
+.mm-stall--2        { left: 170px; top: 92px; }
+
+.mm-river           { position: absolute; right: 26px; top: 0; bottom: 0; width: 16px; background-color: #7FC4E0; }
+.mm-bridge          { position: absolute; right: 20px; top: 112px; width: 28px; height: 22px; background-color: #D9B98C; }
+
+.mm-player {
+    position: absolute;
+    left: 118px;
+    top: 106px;
+    width: 16px;
+    height: 16px;
+    background-color: #FFFFFF;
+    border-width: 4px;
+    border-color: #D94F3D;
+}
+
+.mm-npc             { position: absolute; width: 10px; height: 10px; background-color: #4A8F3A; }
+.mm-npc--1          { left: 44px;  top: 60px; }
+.mm-npc--2          { left: 214px; top: 130px; }
+
+.mm-quest {
+    position: absolute;
+    left: 92px;
+    top: 198px;
+    width: 12px;
+    height: 12px;
+    background-color: #F2C14A;
+    border-width: 3px;
+    border-color: #8A6A1E;
+}
+
+/* ---------- player info button (bottom-left) ---------- */
+.info-button {
+    position: absolute;
+    left: 40px;
+    bottom: 72px;
+    width: 62px;
+    height: 62px;
+    margin: 0;
+    padding: 3px;
+    background-color: #4A352C;
+    border-width: 3px;
+    border-color: #241813;
+    border-radius: 0;
+}
+
+.info-button:hover  { border-color: #D9B98C; }
+.info-button:active { background-color: #2A1E1C; }
+
+.info-button__slot {
+    flex-grow: 1;
+    background-color: #8A6A4A;
+    border-width: 3px;
+    border-color: #241813;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatar { flex-direction: column; align-items: center; }
+
+.avatar__head {
+    width: 12px;
+    height: 10px;
+    background-color: #F4E4C8;
+    border-width: 2px;
+    border-color: #241813;
+    margin-bottom: 2px;
+}
+
+.avatar__body {
+    width: 22px;
+    height: 12px;
+    background-color: #D94F3D;
+    border-width: 2px;
+    border-color: #241813;
+}
+
+/* ---------- key caps ---------- */
+.key-cap {
+    background-color: #241813;
+    border-width: 2px;
+    border-color: #D9B98C;
+    align-items: center;
+    justify-content: center;
+}
+
+.key-cap--corner {
+    position: absolute;
+    right: -6px;
+    bottom: -6px;
+    width: 22px;
+    height: 22px;
+}
+
+.key-cap--sm {
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-width: 0;
+}
+
+.key-cap__text      { color: #F4E4C8; font-size: 9px; }
+.key-cap__text--sm  { color: #D9B98C; font-size: 10px; }
+
+/* ---------- bottom bar / EXP ---------- */
+.bottom-bar {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #4A352C;
+    border-top-width: 5px;
+    border-top-color: #241813;
+    flex-direction: column;
+}
+
+.bottom-bar__highlight {
+    height: 4px;
+    background-color: #8A6A4A;
+}
+
+.exp-row {
+    height: 36px;
+    background-color: #241813;
+    border-top-width: 4px;
+    border-top-color: #8A6A4A;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.exp-value {
+    width: 150px;
+    height: 20px;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.exp-value__text { color: #A88F6E; font-size: 10px; }

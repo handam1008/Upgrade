@@ -2,7 +2,6 @@
 using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
-using UnityEngine.Serialization;
 
 public class NextScene : MonoBehaviour
 {

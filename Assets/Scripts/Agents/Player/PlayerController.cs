@@ -3,7 +3,6 @@ using Agents.Player.FSM;
 using DevLib.FsmSystem.Runtime;
 using GameSystem;
 using UnityEngine;
-using UnityEngine.Rendering.VirtualTexturing;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : AbstractAgent

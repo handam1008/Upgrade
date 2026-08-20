@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using DevLib.FsmSystem.Runtime;
+﻿using DevLib.FsmSystem.Runtime;
 using UnityEngine;
 
 namespace Agents.Player.FSM

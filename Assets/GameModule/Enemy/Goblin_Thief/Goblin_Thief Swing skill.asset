@@ -21,6 +21,6 @@ MonoBehaviour:
   maxRange: 10
   defaultAnimation: {fileID: 11400000, guid: bc7abc9cca01bf9498a95f878853e745, type: 2}
   damageMultiplier: 1
-  baseSkillDamage: 50
+  baseSkillDamage: 2
   kbForce: 0
   cooldownTime: 2

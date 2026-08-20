@@ -1,7 +1,6 @@
 ﻿using System;
 using DevLib.ModuleSystem;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 namespace CombatSystem
 {

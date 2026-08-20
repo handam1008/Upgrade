@@ -1,5 +1,4 @@
-﻿using System;
-using Unity.Behavior;
+﻿using Unity.Behavior;
 using UnityEngine;
 
 namespace Agents.Enemies

@@ -18,7 +18,7 @@ MonoBehaviour:
   category: 0
   type: 0
   directionType: 1
-  maxRange: 1.5
+  maxRange: 3
   defaultAnimation: {fileID: 11400000, guid: bc7abc9cca01bf9498a95f878853e745, type: 2}
   damageMultiplier: 1
   baseSkillDamage: 3
