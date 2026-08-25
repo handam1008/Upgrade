@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a42d57f0c2c4a978272f60e82a81da1, type: 3}
   m_Name: Goblin_Thief Data
   m_EditorClassIdentifier: Assembly-CSharp::Agents.Enemies.EnemyDataSO
-  <StopDistance>k__BackingField: 1.2
-  <DetectRadius>k__BackingField: 18
-  <AttackRange>k__BackingField: 10
-  <SignalLostRange>k__BackingField: 20
+  <StopDistance>k__BackingField: 4.9
+  <DetectRadius>k__BackingField: 6
+  <AttackRange>k__BackingField: 5
+  <SignalLostRange>k__BackingField: 100

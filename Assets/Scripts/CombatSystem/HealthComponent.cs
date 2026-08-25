@@ -4,12 +4,12 @@ using UnityEngine;
 
 namespace CombatSystem
 {
-    public class HealthComponent : MonoModule
+    public class HealthComponent : MonoModule, IHealth
     {
         [field: SerializeField] public float MaxHealth { get; private set; } = 50f;
+        public event HealthChange OnHealthChange;
 
-        public delegate void HealthChange(float before, float current, float max);
-        public event HealthChange OnHealthChanged;
+
         public event Action OnDead;
         
         [SerializeField] private float currentHealth;
@@ -21,17 +21,19 @@ namespace CombatSystem
             {
                 float before = currentHealth;
                 currentHealth = Mathf.Clamp(value, 0f, MaxHealth);
-                if(!Mathf.Approximately(before, currentHealth))
-                    OnHealthChanged?.Invoke(before, currentHealth, MaxHealth);
+                if (!Mathf.Approximately(before, currentHealth))
+                {
+                    OnHealthChange?.Invoke(before, currentHealth, MaxHealth);
+                }
             }
         }
 
-        private void Start()
+        protected virtual void Start()
         {
             CurrentHealth = MaxHealth;
         }
 
-        public void TakeDamage(float damage)
+        public virtual void TakeDamage(float damage)
         {
             CurrentHealth -= damage;
             if(CurrentHealth <= 0)

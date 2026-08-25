@@ -56,8 +56,8 @@
     padding: 5px;
 }
 
-.bar-row--hp { height: 42px; }
-.bar-row--mp { height: 36px; }
+.bar-row--hp { height: 54px; }
+.bar-row--mp { height: 54px; }
 
 .bar-tag {
     width: 50px;
@@ -72,7 +72,7 @@
 .bar-tag--mp  { background-color: #3F3A63; border-color: #8F8AC4; }
 .bar-tag--exp { background-color: #4A8F3A; border-color: #8ED166; width: 60px; height: 20px; margin-right: 10px; }
 
-.bar-tag__text          { font-size: 11px; }
+.bar-tag__text          { font-size: 14px; }
 .bar-tag__text--hp      { color: #FFE6DD; }
 .bar-tag__text--mp      { color: #E2E0FF; }
 .bar-tag__text--exp     { color: #EAFFDC; font-size: 9px; }
@@ -100,9 +100,9 @@
 .bar-fill--mp  { width: 52%; background-color: #7B76B5; }
 .bar-fill--exp { width: 64%; background-color: #8ED166; }
 
-.bar-fill__gloss        { height: 7px; }
+.bar-fill__gloss        { height: 9px; }
 .bar-fill__gloss--hp    { background-color: #F0917F; }
-.bar-fill__gloss--mp    { background-color: #B3AEE0; height: 6px; }
+.bar-fill__gloss--mp    { background-color: #B3AEE0; }
 .bar-fill__gloss--exp   { background-color: #C4EDA8; height: 5px; }
 
 .bar-value {
@@ -112,103 +112,94 @@
     justify-content: center;
 }
 
-.bar-value__text        { color: #F4E4C8; font-size: 13px; }
-.bar-value__text--dim   { color: #CBBFA6; font-size: 12px; }
+/* 숫자를 바 위에 겹쳐 놓는다. track 전체를 덮고 가운데 정렬한다. */
+.bar-value-overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
 
-/* ---------- minimap (top-right) ---------- */
-.minimap {
+/* 채워진 곳과 빈 곳 어디에 걸쳐도 읽히도록 그림자를 깐다. */
+.bar-value-overlay .bar-value__text {
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.75);
+}
+
+.bar-value__text        { color: #F4E4C8; font-size: 18px; }
+.bar-value__text--dim   { color: #CBBFA6; }
+
+/* ---------- quest (top-right) ---------- */
+.quest {
     position: absolute;
     right: 40px;
     top: 40px;
-    width: 316px;
+    width: 395px;
 }
 
-.minimap__inner {
+.quest__inner {
     flex-direction: column;
 }
 
-.minimap__header {
-    height: 40px;
+.quest__header {
+    height: 50px;
     background-color: #8A6A4A;
     border-bottom-width: 3px;
     border-bottom-color: #241813;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
-    padding-left: 12px;
-    padding-right: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
-.minimap__title { color: #2A1E1C; font-size: 12px; }
+.quest__header-text { color: #2A1E1C; font-size: 18px; }
 
-.minimap__body {
-    height: 250px;
-    margin: 8px;
-    background-color: #8ED166;
-    border-width: 3px;
-    border-color: #241813;
-    overflow: hidden;
+.quest__body {
+    padding: 15px;
 }
 
-.minimap__footer {
-    height: 38px;
+/* Label 은 기본이 nowrap 이라 긴 문장이 넘친다. 줄바꿈을 켠다. */
+.quest__title {
+    color: #F4E4C8;
+    font-size: 22px;
+    margin-bottom: 8px;
+    white-space: normal;
+}
+
+.quest__desc {
+    color: #A88F6E;
+    font-size: 17px;
+    margin-bottom: 15px;
+    white-space: normal;
+}
+
+.quest__divider {
+    height: 3px;
+    background-color: #8A6A4A;
+    margin-bottom: 13px;
+}
+
+.quest__reward-row {
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
-    padding-left: 12px;
-    padding-right: 12px;
-    border-top-width: 3px;
-    border-top-color: #8A6A4A;
 }
 
-.minimap__zone  { color: #F4E4C8; font-size: 18px; }
-.minimap__clock { color: #A88F6E; font-size: 10px; }
-
-/* minimap tiles */
-.mm-road            { position: absolute; background-color: #D9B98C; }
-.mm-road--h         { left: 0; right: 0; top: 112px; height: 22px; }
-.mm-road--v         { left: 124px; top: 0; bottom: 0; width: 22px; }
-.mm-road--h-thin    { left: 0; right: 0; top: 34px; height: 10px; background-color: #C6A276; }
-
-.mm-house           { position: absolute; background-color: #D94F3D; }
-.mm-house--1        { left: 18px;  top: 12px;  width: 40px; height: 24px; }
-.mm-house--2        { left: 66px;  top: 12px;  width: 34px; height: 24px; }
-.mm-house--3        { left: 176px; top: 12px;  width: 46px; height: 24px; }
-.mm-house--4        { left: 24px;  top: 152px; width: 44px; height: 26px; }
-.mm-house--5        { left: 172px; top: 160px; width: 52px; height: 26px; }
-
-.mm-stall           { position: absolute; background-color: #F4E4C8; width: 46px; height: 12px; }
-.mm-stall--1        { left: 60px;  top: 92px; }
-.mm-stall--2        { left: 170px; top: 92px; }
-
-.mm-river           { position: absolute; right: 26px; top: 0; bottom: 0; width: 16px; background-color: #7FC4E0; }
-.mm-bridge          { position: absolute; right: 20px; top: 112px; width: 28px; height: 22px; background-color: #D9B98C; }
-
-.mm-player {
-    position: absolute;
-    left: 118px;
-    top: 106px;
-    width: 16px;
-    height: 16px;
-    background-color: #FFFFFF;
-    border-width: 4px;
-    border-color: #D94F3D;
+.quest__reward-tag {
+    color: #8A6A4A;
+    font-size: 15px;
+    margin-right: 10px;
 }
 
-.mm-npc             { position: absolute; width: 10px; height: 10px; background-color: #4A8F3A; }
-.mm-npc--1          { left: 44px;  top: 60px; }
-.mm-npc--2          { left: 214px; top: 130px; }
-
-.mm-quest {
-    position: absolute;
-    left: 92px;
-    top: 198px;
-    width: 12px;
-    height: 12px;
-    background-color: #F2C14A;
-    border-width: 3px;
-    border-color: #8A6A1E;
+.quest__reward {
+    color: #8ED166;
+    font-size: 18px;
+    white-space: normal;
+    flex-shrink: 1;
 }
+
 
 /* ---------- player info button (bottom-left) ---------- */
 .info-button {

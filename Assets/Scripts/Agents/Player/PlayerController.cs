@@ -2,6 +2,7 @@
 using Agents.Player.FSM;
 using DevLib.FsmSystem.Runtime;
 using GameSystem;
+using Unity.Cinemachine;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
@@ -9,8 +10,10 @@ public class PlayerController : AbstractAgent
 {
    [field:SerializeField] public PlayerInputSO playerInput { get; private set; }
    [SerializeField] private StateListSO playerStateList;
+   [SerializeField] private float shakeForce = 0.5f;
+   
    private StateMachine _stateMachine;
-
+   private CinemachineImpulseSource _impulseSource;
 
    protected override void InitializeModules()
    {
@@ -22,6 +25,8 @@ public class PlayerController : AbstractAgent
 
       playerInput.SetEnable();
       _stateMachine = new StateMachine(gameObject, playerStateList.states);
+      
+      _impulseSource = GetComponent<CinemachineImpulseSource>();
 
    }
 
@@ -36,6 +41,9 @@ public class PlayerController : AbstractAgent
    {
       base.HandleHit();
       if (IsDead) return;
+      
+      _impulseSource.GenerateImpulseWithVelocity(ActionData.HitNormal * shakeForce);
+         
       ChangeState(PlayerState.HIT);
    }
 
