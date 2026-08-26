@@ -8,6 +8,8 @@ namespace Agents.Player.FSM
 
         private float hitTime = 0.5f;
         private float time;
+        
+        public override bool IsInvulnerable => true;
         public PlayerHitState(GameObject owner, StateSO stateData) : base(owner, stateData)
         {
         }

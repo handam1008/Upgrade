@@ -1,0 +1,71 @@
+/* ---------- 무한의 탑 층수 표시 (상단 중앙) ---------- */
+.tower-root {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    align-items: center;
+    justify-content: flex-start;
+    -unity-font-definition: url("project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf");
+}
+
+.tower-frame {
+    margin-top: 28px;
+    min-width: 220px;
+    background-color: #4A352C;
+    border-width: 4px;
+    border-color: #241813;
+    padding: 5px;
+}
+
+.tower-frame__inner {
+    background-color: #2A1E1C;
+    border-width: 3px;
+    border-color: #8A6A4A;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+.tower-title {
+    color: #A88F6E;
+    font-size: 14px;
+    margin-bottom: 4px;
+    -unity-text-align: middle-center;
+}
+
+.tower-floor {
+    color: #F4E4C8;
+    font-size: 30px;
+    -unity-text-align: middle-center;
+    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.6);
+}
+
+.tower-divider {
+    height: 2px;
+    background-color: #8A6A4A;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    align-self: stretch;
+}
+
+.tower-enemy-row {
+    flex-direction: row;
+    align-items: center;
+}
+
+.tower-enemy-tag {
+    color: #8A6A4A;
+    font-size: 13px;
+    margin-right: 8px;
+    -unity-text-align: middle-left;
+}
+
+.tower-enemy-count {
+    color: #D94F3D;
+    font-size: 18px;
+    -unity-text-align: middle-left;
+}

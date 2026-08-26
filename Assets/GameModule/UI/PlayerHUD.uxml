@@ -1,6 +1,6 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <Style src="project://database/Assets/GameModule/UI/PlayerHUD.uss?fileID=7433441132597879392&amp;guid=162a4aa3945d110409dd16d44a832782&amp;type=3#PlayerHUD"/>
-    <ui:VisualElement name="hud-root" data-source="project://database/Assets/GameModule/UI/Player%20helath%20model.asset?fileID=11400000&amp;guid=94a215a67b38d66468d22d0190e17e40&amp;type=2#Player helath model" class="hud-root" style="top: -4px; bottom: 5px; right: 0; left: 1px;">
+    <Style src="project://database/Assets/GameModule/UI/PlayerHUD.uss?fileID=7433441132597879392&amp;guid=162a4aa3945d110409dd16d44a832782&amp;type=3"/>
+    <ui:VisualElement name="hud-root" data-source="project://database/Assets/GameModule/UI/Quest%20View%20Model.asset?fileID=11400000&amp;guid=f5aaf16ab7544b048bae7de1a0fc8fd4&amp;type=2#Quest View Model" class="hud-root" style="top: -4px; bottom: 5px; right: 1px; left: 1px;">
         <ui:VisualElement name="vitals" class="vitals">
             <ui:VisualElement name="hp-frame" class="frame frame--hp">
                 <ui:VisualElement name="hp-inner" class="frame__inner bar-row bar-row--hp">
@@ -50,16 +50,28 @@
         </ui:VisualElement>
         <ui:VisualElement name="quest" class="frame quest">
             <ui:VisualElement class="frame__inner quest__inner">
-                <ui:VisualElement class="quest__header">
+                <ui:VisualElement name="VisualElement" class="quest__header">
                     <ui:Label text="퀘스트" class="quest__header-text" style="-unity-font-definition: url(&quot;project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf?fileID=12800000&amp;guid=f94e069fdf8f74849b6927621444c535&amp;type=3#x10y12pxDenkiChipHangul&quot;);"/>
                 </ui:VisualElement>
                 <ui:VisualElement class="quest__body">
-                    <ui:Label name="quest-title" text="고블린 소탕" class="quest__title" style="-unity-font-definition: url(&quot;project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf?fileID=12800000&amp;guid=f94e069fdf8f74849b6927621444c535&amp;type=3#x10y12pxDenkiChipHangul&quot;);"/>
-                    <ui:Label name="quest-desc" text="마을 근처를 떠도는 고블린을 처치하세요." class="quest__desc" style="-unity-font-definition: url(&quot;project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf?fileID=12800000&amp;guid=f94e069fdf8f74849b6927621444c535&amp;type=3#x10y12pxDenkiChipHangul&quot;);"/>
+                    <ui:Label name="quest-title" text="고블린 소탕" class="quest__title" style="-unity-font-definition: url(&quot;project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf?fileID=12800000&amp;guid=f94e069fdf8f74849b6927621444c535&amp;type=3#x10y12pxDenkiChipHangul&quot;);">
+                        <Bindings>
+                            <ui:DataBinding property="text" data-source-path="questTitle" binding-mode="ToTarget"/>
+                        </Bindings>
+                    </ui:Label>
+                    <ui:Label name="quest-desc" text="마을 근처를 떠도는 고블린을 처치하세요." class="quest__desc" style="-unity-font-definition: url(&quot;project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf?fileID=12800000&amp;guid=f94e069fdf8f74849b6927621444c535&amp;type=3#x10y12pxDenkiChipHangul&quot;);">
+                        <Bindings>
+                            <ui:DataBinding property="text" data-source-path="questDescription" binding-mode="ToTarget"/>
+                        </Bindings>
+                    </ui:Label>
                     <ui:VisualElement class="quest__divider"/>
                     <ui:VisualElement class="quest__reward-row">
                         <ui:Label text="보상" class="quest__reward-tag" style="-unity-font-definition: url(&quot;project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf?fileID=12800000&amp;guid=f94e069fdf8f74849b6927621444c535&amp;type=3#x10y12pxDenkiChipHangul&quot;);"/>
-                        <ui:Label name="quest-reward" text="골드 120" class="quest__reward" style="-unity-font-definition: url(&quot;project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf?fileID=12800000&amp;guid=f94e069fdf8f74849b6927621444c535&amp;type=3#x10y12pxDenkiChipHangul&quot;);"/>
+                        <ui:Label name="quest-reward" text="골드 120" class="quest__reward" style="-unity-font-definition: url(&quot;project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf?fileID=12800000&amp;guid=f94e069fdf8f74849b6927621444c535&amp;type=3#x10y12pxDenkiChipHangul&quot;);">
+                            <Bindings>
+                                <ui:DataBinding property="text" data-source-path="reward" binding-mode="ToTarget"/>
+                            </Bindings>
+                        </ui:Label>
                     </ui:VisualElement>
                 </ui:VisualElement>
             </ui:VisualElement>

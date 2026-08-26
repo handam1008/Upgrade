@@ -32,11 +32,8 @@ namespace Agents.Player.Skills
         public override void UseSkill(GameObject target = null)
         {
             base.UseSkill(target);
-
-            //바라보는 방향으로 돌진한다. 방향이 없으면 아래쪽을 기본으로.
+            
             Vector2 dir = _renderer.FacingDirection;
-            if (dir.sqrMagnitude < 0.01f)
-                dir = Vector2.down;
 
             _baseSpeed = _mover.MoveSpeed;
             _endTime = Time.time + dashDuration;

@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/GameModule/UI/TowerHUD.uss"/>
+    <ui:VisualElement name="tower-root" class="tower-root" picking-mode="Ignore">
+        <ui:VisualElement name="tower-frame" class="tower-frame" picking-mode="Ignore">
+            <ui:VisualElement name="tower-inner" class="tower-frame__inner" picking-mode="Ignore">
+                <ui:Label text="무한의 탑" class="tower-title" picking-mode="Ignore"/>
+                <ui:Label name="floor-label" text="1층" class="tower-floor" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower-divider" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower-enemy-row" picking-mode="Ignore">
+                    <ui:Label text="남은 적" class="tower-enemy-tag" picking-mode="Ignore"/>
+                    <ui:Label name="enemy-count" text="3 / 8" class="tower-enemy-count" picking-mode="Ignore"/>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,4 +1,6 @@
+﻿#if UNITY_EDITOR
 using UnityEditor;
+#endif
 using UnityEngine;
 using UnityEngine.UIElements;
 
@@ -34,7 +36,9 @@ namespace GameModule.UI
         }
         
         
+#if UNITY_EDITOR
         [InitializeOnLoadMethod]
+#endif
         [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
         public static void RegisterConverters()
         {

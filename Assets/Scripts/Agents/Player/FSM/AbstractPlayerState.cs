@@ -8,6 +8,7 @@ namespace Agents.Player.FSM
         protected PlayerController _player;
         
         protected const float MOVE_THRESHOLD = 0.01f;
+        public virtual bool IsInvulnerable => false;
         
         protected AbstractPlayerState(GameObject owner, StateSO stateData) : base(owner, stateData)
         {
