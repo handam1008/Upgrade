@@ -22,5 +22,5 @@ MonoBehaviour:
   defaultAnimation: {fileID: 11400000, guid: bc7abc9cca01bf9498a95f878853e745, type: 2}
   damageMultiplier: 1
   baseSkillDamage: 3
-  kbForce: 0
+  kbForce: 3
   cooldownTime: 0

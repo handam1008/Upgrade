@@ -1,6 +1,6 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <Style src="project://database/Assets/GameModule/UI/PlayerHUD.uss?fileID=7433441132597879392&amp;guid=162a4aa3945d110409dd16d44a832782&amp;type=3"/>
-    <ui:VisualElement name="hud-root" data-source="project://database/Assets/GameModule/UI/Quest%20View%20Model.asset?fileID=11400000&amp;guid=f5aaf16ab7544b048bae7de1a0fc8fd4&amp;type=2#Quest View Model" class="hud-root" style="top: -4px; bottom: 5px; right: 1px; left: 1px;">
+    <Style src="project://database/Assets/GameModule/UI/PlayerHUD.uss?fileID=7433441132597879392&amp;guid=162a4aa3945d110409dd16d44a832782&amp;type=3#PlayerHUD"/>
+    <ui:VisualElement name="hud-root" class="hud-root" style="top: -4px; bottom: 5px; right: 1px; left: 1px;">
         <ui:VisualElement name="vitals" class="vitals">
             <ui:VisualElement name="hp-frame" class="frame frame--hp">
                 <ui:VisualElement name="hp-inner" class="frame__inner bar-row bar-row--hp">
@@ -48,7 +48,7 @@
                 </ui:VisualElement>
             </ui:VisualElement>
         </ui:VisualElement>
-        <ui:VisualElement name="quest" class="frame quest">
+        <ui:VisualElement name="quest" data-source="project://database/Assets/GameModule/UI/Quest%20View%20Model.asset?fileID=11400000&amp;guid=f5aaf16ab7544b048bae7de1a0fc8fd4&amp;type=2#Quest View Model" class="frame quest">
             <ui:VisualElement class="frame__inner quest__inner">
                 <ui:VisualElement name="VisualElement" class="quest__header">
                     <ui:Label text="퀘스트" class="quest__header-text" style="-unity-font-definition: url(&quot;project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf?fileID=12800000&amp;guid=f94e069fdf8f74849b6927621444c535&amp;type=3#x10y12pxDenkiChipHangul&quot;);"/>
@@ -94,7 +94,7 @@
                     <ui:Label text="EXP" class="bar-tag__text bar-tag__text--exp" style="-unity-font-definition: url(&quot;project://database/Assets/Font/x10y12pxDenkiChipHangul.ttf?fileID=12800000&amp;guid=f94e069fdf8f74849b6927621444c535&amp;type=3#x10y12pxDenkiChipHangul&quot;); -unity-text-align: middle-left;"/>
                 </ui:VisualElement>
                 <ui:VisualElement name="exp-track" class="bar-track bar-track--exp">
-                    <ui:VisualElement name="exp-fill" class="bar-fill bar-fill--exp">
+                    <ui:VisualElement name="exp-fill" class="bar-fill bar-fill--exp" style="width: 0%;">
                         <ui:VisualElement class="bar-fill__gloss bar-fill__gloss--exp"/>
                     </ui:VisualElement>
                 </ui:VisualElement>

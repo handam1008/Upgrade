@@ -56,6 +56,12 @@ namespace Agents
             IsDead = true;
         }
 
+        public virtual void Revive()
+        {
+            IsDead = false;
+            Health.CurrentHealth = Health.MaxHealth;
+        }
+
    
         public void ApplyDamage(DamageData damageData, Vector2 hitPoint, Vector2 hitDirection, Vector2 hitNormal)
         {

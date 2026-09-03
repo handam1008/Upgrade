@@ -1,0 +1,108 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/GameModule/UI/MainMenu.uss"/>
+    <ui:VisualElement name="menu-root" class="menu-root">
+
+        <ui:VisualElement name="bg" class="bg" picking-mode="Ignore">
+            <ui:VisualElement class="streak streak--a" picking-mode="Ignore"/>
+            <ui:VisualElement class="streak streak--b" picking-mode="Ignore"/>
+
+            <ui:VisualElement class="glow glow--outer" picking-mode="Ignore"/>
+            <ui:VisualElement class="glow glow--mid" picking-mode="Ignore"/>
+            <ui:VisualElement class="glow glow--core" picking-mode="Ignore"/>
+
+            <ui:VisualElement name="tower" class="tower" picking-mode="Ignore">
+                <ui:VisualElement class="tower__flag" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower__beacon" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower__spire" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower__cap" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower__turret" picking-mode="Ignore">
+                    <ui:VisualElement class="tower__win tower__win--sm" picking-mode="Ignore"/>
+                </ui:VisualElement>
+                <ui:VisualElement class="tower__roof" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower__seg" picking-mode="Ignore">
+                    <ui:VisualElement class="tower__win" picking-mode="Ignore"/>
+                </ui:VisualElement>
+                <ui:VisualElement class="tower__band" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower__seg" picking-mode="Ignore">
+                    <ui:VisualElement class="tower__win" picking-mode="Ignore"/>
+                </ui:VisualElement>
+                <ui:VisualElement class="tower__band" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower__seg" picking-mode="Ignore">
+                    <ui:VisualElement class="tower__win" picking-mode="Ignore"/>
+                </ui:VisualElement>
+                <ui:VisualElement class="tower__band" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower__seg" picking-mode="Ignore">
+                    <ui:VisualElement class="tower__win" picking-mode="Ignore"/>
+                </ui:VisualElement>
+                <ui:VisualElement class="tower__band" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower__seg" picking-mode="Ignore">
+                    <ui:VisualElement class="tower__win" picking-mode="Ignore"/>
+                </ui:VisualElement>
+                <ui:VisualElement class="tower__band" picking-mode="Ignore"/>
+                <ui:VisualElement class="tower__base" picking-mode="Ignore">
+                    <ui:VisualElement class="tower__door" picking-mode="Ignore"/>
+                </ui:VisualElement>
+            </ui:VisualElement>
+
+            <ui:VisualElement class="ember" style="left: 8%; top: 72%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember" style="left: 16%; top: 34%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember ember--big" style="left: 23%; top: 58%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember" style="left: 31%; top: 18%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember" style="left: 38%; top: 80%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember ember--big" style="left: 45%; top: 12%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember" style="left: 54%; top: 66%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember" style="left: 61%; top: 26%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember ember--big" style="left: 69%; top: 76%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember" style="left: 76%; top: 40%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember" style="left: 84%; top: 62%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember" style="left: 90%; top: 22%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember" style="left: 12%; top: 88%;" picking-mode="Ignore"/>
+            <ui:VisualElement class="ember" style="left: 95%; top: 84%;" picking-mode="Ignore"/>
+        </ui:VisualElement>
+
+        <ui:VisualElement name="vignette" class="vignette" picking-mode="Ignore"/>
+
+        <ui:VisualElement name="title-group" class="title-group" picking-mode="Ignore">
+            <ui:Label text="무한의 탑" name="title-sub" class="title-sub"/>
+            <ui:Label text="UPGRADE" name="title-main" class="title-main"/>
+            <ui:VisualElement class="title-line"/>
+        </ui:VisualElement>
+
+        <ui:VisualElement name="menu-buttons" class="menu-buttons">
+            <ui:Button name="start-button" text="게임 시작" class="menu-button menu-button--start"/>
+            <ui:Button name="tutorial-button" text="조작법" class="menu-button menu-button--tutorial"/>
+            <ui:Button name="quit-button" text="종료" class="menu-button menu-button--quit"/>
+        </ui:VisualElement>
+
+
+        <ui:VisualElement name="tutorial-panel" class="tutorial-panel">
+            <ui:VisualElement class="tutorial-frame">
+                <ui:VisualElement class="tutorial-inner">
+                    <ui:Label text="조작법" class="tutorial-title"/>
+                    <ui:Label text="게임을 시작하면 보이는 포탈에 다가가&#10;E 를 눌러 무한의 탑에 입장하세요" class="tutorial-guide"/>
+                    <ui:VisualElement class="tutorial-divider"/>
+                    <ui:VisualElement class="key-row">
+                    <ui:VisualElement class="key-item">
+                        <ui:VisualElement class="key-cap"><ui:Label text="WASD" class="key-cap__text"/></ui:VisualElement>
+                        <ui:Label text="이동" class="key-item__label"/>
+                    </ui:VisualElement>
+                    <ui:VisualElement class="key-item">
+                        <ui:VisualElement class="key-cap"><ui:Label text="좌클릭" class="key-cap__text"/></ui:VisualElement>
+                        <ui:Label text="공격" class="key-item__label"/>
+                    </ui:VisualElement>
+                    <ui:VisualElement class="key-item">
+                        <ui:VisualElement class="key-cap"><ui:Label text="Space" class="key-cap__text"/></ui:VisualElement>
+                        <ui:Label text="대쉬" class="key-item__label"/>
+                    </ui:VisualElement>
+                    <ui:VisualElement class="key-item">
+                        <ui:VisualElement class="key-cap"><ui:Label text="E" class="key-cap__text"/></ui:VisualElement>
+                        <ui:Label text="상호작용" class="key-item__label"/>
+                    </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:Button name="tutorial-close" text="닫기" class="menu-button menu-button--quit"/>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:Label text="v0.1" name="version-label" class="version-label" picking-mode="Ignore"/>
+    </ui:VisualElement>
+</ui:UXML>

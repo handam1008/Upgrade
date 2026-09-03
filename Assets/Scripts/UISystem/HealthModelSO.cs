@@ -1,10 +1,9 @@
-﻿#if UNITY_EDITOR
+﻿
 using UnityEditor;
-#endif
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace GameModule.UI
+namespace UISystem
 {
     [CreateAssetMenu(fileName = "Health View Model", menuName = "Agent/UI/Health View Model")]
     public class HealthModelSO : ScriptableObject
@@ -44,8 +43,6 @@ namespace GameModule.UI
         {
             var healthGroup = new ConverterGroup("Health bar converter group");
             healthGroup.AddConverter((ref float normalized) => new StyleColor(Color.Lerp(Color.red,Color.green,normalized)));
-            
-            
             
             ConverterGroups.RegisterConverterGroup(healthGroup);
             

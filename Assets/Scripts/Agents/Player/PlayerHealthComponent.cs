@@ -1,7 +1,8 @@
-﻿using CombatSystem;
+﻿using System;
+using CombatSystem;
 using DevLib.ModuleSystem;
 using DevLib.ServiceLocator;
-using GameModule.UI;
+using UISystem;
 using UnityEngine;
 
 namespace Agents.Player
@@ -17,6 +18,12 @@ namespace Agents.Player
             base.Initialize(owner);
             _runtimeModel = HealthModelSO.CreateInstanceFromOriginal(healthModel);
             ServiceLocator.Register(_runtimeModel);
+            OnHealthChange += HandleHealthChange;
+        }
+
+        private void HandleHealthChange(float before, float current, float max)
+        {
+            _runtimeModel.SetHealth(current, max);
         }
 
         protected override void Start()
@@ -25,10 +32,9 @@ namespace Agents.Player
             _runtimeModel.SetHealth(CurrentHealth, MaxHealth);
         }
 
-        public override void TakeDamage(float damage)
+        private void OnDestroy()
         {
-            base.TakeDamage(damage);
-            _runtimeModel.SetHealth(CurrentHealth, MaxHealth);
+            OnHealthChange -= HandleHealthChange;
         }
     }
 }

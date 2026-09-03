@@ -1,4 +1,3 @@
-using GameModule.UI;
 using UnityEngine;
 using UnityEngine.Serialization;
 

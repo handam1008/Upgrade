@@ -1,30 +1,19 @@
-﻿using System.Collections;
-using TMPro;
+﻿using TMPro;
 using UnityEngine;
 
 namespace Test32.FeedBack
 {
-    public class TextFeedBack: AbstractFeedBack12312
+    public class TextFeedBack : AbstractFeedBack12312
     {
         [SerializeField] private TextMeshPro _text;
+        [SerializeField] private float _lifeTime = 0.5f;
 
         public override void CreateFeedBack()
         {
-            TextMeshPro text = Instantiate(_text);
-            StartCoroutine(DeleteText(text));
-        }
+            if (_text == null) return;
 
-        public IEnumerator DeleteText(TextMeshPro text)
-        {
-            yield return new WaitForSeconds(0.5f);
-            Destroy(text.gameObject);
-        }
-
-
-
-        public override void StopFeedBack()
-        {
-            throw new System.NotImplementedException();
+            TextMeshPro text = Instantiate(_text, transform.position, Quaternion.identity);
+            Destroy(text.gameObject, _lifeTime);
         }
     }
 }

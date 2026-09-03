@@ -39,5 +39,11 @@ namespace CombatSystem
             if(CurrentHealth <= 0)
                 OnDead?.Invoke();
         }
+        
+        public void SetMaxHealth(float value)
+        {
+            MaxHealth = Mathf.Max(1f, value);
+            OnHealthChange?.Invoke(currentHealth, currentHealth, MaxHealth);
+        }
     }
 }

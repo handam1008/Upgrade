@@ -1,23 +1,20 @@
-﻿using Unity.VisualScripting;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace Test32.FeedBack
 {
-    public class ParticleFeedBack: AbstractFeedBack12312
+    public class ParticleFeedBack : AbstractFeedBack12312
     {
         [SerializeField] private GameObject _particlePrefab;
+        [SerializeField] private float _lifeTime = 2f;
+
         public override void CreateFeedBack()
         {
-            GameObject go = Instantiate(_particlePrefab);
-            ParticleSystem  ps = go.GetComponent<ParticleSystem>();
-            ps.Play();
-        }
+            if (_particlePrefab == null) return;
 
-        public override void StopFeedBack()
-        {
-            throw new System.NotImplementedException();
-        }
+            GameObject go = Instantiate(_particlePrefab, transform.position, Quaternion.identity);
+            if (go.TryGetComponent(out ParticleSystem ps)) ps.Play();
 
-        
+            Destroy(go, _lifeTime);
+        }
     }
 }

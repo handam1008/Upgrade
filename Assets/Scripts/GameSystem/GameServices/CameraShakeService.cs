@@ -32,7 +32,7 @@ namespace GameSystem.GameServices
 
         private void OnDestroy()
         {
-            ServiceLocator.UnRegister<ICameraShakeService>(this);
+            ServiceLocator.UnRegister<ICameraShakeService>();
         }
 
         public void Shake(ShakeType type, Vector2 velocity)

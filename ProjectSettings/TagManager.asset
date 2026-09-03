@@ -8,14 +8,14 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Mover
   - Water
   - UI
   - Player
   - Enemy
   - Obstacle
   - Dead
-  - 
+  - 'Interactable          '
   - 
   - 
   - 

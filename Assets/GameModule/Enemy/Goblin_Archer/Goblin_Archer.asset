@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Goblin_Archer
   m_EditorClassIdentifier: Assembly-CSharp::Agents.Enemies.EnemyDataSO
   <StopDistance>k__BackingField: 10
-  <DetectRadius>k__BackingField: 18
+  <DetectRadius>k__BackingField: 22.3
   <AttackRange>k__BackingField: 10
   <SignalLostRange>k__BackingField: 100

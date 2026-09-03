@@ -1,5 +1,5 @@
 ﻿using DevLib.ServiceLocator;
-using GameModule.UI;
+using UISystem;
 using UnityEngine;
 using UnityEngine.UIElements;
 
@@ -10,7 +10,12 @@ namespace UI
     {
         private void Start()
         {
-            GetComponent<UIDocument>().rootVisualElement.dataSource = ServiceLocator.Get<HealthModelSO>();
+            VisualElement root = GetComponent<UIDocument>().rootVisualElement;
+            VisualElement vitals = root.Q<VisualElement>("vitals");
+
+            if (vitals == null) return;
+
+            vitals.dataSource = ServiceLocator.Get<HealthModelSO>();
         }
     }
 }

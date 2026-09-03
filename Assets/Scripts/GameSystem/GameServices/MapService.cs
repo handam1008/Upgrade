@@ -18,7 +18,7 @@ namespace GameSystem.GameServices
 
         private void OnDestroy()
         {
-            ServiceLocator.UnRegister<IMapService>(this);
+            ServiceLocator.UnRegister<IMapService>();
         }
 
         public Vector3 GetCellCenterToWorld(Vector3Int cellPosition)

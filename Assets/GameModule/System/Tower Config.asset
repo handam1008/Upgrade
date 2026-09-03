@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b43af6001caaf3840a4f32142d92b71c, type: 3}
+  m_Name: Tower Config
+  m_EditorClassIdentifier: Assembly-CSharp::GameSystem.Tower.TowerConfigSO
+  floors:
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 2
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 3
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 3
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 1
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 3
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 4
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 4
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 1
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 4
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 1
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 5
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 1
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 5
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 2
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 5
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 1
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 6
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 1
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 6
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 2
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 6
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 2
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 2
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 3
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 2
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 2
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 3
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 3
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 3
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 4
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 3
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 3
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 4
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 4
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 4
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 4
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 4
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 7
+    - prefab: {fileID: 7514293008352182539, guid: 53f02855e8c44b443b298c2fab516e32, type: 3}
+      count: 4
+  - enemies:
+    - prefab: {fileID: 279172499484861163, guid: e9fda6464193bc5449fde950a988af2f, type: 3}
+      count: 1
+  healthPerFloor: 0.08
+  spawnMinDistance: 8

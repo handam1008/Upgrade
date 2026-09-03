@@ -17,7 +17,6 @@ namespace Agents.Player.FSM
         public override void Enter()
         {
             base.Enter();
-            Debug.Log($"Current State : {GetType().Name}");
             _player.playerInput.OnAttackKeyPress += HandleAttackKey;
             _player.playerInput.OnSkillPerformed += HandleSkillkey;
             _player.playerInput.onDashKeyPress += HandleDashKey;

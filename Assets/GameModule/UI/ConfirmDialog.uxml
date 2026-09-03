@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/GameModule/UI/ConfirmDialog.uss"/>
+    <ui:VisualElement name="dialog-root" class="dialog-root">
+        <ui:VisualElement name="dialog-frame" class="dialog-frame">
+            <ui:VisualElement class="dialog-inner">
+                <ui:Label name="dialog-message" text="정말 하시겠습니까?" class="dialog-message"/>
+                <ui:VisualElement class="dialog-buttons">
+                    <ui:Button name="yes-button" text="예" class="dialog-button dialog-button--yes"/>
+                    <ui:Button name="no-button" text="아니오" class="dialog-button dialog-button--no"/>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

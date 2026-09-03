@@ -21,7 +21,7 @@ namespace DevLib.ServiceLocator
             Debug.Log($"[Service Loader] Register {typeof(T).Name} 등록됨 : {service.GetType().Name}");
         }
 
-        public static void UnRegister<T>(T service)
+        public static void UnRegister<T>()
         {
             _services.Remove(typeof(T));
             Debug.Log($"[Service Loader] UnRegister - {typeof(T).Name}");

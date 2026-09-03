@@ -18,18 +18,14 @@ namespace Agents.Enemies
             ColliderResults = new Collider2D[maxResults];
         }
 
-        /// <summary>
-        /// 범위 내 첫번째 감지된 타겟을 반환하는 매서드. 없다면 null 리턴
-        /// </summary>
+       
         public GameObject IsTargetInRadius(float radius)
         {
             int count = Physics2D.OverlapCircle(transform.position, radius, filter, ColliderResults);
             return count > 0 ? ColliderResults.First().gameObject : null;
         }
 
-        /// <summary>
-        /// 지정된 범위내에 있는 적들중 가장 가까운 적을 반환
-        /// </summary>
+       
         public GameObject GetClosestTarget(float radius)
         {
             int count = Physics2D.OverlapCircle(transform.position, radius, filter, ColliderResults);
@@ -53,17 +49,13 @@ namespace Agents.Enemies
             return closest;
         }
 
-        /// <summary>
-        /// 범위 내 모든 타겟을 감지하고 감지한 수를 반환한다.
-        /// </summary>
+        
         public int GetAllTargetsInRadius(float radius)
         {
             return Physics2D.OverlapCircle(transform.position, radius, filter, ColliderResults);
         }
 
-        /// <summary>
-        /// radius 내에서 가시 가능한 첫번째 타겟을 반환한다. 없으면 false;
-        /// </summary>
+      
         public bool TryDetectTarget(float radius, out GameObject target)
         {
             int count = GetAllTargetsInRadius(radius);
@@ -82,7 +74,7 @@ namespace Agents.Enemies
             return false;
         }
 
-        // 타겟까지 obstacle에 해당하는 장애물이 있는지 체크하는거
+        
         private bool IsTargetVisible(GameObject target)
         {
             if (target == null) return false;

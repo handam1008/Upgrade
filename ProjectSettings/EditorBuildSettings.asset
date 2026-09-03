@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/UpgradeScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/MainScene.unity
+    guid: a844aa6c71ea7c645a0b610965df81c1
   - enabled: 1
-    path: Assets/Scenes/FIghtScene.unity
-    guid: 96a7a679ba547c24c90354be07378e3f
+    path: Assets/Scenes/VillageScene.unity
+    guid: cbf5eccf53e8f1f4787776c1a8241c6b
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 99f9c9493070a9d4c979a8fec7c5a8d3, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

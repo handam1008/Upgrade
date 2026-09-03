@@ -1,12 +1,13 @@
 ﻿using Agents.Player.FSM;
 using DevLib.FsmSystem.Runtime;
+using DevLib.ServiceLocator;
 using GameSystem;
 using UnityEngine;
 
 namespace Agents.Player
 {
    [RequireComponent(typeof(Rigidbody2D))]
-   public class PlayerController : AbstractAgent
+   public class PlayerController : AbstractAgent, IPlayerRevivable
    {
       [field:SerializeField] public PlayerInputSO playerInput { get; private set; }
       [SerializeField] private StateListSO playerStateList;
@@ -22,10 +23,11 @@ namespace Agents.Player
 
          playerInput.SetEnable();
          _stateMachine = new StateMachine(gameObject, playerStateList.states);
+         ServiceLocator.Register<IPlayerRevivable>(this);
       
 
       }
-
+      
       private void Start()
       {
          ChangeState(PlayerState.IDLE);
@@ -51,8 +53,15 @@ namespace Agents.Player
       private void OnDestroy()
       {
          playerInput.SetDisable();
+         ServiceLocator.UnRegister<IPlayerRevivable>();
       }
-   
+
+      public override void Revive()
+      {
+         base.Revive();
+         ChangeState(PlayerState.IDLE);
+      }
+
 
       private void Update()
       {
